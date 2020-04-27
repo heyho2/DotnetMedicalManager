@@ -1,0 +1,4 @@
+﻿19:22:21 ERROR - userGuid:d9cceb7807694360a8a048d805ee464e   rulesType:Login   message:Sequence contains no elements
+19:27:34 ERROR - userGuid:d9cceb7807694360a8a048d805ee464e   rulesType:Login   message:Sequence contains no elements
+19:27:41 ERROR - 获取网页授权token和openid失败 https://api.weixin.qq.com/sns/oauth2/access_token?appid=wxa083ef693af4d8a5&secret=4bdab45c1f536c0f6aa9f5f02d18ff28&code=&grant_type=authorization_code：missing code, hints: [ req_id: njLbu7aLRa-o_.EtA ] 
+ at GD.Module.WeChat.WeChartApi+<Oauth2AccessTokenAsync>d__7.MoveNext:

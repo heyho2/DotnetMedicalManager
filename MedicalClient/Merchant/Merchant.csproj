@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>GD.Merchant</RootNamespace>
+    <PackageId>GD.Merchant</PackageId>
+    <Authors>ZhouHaiyan</Authors>
+    <Company>GuoDan</Company>
+    <Product>GuoDan Cloud</Product>
+    <PackageProjectUrl>http://api.guodan.com</PackageProjectUrl>
+    <Description>商户业务模块</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageReleaseNotes>商户业务模块</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GD.DataAccess" Version="1.0.1.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Models\Models.csproj" />
+    <ProjectReference Include="..\BizBase\BizBase.csproj" />
+    <ProjectReference Include="..\Dtos\Dtos.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,1176 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\API\\API.csproj": {}
+  },
+  "projects": {
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Component\\Component.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Component\\Component.csproj",
+        "projectName": "GD.Component",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Component\\Component.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Component\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Utility\\Utility.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Utility\\Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.DataAccess": {
+              "target": "Package",
+              "version": "[1.0.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\API\\API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\API\\API.csproj",
+        "projectName": "GD.API",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Component\\Component.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Component\\Component.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Consumer\\Consumer.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Consumer\\Consumer.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Doctor\\Doctor.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Doctor\\Doctor.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Expert\\Expert.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Expert\\Expert.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\FAQs\\FAQs.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\FAQs\\FAQs.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Fushion\\Fushion.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Fushion\\Fushion.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Mall\\Mall.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Mall\\Mall.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Manager\\Manager.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Manager\\Manager.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Meal\\Meal.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Meal\\Meal.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Merchant\\Merchant.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Merchant\\Merchant.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Module\\Module.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Module\\Module.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Report\\Report.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Report\\Report.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Utility\\Utility.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Utility\\Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "GD.Communication": {
+              "target": "Package",
+              "version": "[1.0.1.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Consumer\\Consumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Consumer\\Consumer.csproj",
+        "projectName": "GD.Consumer",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Consumer\\Consumer.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Consumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Component\\Component.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Component\\Component.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Utility\\Utility.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Utility\\Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.DataAccess": {
+              "target": "Package",
+              "version": "[1.0.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Doctor\\Doctor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Doctor\\Doctor.csproj",
+        "projectName": "GD.Doctor",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Doctor\\Doctor.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Doctor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Utility\\Utility.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Utility\\Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.DataAccess": {
+              "target": "Package",
+              "version": "[1.0.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj",
+        "projectName": "GD.Dtos",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.Common": {
+              "target": "Package",
+              "version": "[1.0.1.9, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Expert\\Expert.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Expert\\Expert.csproj",
+        "projectName": "GD.Expert",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Expert\\Expert.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Expert\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.DataAccess": {
+              "target": "Package",
+              "version": "[1.0.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\FAQs\\FAQs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\FAQs\\FAQs.csproj",
+        "projectName": "GD.FAQs",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\FAQs\\FAQs.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\FAQs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.DataAccess": {
+              "target": "Package",
+              "version": "[1.0.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Fushion\\Fushion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Fushion\\Fushion.csproj",
+        "projectName": "GD.Fushion",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Fushion\\Fushion.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Fushion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Mall\\Mall.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Mall\\Mall.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.DataAccess": {
+              "target": "Package",
+              "version": "[1.0.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Mall\\Mall.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Mall\\Mall.csproj",
+        "projectName": "GD.Mall",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Mall\\Mall.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Mall\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.DataAccess": {
+              "target": "Package",
+              "version": "[1.0.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Senparc.Weixin": {
+              "target": "Package",
+              "version": "[6.4.10, )"
+            },
+            "Senparc.Weixin.MP": {
+              "target": "Package",
+              "version": "[16.7.9, )"
+            },
+            "Senparc.Weixin.TenPay": {
+              "target": "Package",
+              "version": "[1.4.2.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Manager\\Manager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Manager\\Manager.csproj",
+        "projectName": "GD.Manager",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Manager\\Manager.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Manager\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.DataAccess": {
+              "target": "Package",
+              "version": "[1.0.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Meal\\Meal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Meal\\Meal.csproj",
+        "projectName": "Meal",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Meal\\Meal.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Meal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.DataAccess": {
+              "target": "Package",
+              "version": "[1.0.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Merchant\\Merchant.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Merchant\\Merchant.csproj",
+        "projectName": "GD.Merchant",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Merchant\\Merchant.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Merchant\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.DataAccess": {
+              "target": "Package",
+              "version": "[1.0.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Module\\Module.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Module\\Module.csproj",
+        "projectName": "GD.Module",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Module\\Module.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Module\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.DataAccess": {
+              "target": "Package",
+              "version": "[1.0.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Report\\Report.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Report\\Report.csproj",
+        "projectName": "Report",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Report\\Report.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Report\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\MedicalClient\\Dtos\\Dtos.csproj"
+              },
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.DataAccess": {
+              "target": "Package",
+              "version": "[1.0.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+      "version": "1.0.0.1",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj",
+        "projectName": "GD.Models",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.Common": {
+              "target": "Package",
+              "version": "[1.0.1.9, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Utility\\Utility.csproj": {
+      "version": "1.0.1.9",
+      "restore": {
+        "projectUniqueName": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Utility\\Utility.csproj",
+        "projectName": "GD.Utility",
+        "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Utility\\Utility.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://midweek/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj": {
+                "projectPath": "D:\\WorkProjects\\MultiServices\\trunk\\BackEnd\\Medical\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "GD.DataAccess": {
+              "target": "Package",
+              "version": "[1.0.1.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

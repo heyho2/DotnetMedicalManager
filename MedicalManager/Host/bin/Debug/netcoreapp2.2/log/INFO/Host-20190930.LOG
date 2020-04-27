@@ -1,0 +1,15 @@
+﻿17:37:51 INFO  - Executed action GD.API.Controllers.Utility.AccountController.LoginAdmin (API) in 630ms
+17:37:52 INFO  - Executed action GD.API.Controllers.System.UserController.GetLoginUserInfoAsync (API) in 512ms
+17:37:53 INFO  - Executed action GD.API.Controllers.System.HomeController.GetUserQtyAsync (API) in 58ms
+17:37:53 INFO  - Executed action GD.API.Controllers.System.HomeController.GetOrderQtyAsync (API) in 103ms
+17:37:53 INFO  - Executed action GD.API.Controllers.System.HomeController.GetDoctorsQtyAsync (API) in 82ms
+17:37:53 INFO  - Executed action GD.API.Controllers.System.HomeController.GetMerchantQtyAsync (API) in 93ms
+17:37:58 INFO  - Executed action GD.API.Controllers.Report.CommonReportController.GetReportListAsync (API) in 67ms
+17:38:07 INFO  - Executed action GD.API.Controllers.Report.CommonReportController.GetConditionListByIDAsync (API) in 23ms
+17:38:07 INFO  - Executed action GD.API.Controllers.Report.CommonReportController.GetOneReport (API) in 33ms
+17:38:07 INFO  - Executed action GD.API.Controllers.Report.CommonReportController.GetConditionListByIDAsync (API) in 34ms
+17:38:25 INFO  - Executed action GD.API.Controllers.System.UserController.GetLoginUserInfoAsync (API) in 125ms
+17:38:26 INFO  - Executed action GD.API.Controllers.Report.CommonReportController.GetReportListAsync (API) in 43ms
+17:38:31 INFO  - Executed action GD.API.Controllers.Report.CommonReportController.GetOneReport (API) in 25ms
+17:38:31 INFO  - Executed action GD.API.Controllers.Report.CommonReportController.GetConditionListByIDAsync (API) in 24ms
+17:38:31 INFO  - Executed action GD.API.Controllers.Report.CommonReportController.GetConditionListByIDAsync (API) in 19ms

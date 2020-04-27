@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GD.Dtos</id>
+    <version>1.0.0</version>
+    <authors>ZhouHaiyan</authors>
+    <owners>ZhouHaiyan</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>http://api.guodan.com/</projectUrl>
+    <description>数据传输对象</description>
+    <releaseNotes>数据传输对象</releaseNotes>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="GD.Models" version="1.0.0.1" exclude="Build,Analyzers" />
+        <dependency id="GD.Common" version="1.0.1.17" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\bin\Debug\netcoreapp2.2\Dtos.dll" target="lib\netcoreapp2.2\Dtos.dll" />
+    <file src="D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\bin\Debug\netcoreapp2.2\Dtos.xml" target="lib\netcoreapp2.2\Dtos.xml" />
+  </files>
+</package>

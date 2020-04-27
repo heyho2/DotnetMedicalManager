@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GD.Models</id>
+    <version>1.0.0.1</version>
+    <authors>ZhouHaiyan</authors>
+    <owners>ZhouHaiyan</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>http://api.guodan.com/</projectUrl>
+    <description>数据库实体模型</description>
+    <releaseNotes>数据库实体模型</releaseNotes>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="GD.Common" version="1.0.1.17" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netcoreapp2.2/Models.xml" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Models\bin\Debug\netcoreapp2.2\Models.dll" target="lib\netcoreapp2.2\Models.dll" />
+    <file src="D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Models\bin\Debug\netcoreapp2.2\Models.xml" target="lib\netcoreapp2.2\Models.xml" />
+    <file src="D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Models\Models.xml" target="content\Models.xml" />
+    <file src="D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Models\Models.xml" target="contentFiles\any\netcoreapp2.2\Models.xml" />
+  </files>
+</package>

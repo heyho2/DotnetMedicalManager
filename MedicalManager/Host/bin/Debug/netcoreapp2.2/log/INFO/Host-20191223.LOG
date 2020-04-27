@@ -1,0 +1,15 @@
+﻿15:29:31 INFO  - Executed action GD.API.Controllers.System.UserController.GetLoginUserInfoAsync (API) in 1623ms
+15:29:31 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnairePageListAsync (API) in 106ms
+15:29:33 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnaireInfoAsync (API) in 255ms
+16:57:18 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnairePageListAsync (API) in 606ms
+17:02:31 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnaireInfoAsync (API) in 2716ms
+17:02:39 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnaireInfoAsync (API) in 3877ms
+17:03:28 INFO  - Executed action GD.API.Controllers.System.UserController.GetLoginUserInfoAsync (API) in 452ms
+17:03:28 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnairePageListAsync (API) in 40ms
+17:03:31 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnaireInfoAsync (API) in 53ms
+17:03:33 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.ChangeQuestionSortAsync (API) in 45ms
+17:10:42 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.ChangeQuestionSortAsync (API) in 85ms
+17:10:46 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.ChangeQuestionSortAsync (API) in 112ms
+17:10:46 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnaireInfoAsync (API) in 60ms
+17:10:48 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.ChangeQuestionSortAsync (API) in 78ms
+17:10:48 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnaireInfoAsync (API) in 57ms

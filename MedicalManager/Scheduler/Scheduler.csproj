@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>GD.Scheduler</RootNamespace>
+    <PackageId>GD.Scheduler</PackageId>
+    <Authors>ZhouHaiyan</Authors>
+    <Product>GuoDan Cloud</Product>
+    <Company>GuoDan</Company>
+    <Description>定时任务</Description>
+    <PackageProjectUrl>http://api.guodan.com</PackageProjectUrl>
+    <PackageReleaseNotes>定时任务</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="MessageSaver.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="MessageSaver.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GD.AppSettings" Version="1.0.0.2" />
+    <PackageReference Include="GD.Common" Version="1.0.1.17" />
+    <PackageReference Include="TimedJob" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>

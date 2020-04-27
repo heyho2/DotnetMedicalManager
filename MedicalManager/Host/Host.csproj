@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <DockerTargetOS>Linux</DockerTargetOS>
+    <UserSecretsId>416a52c2-6496-4373-8506-c3c1e6ef0b9a</UserSecretsId>
+    <RootNamespace>GD.Host</RootNamespace>
+    <Authors>ZhouHaiyan</Authors>
+    <Product>GuoDan Cloud</Product>
+    <Company>GuoDan</Company>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>主机服务业务模块</Description>
+    <PackageId>GD.Host</PackageId>
+    <PackageReleaseNotes>主机服务业务模块</PackageReleaseNotes>
+    <Version>1.0.0</Version>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>http://api.guodan.com</PackageProjectUrl>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+    <OutputPath>$(OutDir)</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Update="Config\host.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Pages\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="GD.Launcher" Version="1.0.0.8" />
+    <PackageReference Include="GD.PAPI" Version="1.0.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\API\API.csproj" />
+    <ProjectReference Include="..\Scheduler\Scheduler.csproj" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties Config_4host_1json__JSONSchema="" /></VisualStudio></ProjectExtensions>
+
+</Project>

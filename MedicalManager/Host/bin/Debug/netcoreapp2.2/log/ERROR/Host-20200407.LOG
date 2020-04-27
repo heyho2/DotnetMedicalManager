@@ -1,0 +1,112 @@
+﻿18:19:12 ERROR - ::1
+18:19:12 ERROR - System.TypeInitializationException: The type initializer for 'GD.DataAccess.RedisHelper' threw an exception. ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Object configuration, TextWriter log) in C:\projects\stackexchange-redis\src\StackExchange.Redis\ConnectionMultiplexer.cs:line 955
+   at GD.DataAccess.RedisHelper..cctor()
+   --- End of inner exception stack trace ---
+   at GD.DataAccess.RedisHelper.get_Database()
+   at GD.Manager.WeChat.EnterpriseWeChatApi.GetEnterpriseAccessToken(String corpId, String corpSecret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\WeChat\EnterpriseWeChatApi.cs:line 32
+   at GD.API.Controllers.Utility.AccountController.GetEnterpriseWeChatUserInfo(String code, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 215
+   at GD.API.Controllers.Utility.AccountController.EnterpriseWeChatLoginAdmin(EnterpriseWeChatLoginAdminRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 179
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+18:19:21 ERROR - ::1
+18:19:21 ERROR - System.TypeInitializationException: The type initializer for 'GD.DataAccess.RedisHelper' threw an exception. ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Object configuration, TextWriter log) in C:\projects\stackexchange-redis\src\StackExchange.Redis\ConnectionMultiplexer.cs:line 955
+   at GD.DataAccess.RedisHelper..cctor()
+   --- End of inner exception stack trace ---
+   at GD.DataAccess.RedisHelper.get_Database()
+   at GD.Manager.WeChat.EnterpriseWeChatApi.GetEnterpriseAccessToken(String corpId, String corpSecret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\WeChat\EnterpriseWeChatApi.cs:line 32
+   at GD.API.Controllers.Utility.AccountController.GetEnterpriseWeChatUserInfo(String code, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 215
+   at GD.API.Controllers.Utility.AccountController.EnterpriseWeChatLoginAdmin(EnterpriseWeChatLoginAdminRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 179
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+18:19:49 ERROR - ::1
+18:19:49 ERROR - System.TypeInitializationException: The type initializer for 'GD.DataAccess.RedisHelper' threw an exception. ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Object configuration, TextWriter log) in C:\projects\stackexchange-redis\src\StackExchange.Redis\ConnectionMultiplexer.cs:line 955
+   at GD.DataAccess.RedisHelper..cctor()
+   --- End of inner exception stack trace ---
+   at GD.DataAccess.RedisHelper.get_Database()
+   at GD.Manager.WeChat.EnterpriseWeChatApi.GetEnterpriseAccessToken(String corpId, String corpSecret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\WeChat\EnterpriseWeChatApi.cs:line 32
+   at GD.API.Controllers.Utility.AccountController.GetEnterpriseWeChatUserInfo(String code, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 215
+   at GD.API.Controllers.Utility.AccountController.EnterpriseWeChatLoginAdmin(EnterpriseWeChatLoginAdminRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 179
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+18:25:33 ERROR - ::1
+18:25:33 ERROR - System.TypeInitializationException: The type initializer for 'GD.DataAccess.RedisHelper' threw an exception. ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Object configuration, TextWriter log) in C:\projects\stackexchange-redis\src\StackExchange.Redis\ConnectionMultiplexer.cs:line 955
+   at GD.DataAccess.RedisHelper..cctor()
+   --- End of inner exception stack trace ---
+   at GD.DataAccess.RedisHelper.get_Database()
+   at GD.Manager.WeChat.EnterpriseWeChatApi.GetEnterpriseAccessToken(String corpId, String corpSecret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\WeChat\EnterpriseWeChatApi.cs:line 32
+   at GD.API.Controllers.Utility.AccountController.GetEnterpriseWeChatUserInfo(String code, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 215
+   at GD.API.Controllers.Utility.AccountController.EnterpriseWeChatLoginAdmin(EnterpriseWeChatLoginAdminRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 179
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+18:25:34 ERROR - ::1
+18:25:34 ERROR - System.TypeInitializationException: The type initializer for 'GD.DataAccess.RedisHelper' threw an exception. ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Object configuration, TextWriter log) in C:\projects\stackexchange-redis\src\StackExchange.Redis\ConnectionMultiplexer.cs:line 955
+   at GD.DataAccess.RedisHelper..cctor()
+   --- End of inner exception stack trace ---
+   at GD.DataAccess.RedisHelper.get_Database()
+   at GD.Manager.WeChat.EnterpriseWeChatApi.GetEnterpriseAccessToken(String corpId, String corpSecret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\WeChat\EnterpriseWeChatApi.cs:line 32
+   at GD.API.Controllers.Utility.AccountController.GetEnterpriseWeChatUserInfo(String code, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 215
+   at GD.API.Controllers.Utility.AccountController.EnterpriseWeChatLoginAdmin(EnterpriseWeChatLoginAdminRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 179
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+18:28:13 ERROR - ::1
+18:28:13 ERROR - System.TypeInitializationException: The type initializer for 'GD.DataAccess.RedisHelper' threw an exception. ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Object configuration, TextWriter log) in C:\projects\stackexchange-redis\src\StackExchange.Redis\ConnectionMultiplexer.cs:line 955
+   at GD.DataAccess.RedisHelper..cctor()
+   --- End of inner exception stack trace ---
+   at GD.DataAccess.RedisHelper.get_Database()
+   at GD.Manager.WeChat.EnterpriseWeChatApi.GetEnterpriseAccessToken(String corpId, String corpSecret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\WeChat\EnterpriseWeChatApi.cs:line 32
+   at GD.API.Controllers.Utility.AccountController.GetEnterpriseWeChatUserInfo(String code, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 215
+   at GD.API.Controllers.Utility.AccountController.EnterpriseWeChatLoginAdmin(EnterpriseWeChatLoginAdminRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 179
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+18:28:14 ERROR - ::1
+18:28:14 ERROR - System.TypeInitializationException: The type initializer for 'GD.DataAccess.RedisHelper' threw an exception. ---> StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s). MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Object configuration, TextWriter log) in C:\projects\stackexchange-redis\src\StackExchange.Redis\ConnectionMultiplexer.cs:line 955
+   at GD.DataAccess.RedisHelper..cctor()
+   --- End of inner exception stack trace ---
+   at GD.DataAccess.RedisHelper.get_Database()
+   at GD.Manager.WeChat.EnterpriseWeChatApi.GetEnterpriseAccessToken(String corpId, String corpSecret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\WeChat\EnterpriseWeChatApi.cs:line 32
+   at GD.API.Controllers.Utility.AccountController.GetEnterpriseWeChatUserInfo(String code, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 215
+   at GD.API.Controllers.Utility.AccountController.EnterpriseWeChatLoginAdmin(EnterpriseWeChatLoginAdminRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\AccountController.cs:line 179
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()

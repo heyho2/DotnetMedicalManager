@@ -1,0 +1,149 @@
+﻿{
+  "AllowCors": [ "*" ],
+  "Dependencies": [ "Scheduler.dll", "PAPI.dll", "API.dll" ],
+  "ConnectionString": {
+    "MySql": "server=139.9.213.135;database=Guodan;uid=admin;pwd=ITpasswd123.;charset=utf8mb4;SslMode=none;",
+    "RabbitMQ": "host=139.9.213.135;username=admin;password=ITpasswd.",
+    "RabbitMQws": "ws://139.9.213.135:15674/ws",
+    "Redis": "139.9.213.135:6379,password=passwd"
+  },
+  "Debug": true, // 是否启用调试功能
+  "EMaySMS": {
+    "AppID": "EUCP-EMY-SMS1-4MQUZ",
+    "SecretKey": "419385884362B9E2",
+    "Sign": "希思美颜", // 短信签名
+    "URL": "http://mtn.b2m.cn/inter/sendBatchOnlySMS"
+  },
+  "Swagger": true, // 是否启用Swagger
+  "MaxTokenExpires": 999, // Token默认最大有效天数
+  "ServerUrls": "http://*:8080",
+  "TencentSMS": {
+    "AppID": 1400106085,
+    "AppKey": "1c8c11b643f87cd17caa80d90f77291c",
+    "Sign": "光华智慧云医", // 短信签名
+    "URL": "https://yun.tim.qq.com/v5/tlssmssvr/sendsms",
+    "VerificationTemplate": 295699 // 验证码短信模板ID
+  },
+  "CustomerService": {
+    "PlatformCustomerService": "0f0f08d27a9c47e993a7203719dbc039", //平台客服Id
+    "AskedDoctorOnlineCustomerService": "20f0b242575a4aa49f06d1aad2516034" //问医在线客服Id
+  },
+  "Upload": "http://f.gd-cloud.net/images",
+  "DoctorPresentSwitch": false, //医生IM账户出席定时器开关
+  "TokenKey": "^Goudan'CloudDoctor#",
+  "VerificationExpires": 1, // 验证码有效期分钟
+  "OrderDeadline": 1440, //待付款订单自动过期时间，单位分钟，1440
+  "APIDomain": "http://api.gd-cloud.net/api/v1/",
+  "HospitalPay": {
+    "Pay": "http://m.gd-cloud.net", //医院待缴费URL
+    "HospitalEvaluationUrl": "http://m.gd-cloud.net/medicalEvaluation", //医院扫码支付后满意度调查页面url
+    "SuccessPayTemplateMsgId": "ct6VaoYmnZ-bSxJN191gyTp2aMHaKf3KS839GiEd8q0" //支付成功通知模板消息Id
+  },
+  "WeChat": {
+    "MealClient": {
+      "AppId": "wx7533449dc14fce68", // 点餐客户端小程序AppId
+      "AppSecret": "27bdcd963617247668e763a91a9928d1" // 点餐客户端小程序秘钥
+    },
+    "Client": {
+      "AppId": "wxa083ef693af4d8a5", // 用户端AppId  wx805e49616e3c0451
+      "AppSecret": "4bdab45c1f536c0f6aa9f5f02d18ff28", // 用户端秘钥  03584b2a09e82ef7806c883a74677685
+      "Token": "guodan2019", //回调token
+      "CustomerServiceLink": "http://m.ghysjt.com/customer/?id=0f0f08d27a9c47e993a7203719dbc039", //云医客服链接
+      "AppointmentNotificationTemplate": "FvKs2fYirGajOl9Tn9ieBQELf5-P7yZssyeFuRHeHtg", //用户服务项目预约通知微信模板
+      "AppointmentCompletedNotificationTemplate": "GZB_ZF6Emg0TKutQD9mdQkyGoj4ThMvpkcUgwgmFk-c", //预约服务完成通知用户微信消息模板
+      "CertPath": "E:\\Cosmetology\\CodeNew\\trunk\\BackEnd\\Medical\\MedicalClient\\Host\\bin\\Debug\\netcoreapp2.2\\\\1531142351_20190722_cert\\\\apiclient_cert.p12", //支付证书路径
+      "CertSecret": "1531142351", //支付证书密码,一般默认为商户ID
+      "BizId": "MzI1NTkwODI1Ng==" //微信公众号数字id base64加密后的结果，用于跳转到关注公众号页面的参数
+    },
+    "DoctorClient": {
+      "AppId": "wx57305f659517b6e6", // 医生移动端微信公众号ID
+      "AppSecret": "2dfabc51e55c474b6a6a40ed8621e093", // 医生移动端微信公众号密钥
+      "DoctorOfflineMsgTemplate": "TZhgDKLs4klSmx1Fg2_49bBGuXUWPV4WI3fh0UhKepQ", //医生离线消息通知模板
+      "AppointmentNotificationTemplate": "y1arh0y8_MDQKbpBCUrFd9lIrkUpDUfL9MwCv-fXBpI" //服务人员服务项目预约通知微信模板
+    }
+  },
+  "FangDi": {
+    "Client": {
+      "AppID": "wx805e49616e3c0451",
+      "ChannelID": "2",
+      "OrgID": "GDJT",
+      "PayWay": "wechat",
+      "PayModel": "wechatpublic",
+      "URL": "http://139.159.194.37:9092/platformservice/payapi/" //http://139.159.194.37:9088/platformservice/payapi/
+    }
+  },
+  "SystemVersion": "1.8.1.0",
+  "XMPP": {
+    "domain": "msg.gd-cloud.net",
+    "enable": true, // 是否启用XMPP
+    "httpBind": "ws://msg.gd-cloud.net:7070/ws/",
+    "port": 5222,
+    "presence": "http://msg.gd-cloud.net:9090/plugins/presence/status", // 用户在线状态探测
+    "operationAccount": "admin",
+    "operationPassword": "ITpasswd."
+  },
+  "EnterpriseWeChat": {
+    "Appid": "ww2b3a557a5153e919", //企业微信Id
+    "Agentid": "1000011", ////医院业绩日报
+    "Secret": "1pAVaXJ9_9TXPEZuAgWBFMZ7ZUPwhI-GF55SHZpFLYQ",
+    "Mapping": [
+      {
+        "HosId": "dccd7e1186b74a7d82542be38a1fd5a3", //仁康医院Id
+        "DepartmentId": 18 //部门Id
+      },
+      {
+        "HosId": "008431d78ced4302ac3dadf5476e0029", //萝岗医院Id
+        "DepartmentId": 2
+      },
+      {
+        "HosId": "c902d9904f0a4e489ac2ff836f55a4ac", //雪象医院Id
+        "DepartmentId": 1 //部门Id
+      },
+      {
+        "HosId": "1b0be135393d4f31b8cac8c3702d4bbc", //健安医院Id
+        "DepartmentId": 429
+      },
+      {
+        "HosId": "bff63665dd9f4a2584de248d9e5545b3", //国丹中医院Id
+        "DepartmentId": 2
+      }
+    ],
+    "DoctorMobileAgentid": "1000014", //医生移动端
+    "DoctorMobileSecret": "1wLHb_3f-hhQUSspbYuABloiuE-OlqCBaN1ImgCUgPE",
+    "DoctorPCAgentid": "1000015", //医生PC端
+    "DoctorPCSecret": "ZNqAIaKGp7gplLhh6t_w7k7Q_O3Nhoen6lUBQsTxwvo",
+    "HealthManagerMobileAgentid": "1000018", //健康管理师移动端应用Id
+    "HealthManagerMobileSecret": "FlUmh6vbLR25pjsn6yWVP0TgZgnA5dsf4RuwfYRpeVU", //健康管理师移动端应用秘钥
+    "WarningUrl": "http://192.168.5.254:8080/#/pages/warning-info/warning-info?warningid="//预警跳转链接
+  }
+  //"XMPP": {
+  //  "domain": "msg.gd-doctor.com",
+  //  "enable": true, // 是否启用XMPP
+  //  "httpBind": "ws://msg.gd-doctor.com:7070/ws/",
+  //  "key": "QiKthnRlTisHqjtk",
+  //  "manage": "http://msg.gd-doctor.com:9090/plugins/restapi/v1/users",
+  //  "port": 5222,
+  //  "presence": "http://msg.gd-doctor.com:9090/plugins/presence/status", // 用户在线状态探测
+  //  "operationAccount": "midweek",
+  //  "operationPassword": "123456"
+  //}
+  //"XMPP": {
+  //  "domain": "www.gd-doctor.net",
+  //  "enable": true, // 是否启用XMPP
+  //  "httpBind": "ws://www.gd-doctor.net:7070/ws/",
+  //  "operationAccount": "hzl",
+  //  "operationPassword": "hzl",
+  //  "port": 5222,
+  //  "presence": "http://www.gd-doctor.net:9090/plugins/presence/status" // 用户在线状态探测
+  //}
+  //"XMPP": {
+  //  "domain": "192.168.0.10",
+  //  "enable": true, // 是否启用XMPP
+  //  "httpBind": "ws://192.168.0.10:7070/ws/",
+  //  "key": "WO3JddqKIFdyYgkV",
+  //  "operationAccount": "admin",
+  //  "operationPassword": "passwd",
+  //  "port": 5222,
+  //  "presence": "http://192.168.0.10:9090/plugins/presence/status" // 用户在线状态探测
+  //}
+}

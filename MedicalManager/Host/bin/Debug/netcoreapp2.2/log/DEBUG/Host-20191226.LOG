@@ -1,0 +1,6 @@
+﻿11:27:57 DEBUG - Trying to connect
+11:27:57 DEBUG - OnConnected event fired
+11:27:57 DEBUG - Persistent channel connected
+11:27:57 DEBUG - Declared queue health_eefa09b0bcb74a61b0c70fad5ced97b3: durable=True, exclusive=False, autoDelete=False, arguments=
+11:27:57 DEBUG - Published to exchange  with routingKey=health_eefa09b0bcb74a61b0c70fad5ced97b3 and correlationId=06642d82-44ec-4f47-b159-ab6eee6c40fb
+11:27:57 DEBUG - Persistent channel disconnected

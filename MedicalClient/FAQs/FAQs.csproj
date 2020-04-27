@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>GD.FAQs</RootNamespace>
+    <PackageId>GD.FAQs</PackageId>
+    <Company>GuoDan</Company>
+    <Product>GuoDan Cloud</Product>
+    <Authors>ZhouHaiyan</Authors>
+    <Description>问答模块业务逻辑</Description>
+    <PackageReleaseNotes>问答模块业务逻辑</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GD.DataAccess" Version="1.0.1.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Models\Models.csproj" />
+    <ProjectReference Include="..\BizBase\BizBase.csproj" />
+    <ProjectReference Include="..\Dtos\Dtos.csproj" />
+    <ProjectReference Include="..\Mall\Mall.csproj" />
+    <ProjectReference Include="..\Module\Module.csproj" />
+  </ItemGroup>
+
+</Project>

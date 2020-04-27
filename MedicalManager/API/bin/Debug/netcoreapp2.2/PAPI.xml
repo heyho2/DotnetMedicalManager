@@ -1,0 +1,406 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PAPI</name>
+    </assembly>
+    <members>
+        <member name="T:GD.Host.Controllers.AccountController">
+            <summary>
+            账号控制器，提供登录，用机验证码等功能
+            </summary>
+        </member>
+        <member name="F:GD.Host.Controllers.AccountController.VerificationExpires">
+            <summary>
+            手机验证码有效期分钟数
+            默认为1分钟
+            </summary>
+        </member>
+        <member name="F:GD.Host.Controllers.AccountController.enableXmpp">
+            <summary>
+            是否启用XMPP注册
+            </summary>
+        </member>
+        <member name="F:GD.Host.Controllers.AccountController.httpBind">
+            <summary>
+            提供给前端连接OpenFire服务器的连接
+            </summary>
+        </member>
+        <member name="F:GD.Host.Controllers.AccountController.domain">
+            <summary>
+            提供给前端连接OpenFire服务器的域名
+            </summary>
+        </member>
+        <member name="F:GD.Host.Controllers.AccountController.VerificationTemplate">
+            <summary>
+            验证码短信模板ID
+            </summary>
+        </member>
+        <member name="F:GD.Host.Controllers.AccountController.weChatAppId">
+            <summary>
+            微信公众号ID
+            </summary>
+        </member>
+        <member name="F:GD.Host.Controllers.AccountController.weChatSecret">
+            <summary>
+            微信公众号密钥
+            </summary>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.AccoutExists(System.String)">
+            <summary>
+            判断电话号码是否已经注册
+            </summary>
+            <param name="phone"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.Register(GD.Host.Dto.PhonePasswordCodeRequestDto)">
+            <summary>
+            用户注册
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.CreateVerificationCode(System.String)">
+            <summary>
+            生成手机验证码
+            </summary>
+            <param name="phone"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.VerifyCode(GD.Host.Dto.VerifyCodeRequestDto)">
+            <summary>
+            校验手机验证码有效性
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.Login(GD.Host.Dto.LoginRequestDto)">
+            <summary>
+            用户登录
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.UpdateOpenId(System.String)">
+            <summary>
+            根据微信授权码更新用户微信登录的 OpenId
+            </summary>
+            <param name="wxCode">微信授权码</param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.LoginAdmin(GD.Host.Dto.LoginAdminRequestDto)">
+            <summary>
+            登录管理后台
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.ResetPassword(GD.Host.Dto.PhonePasswordCodeRequestDto)">
+            <summary>
+            重置密码
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.UpdatePassword(System.String)">
+            <summary>
+            修改密码
+            </summary>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.UpdatePhone(GD.Host.Dto.VerifyCodeRequestDto)">
+            <summary>
+            修改电话号码
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.SSO">
+            <summary>
+            单点登录，验证Token有效性，供外部系统调用验证
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.Logout">
+            <summary>
+            用户登出
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.IMStatusAsync(System.String)">
+            <summary>
+            查询用户IM在线状态
+            </summary>
+            <param name="userId">用户IM账号</param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.GetOpenId(System.String)">
+            <summary>
+            根据微信授权码，获取用户微信OpenId
+            </summary>
+            <param name="wxCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.AccountController.RegisterIM(GD.Models.Utility.UserModel)">
+            <summary>
+            注册IM账号
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.Host.Controllers.CommonController">
+            <summary>
+            通用方法控制器
+            </summary>
+        </member>
+        <member name="M:GD.Host.Controllers.CommonController.MD5(System.String)">
+            <summary>
+            获取字符串MD5值
+            </summary>
+            <param name="text"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.CommonController.CreateGuid">
+            <summary>
+            生成一个GUID
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.CommonController.SystemTime">
+            <summary>
+            获取系统时间戳
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.CommonController.SendSM(GD.PAPI.Dto.SMSDto)">
+            <summary>
+            发送短信
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.Host.Controllers.LogController">
+            <summary>
+            系统日志控制器
+            </summary>
+        </member>
+        <member name="M:GD.Host.Controllers.LogController.GetInfo(System.String)">
+            <summary>
+            获取Info日志信息
+            </summary>
+            <param name="date">指令日期（缺省为系统当前日期），格式示例：2018-10-10</param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.LogController.GetDebug(System.String)">
+            <summary>
+            获取Debug日志信息
+            </summary>
+            <param name="date">指令日期（缺省为系统当前日期），格式示例：2018-10-10</param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.LogController.GetError(System.String)">
+            <summary>
+            获取Error日志信息
+            </summary>
+            <param name="date">指令日期（缺省为系统当前日期），格式示例：2018-10-10</param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.LogController.GetLog(System.String,System.Func{System.DateTime,System.String})">
+            <summary>
+            获取日志信息
+            </summary>
+            <param name="date"></param>
+            <param name="func"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.Host.Controllers.TestController">
+            <summary>
+            测试服务
+            </summary>
+        </member>
+        <member name="M:GD.Host.Controllers.TestController.Db">
+            <summary>
+            测试数据库服务
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.TestController.Xmpp">
+            <summary>
+            XMPP服务测试
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.Host.Controllers.TestController.Upload(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            上传文件
+            </summary>
+            <param name="fileData"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.Host.Dto.CreateVerificationCodeResponseDto">
+            <summary>
+            生成手机验证码Dto
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.CreateVerificationCodeResponseDto.Minutes">
+            <summary>
+            验证码有效期分钟数
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.CreateVerificationCodeResponseDto.Code">
+            <summary>
+            验证码，生产环境返回空
+            </summary>
+        </member>
+        <member name="T:GD.Host.Dto.LoginAdminRequestDto">
+            <summary>
+            登录请求参数
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.LoginAdminRequestDto.Account">
+            <summary>
+            管理员账号
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.LoginAdminRequestDto.Password">
+            <summary>
+            注册密码MD5值
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.LoginAdminRequestDto.Days">
+            <summary>
+            登录有效天数，默认为1。非正数则表示永不过期
+            </summary>
+        </member>
+        <member name="T:GD.Host.Dto.LoginRequestDto">
+            <summary>
+            登录请求参数
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.LoginRequestDto.Phone">
+            <summary>
+            手机号码
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.LoginRequestDto.Password">
+            <summary>
+            注册密码MD5值
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.LoginRequestDto.UserType">
+            <summary>
+            用户类型
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.LoginRequestDto.Days">
+            <summary>
+            登录有效天数，默认为1。非正数则表示永不过期
+            </summary>
+        </member>
+        <member name="T:GD.Host.Dto.LoginResponseDto">
+            <summary>
+            登录结果DTO
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.LoginResponseDto.Token">
+            <summary>
+            令牌
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.LoginResponseDto.UserId">
+            <summary>
+            用户ID
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.LoginResponseDto.NickName">
+            <summary>
+            昵称
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.LoginResponseDto.Xmpp">
+            <summary>
+            XMPP服务器
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.LoginResponseDto.Domain">
+            <summary>
+            XMPP服务器域名
+            </summary>
+        </member>
+        <member name="T:GD.Host.Dto.PhonePasswordCodeRequestDto">
+            <summary>
+            电话号码，密码，验证码
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.PhonePasswordCodeRequestDto.Phone">
+            <summary>
+            手机号码
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.PhonePasswordCodeRequestDto.Password">
+            <summary>
+            注册密码MD5值
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.PhonePasswordCodeRequestDto.Referrer">
+            <summary>
+            推荐人GUID
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.PhonePasswordCodeRequestDto.PlatformType">
+            <summary>
+            注册来源平台类型
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.PhonePasswordCodeRequestDto.Code">
+            <summary>
+            验证码
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.PhonePasswordCodeRequestDto.Parameters">
+            <summary>
+            扩展参数
+            </summary>
+        </member>
+        <member name="T:GD.Host.Dto.VerifyCodeRequestDto">
+            <summary>
+            验证验证码Dto
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.VerifyCodeRequestDto.Phone">
+            <summary>
+            手机号码
+            </summary>
+        </member>
+        <member name="P:GD.Host.Dto.VerifyCodeRequestDto.Code">
+            <summary>
+            验证码
+            </summary>
+        </member>
+        <member name="T:GD.PAPI.Dto.SMSDto">
+            <summary>
+            短信DTO
+            </summary>
+        </member>
+        <member name="P:GD.PAPI.Dto.SMSDto.Phone">
+            <summary>
+            手机号码
+            </summary>
+        </member>
+        <member name="P:GD.PAPI.Dto.SMSDto.Parameters">
+            <summary>
+            填充短信模板的参数
+            </summary>
+        </member>
+        <member name="P:GD.PAPI.Dto.SMSDto.TemplateId">
+            <summary>
+            模板ID
+            </summary>
+        </member>
+        <member name="P:GD.PAPI.Dto.SMSDto.Sign">
+            <summary>
+            签名
+            </summary>
+        </member>
+    </members>
+</doc>

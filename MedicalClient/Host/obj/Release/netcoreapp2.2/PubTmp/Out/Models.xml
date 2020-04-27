@@ -1,0 +1,5603 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Models</name>
+    </assembly>
+    <members>
+        <member name="T:GD.Models.CommonEnum.CollectionStateEnum">
+            <summary>
+            收藏状态
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.CollectionStateEnum.Establish">
+            <summary>
+            收藏
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.CollectionStateEnum.Cancel">
+            <summary>
+            取消
+            </summary>
+        </member>
+        <member name="T:GD.Models.CommonEnum.CollectionTypeEnum">
+            <summary>
+            收藏目标类型
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.CollectionTypeEnum.Product">
+            <summary>
+            商品
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.CollectionTypeEnum.Hospital">
+            <summary>
+            医院
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.CollectionTypeEnum.Office">
+            <summary>
+            科室
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.CollectionTypeEnum.Doctor">
+            <summary>
+            医生
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.CollectionTypeEnum.Article">
+            <summary>
+            文章
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.CollectionTypeEnum.Course">
+            <summary>
+            平台文章
+            </summary>
+        </member>
+        <member name="T:GD.Models.CommonEnum.ConsumptionStatusEnum">
+            <summary>
+            消费记录状态枚举
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ConsumptionStatusEnum.Booked">
+            <summary>
+            已预约
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ConsumptionStatusEnum.Arrive">
+            <summary>
+            已到店
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ConsumptionStatusEnum.Completed">
+            <summary>
+            已完成
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ConsumptionStatusEnum.Canceled">
+            <summary>
+            已取消
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ConsumptionStatusEnum.Miss">
+            <summary>
+            已错过
+            </summary>
+        </member>
+        <!-- 对于成员“T:GD.Models.CommonEnum.ReportApproveStatusEnum”忽略有格式错误的 XML 注释 -->
+        <member name="F:GD.Models.CommonEnum.ReportApproveStatusEnum.Pending">
+            <summary>
+            待审批
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ReportApproveStatusEnum.Reject">
+            <summary>
+            驳回
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ReportApproveStatusEnum.Adopt">
+            <summary>
+            通过
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ReportApproveStatusEnum.Cancel">
+            <summary>
+            取消
+            </summary>
+        </member>
+        <member name="T:GD.Models.CommonEnum.ReportSimpleApproveEnum">
+             <summary>
+            审批时枚举
+             </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ReportSimpleApproveEnum.Reject">
+            <summary>
+            驳回
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ReportSimpleApproveEnum.Adopt">
+            <summary>
+            通过
+            </summary>
+        </member>
+        <member name="T:GD.Models.CommonEnum.ReportApproveScheduleEnums">
+            <summary>
+            审批进度枚举
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ReportApproveScheduleEnums.Apply">
+            <summary>
+            运营申请状态
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ReportApproveScheduleEnums.SqlWrite">
+            <summary>
+            IT确认需求并转为SQL
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ReportApproveScheduleEnums.SqlApprove">
+            <summary>
+            运营审批发送列表
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ReportApproveScheduleEnums.Approve">
+            <summary>
+            运营审批发送列表
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ReportApproveScheduleEnums.Complete">
+            <summary>
+            已完成
+            </summary>
+        </member>
+        <member name="T:GD.Models.CommonEnum.ScoreSourceTypeEnum">
+            <summary>
+            积分来源类型：Consumption 消费；Distribution 分销提成
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ScoreSourceTypeEnum.Consumption">
+            <summary>
+            消费
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ScoreSourceTypeEnum.Distribution">
+            <summary>
+            分销提成
+            </summary>
+        </member>
+        <member name="T:GD.Models.CommonEnum.BehaviorTypeEnum">
+            <summary>
+            用户行为动作枚举
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.BehaviorTypeEnum.Page">
+            <summary>
+            刷卡
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.BehaviorTypeEnum.Product">
+            <summary>
+            刷卡
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.BehaviorTypeEnum.Article">
+            <summary>
+            文章
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.BehaviorTypeEnum.Movement">
+            <summary>
+            动作、活动
+            </summary>
+        </member>
+        <member name="T:GD.Models.CommonEnum.ClassifyEnum">
+            <summary>
+            双美-分类枚举表
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ClassifyEnum.StartProduct">
+            <summary>
+            明星产品
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ClassifyEnum.StartDoctor">
+            <summary>
+            明星医生
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ClassifyEnum.SuperValu">
+            <summary>
+            超值优惠
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.ClassifyEnum.GroupBuy">
+            <summary>
+            拼团聚划算
+            </summary>
+        </member>
+        <member name="T:GD.Models.CommonEnum.TopicAboutTypeEnum">
+            <summary>
+            AboutType
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.TopicAboutTypeEnum.Product">
+            <summary>
+            产品
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.TopicAboutTypeEnum.Doctor">
+            <summary>
+            医生
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.TopicAboutTypeEnum.Hospital">
+            <summary>
+            医院
+            </summary>
+        </member>
+        <member name="T:GD.Models.CommonEnum.OrderStatusEnum">
+            <summary>
+            订单状态
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.OrderStatusEnum.All">
+            <summary>
+            全部 0
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.OrderStatusEnum.Obligation">
+            <summary>
+            待付款 1
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.OrderStatusEnum.Shipped">
+            <summary>
+            待发货 2
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.OrderStatusEnum.Received">
+            <summary>
+            待收货 3
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.OrderStatusEnum.Completed">
+            <summary>
+            已完成 4
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.OrderStatusEnum.Canceled">
+            <summary>
+            已取消 5
+            </summary>
+        </member>
+        <member name="T:GD.Models.CommonEnum.PayTypeEnum">
+            <summary>
+            支付方式
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.PayTypeEnum.Card">
+            <summary>
+            刷卡
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.PayTypeEnum.Cash">
+            <summary>
+            现金
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.PayTypeEnum.Apple">
+            <summary>
+            苹果支付
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.PayTypeEnum.Score">
+            <summary>
+            积分
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.PayTypeEnum.Wechat">
+            <summary>
+            微信
+            </summary>
+        </member>
+        <member name="F:GD.Models.CommonEnum.PayTypeEnum.Alipay">
+            <summary>
+            支付宝
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.AddressModel">
+            <summary>
+            地址表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AddressModel.AddressGuid">
+            <summary>
+            地址GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AddressModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AddressModel.Receiver">
+            <summary>
+            接收人
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AddressModel.Phone">
+            <summary>
+            接收人手机号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AddressModel.Province">
+            <summary>
+            省
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AddressModel.City">
+            <summary>
+            市
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AddressModel.Area">
+            <summary>
+            区
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AddressModel.ProvinceId">
+            <summary>
+            省ID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AddressModel.CityId">
+            <summary>
+            市ID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AddressModel.AreaId">
+            <summary>
+            地区ID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AddressModel.DetailAddress">
+            <summary>
+            详细地址
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AddressModel.IsDefault">
+            <summary>
+            是否是默认地址
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.AdviseModel">
+            <summary>
+            意见表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AdviseModel.AdviseGuid">
+            <summary>
+            建议GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AdviseModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AdviseModel.Adviser">
+            <summary>
+            建议人姓名
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AdviseModel.AdviserPhone">
+            <summary>
+            建议人手机号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AdviseModel.AdviserEmail">
+            <summary>
+            建议人EMAIL
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AdviseModel.AdviseContent">
+            <summary>
+            建议内容
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.AdviseModel.PlatformType">
+            <summary>
+            平台类型
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.ArticleViewModel">
+             <summary>
+             文章浏览记录
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ArticleViewModel.ViewGuid">
+            <summary>
+            文章浏览记录主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ArticleViewModel.TargetGuid">
+            <summary>
+            文章guid
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.BehaviorModel">
+            <inheritdoc />
+            <summary>
+            用户行为表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.BehaviorModel.BehaviorGuid">
+            <summary>
+            行为GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.BehaviorModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.BehaviorModel.BehaviorType">
+            <summary>
+            行为类型（枚举）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.BehaviorModel.TargetGuid">
+            <summary>
+            目标
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.BehaviorModel.EntryDate">
+            <summary>
+            进入时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.BehaviorModel.QuitDate">
+            <summary>
+            退出时间(默认为下次进入另外一个目标的时间）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.BehaviorModel.Duration">
+            <summary>
+            持续时间（分钟）=退出时间-进入时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.BehaviorModel.PlatformType">
+            <summary>
+            平台类型
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.CharacterModel">
+            <summary>
+            用户画像表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CharacterModel.CharacterGuid">
+            <summary>
+            特征GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CharacterModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CharacterModel.ConfGuid">
+            <summary>
+            配置guid(如是否抽烟)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CharacterModel.ConfValue">
+            <summary>
+            配置对应的值
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.CollectionModel">
+            <summary>
+            收藏表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CollectionModel.CollectionGuid">
+            <summary>
+            收藏GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CollectionModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CollectionModel.TargetGuid">
+            <summary>
+            目标GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CollectionModel.TargetType">
+            <summary>
+            收藏目标类型：产品，医院，科室，医生，文章
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CollectionModel.PlatformType">
+            <summary>
+            平台类型
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.CollectType">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:GD.Models.Consumer.CollectType.product">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:GD.Models.Consumer.CollectType.hospital">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:GD.Models.Consumer.CollectType.office">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:GD.Models.Consumer.CollectType.doctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:GD.Models.Consumer.CollectType.article">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.CommentModel">
+            <summary>
+            评论表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CommentModel.CommentGuid">
+            <summary>
+            评论GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CommentModel.TargetGuid">
+            <summary>
+            目标GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CommentModel.Content">
+            <summary>
+            内容
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CommentModel.Score">
+            <summary>
+            评论打分
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CommentModel.Anonymous">
+            <summary>
+            评论打分
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.CommentModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.ConsumerModel">
+            <summary>
+            消费者表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumerModel.ConsumerGuid">
+            <summary>
+            消费者GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumerModel.PaymentCode">
+            <summary>
+            支付密码
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumerModel.PayWithoutPwd">
+            <summary>
+            免密支付
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumerModel.Cardholder">
+            <summary>
+            持卡人
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumerModel.CreditCard">
+            <summary>
+            银行卡卡号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumerModel.RecommendGuid">
+            <summary>
+            推荐人
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumerModel.DistributionEnable">
+            <summary>
+            分销关系是否可用
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.ConsumptionModel">
+            <summary>
+            个人消费记录信息管理表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumptionModel.ConsumptionGuid">
+            <summary>
+            消费GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumptionModel.ConsumptionNo">
+            <summary>
+            用户guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumptionModel.UserGuid">
+            <summary>
+            用户guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumptionModel.FromItemGuid">
+            <summary>
+            项来源guid(个人商品项guid/礼物guid/卡券guid)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumptionModel.FromItemType">
+            <summary>
+            来源项类型:个人商品项、礼物、卡券
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumptionModel.ProjectGuid">
+            <summary>
+            商品项GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumptionModel.AppointmentDate">
+            <summary>
+            预约时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumptionModel.ConsumptionDate">
+            <summary>
+            消费时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumptionModel.MerchantGuid">
+            <summary>
+            消费门店GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumptionModel.OperatorGuid">
+            <summary>
+            操作者GUID(医生或美疗师)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumptionModel.ConsultantGuid">
+            <summary>
+            咨询师GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumptionModel.ConsumptionStatus">
+            <summary>
+            消费状态:已预约/已到店/已完成/已取消/已错过
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ConsumptionModel.PlatformType">
+            <summary>
+            平台类型:CloudDoctor(智慧云医)；LifeCosmetology(生活美容)；MedicalCosmetology(医疗美容)
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.GiftModel">
+            <summary>
+             消费者礼物表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GiftModel.GiftGuid">
+            <summary>
+            礼物GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GiftModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GiftModel.FromItemGuid">
+            <summary>
+            来源guid：卡券guid/个人商品项guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GiftModel.FromItemType">
+            <summary>
+            来源类型：卡券赠送、项目赠送
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GiftModel.ProjectGuid">
+            <summary>
+            项目GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GiftModel.EffectiveStartDate">
+            <summary>
+            有效期开始日期(继承自来源个人商品)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GiftModel.EffectiveEndDate">
+            <summary>
+            有效期结束日期(继承自来源个人商品)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GiftModel.FromUserGuid">
+            <summary>
+            赠送人GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GiftModel.GiftStatus">
+            <summary>
+            未使用 UNUSED ；已预约 BOOKED；已使用 USED
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GiftModel.ReceiveDate">
+            <summary>
+            礼物收取时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GiftModel.PlatformType">
+            <summary>
+            平台类型:CLOUDDOCTOR(智慧云医)；LIFECOSMETOLOGY(生活美容)；MEDICALCOSMETOLOGY(医疗美容)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GiftModel.Version">
+            <summary>
+            并发版本号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GiftModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.GiftStatusEnum">
+            <summary>
+            礼物使用状态
+            </summary>
+        </member>
+        <member name="F:GD.Models.Consumer.GiftStatusEnum.Unused">
+            <summary>
+            未使用
+            </summary>
+        </member>
+        <member name="F:GD.Models.Consumer.GiftStatusEnum.Booked">
+            <summary>
+            已预约
+            </summary>
+        </member>
+        <member name="F:GD.Models.Consumer.GiftStatusEnum.Used">
+            <summary>
+            已使用
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.GiftFromTypeEnum">
+            <summary>
+            礼物来源类型
+            </summary>
+        </member>
+        <member name="F:GD.Models.Consumer.GiftFromTypeEnum.CardTicket">
+            <summary>
+            来自卡券转赠
+            </summary>
+        </member>
+        <member name="F:GD.Models.Consumer.GiftFromTypeEnum.GoodsItem">
+            <summary>
+            来自个人商品项转赠
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.GoodsItemModel">
+            <summary>
+            个人购买商品项信息管理表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsItemModel.GoodsItemGuid">
+            <summary>
+            个人商品项GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsItemModel.GoodsGuid">
+            <summary>
+            个人商品GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsItemModel.ProjectGuid">
+            <summary>
+            商品项GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsItemModel.Count">
+            <summary>
+            项目次数
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsItemModel.Remain">
+            <summary>
+            可用次数
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsItemModel.Used">
+            <summary>
+            已用次数
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsItemModel.Available">
+            <summary>
+            是否可用
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsItemModel.Price">
+            <summary>
+            项单价
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsItemModel.AllowPresent">
+            <summary>
+            是否允许转赠
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsItemModel.PlatformType">
+            <summary>
+            平台类型:CloudDoctor(智慧云医)；LifeCosmetology(生活美容)；MedicalCosmetology(医疗美容)
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.GoodsModel">
+            <summary>
+            个人购买商品信息管理表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsModel.GoodsGuid">
+            <summary>
+            个人商品GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsModel.OrderGuid">
+            <summary>
+            订单GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsModel.DetailGuid">
+            <summary>
+            订单明细GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsModel.Available">
+            <summary>
+            是否可用(卡项目次数已用完，则变为不可用)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsModel.EffectiveStartDate">
+            <summary>
+            有效起始日期
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsModel.EffectiveEndDate">
+            <summary>
+            有效终止日期
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsModel.ProductGuid">
+            <summary>
+            商品GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsModel.ProductName">
+            <summary>
+            商品名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsModel.MerchanGuid">
+            <summary>
+            商铺GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsModel.Price">
+            <summary>
+            商品单价
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsModel.SelectRule">
+            <summary>
+            选择方式（例如N选一，N选二，N选三）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.GoodsModel.PlatformType">
+            <summary>
+            平台类型:CloudDoctor(智慧云医)；LifeCosmetology(生活美容)；MedicalCosmetology(医疗美容)
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.LikeModel">
+            <summary>
+            点赞表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.LikeModel.LikeGuid">
+            <summary>
+            点赞GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.LikeModel.TargetGuid">
+            <summary>
+            被点赞主体GUID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.ScoreRecordModel">
+            <summary>
+            消费者积分来源记录
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ScoreRecordModel.ScoreRecordGuid">
+            <summary>
+            主键GUID 
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ScoreRecordModel.OrderGuid">
+            <summary>
+            订单GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ScoreRecordModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ScoreRecordModel.TargetUserGuid">
+            <summary>
+            目标用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ScoreRecordModel.Ammount">
+            <summary>
+            消费金额
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ScoreRecordModel.Rate">
+            <summary>
+            积分比例(例如消费积分比例/提成积分比例)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ScoreRecordModel.Score">
+            <summary>
+            可得积分
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.ScoreRecordModel.ScoreSourceType">
+            <summary>
+            积分来源类型：Consumption 消费；Distribution 分销提成
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.TicketRecordDetailModel">
+            <summary>
+             个人卡券明细
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.TicketRecordDetailModel.TicketRecordDetailGuid">
+            <summary>
+            个人卡券明细GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.TicketRecordDetailModel.TicketRecordGuid">
+            <summary>
+            个人卡券GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.TicketRecordDetailModel.ProjectGuid">
+            <summary>
+            项目GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.TicketRecordDetailModel.Count">
+            <summary>
+            项目次数
+            </summary>
+        </member>
+        <member name="T:GD.Models.Consumer.TicketRecordModel">
+            <summary>
+            消费者卡券表Model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.TicketRecordModel.TicketRecordGuid">
+            <summary>
+            卡券记录主键GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.TicketRecordModel.CardTicketGuid">
+            <summary>
+            卡券GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.TicketRecordModel.ProjectGuid">
+            <summary>
+            商品项guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.TicketRecordModel.UserGuid">
+            <summary>
+            所属用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.TicketRecordModel.SourceGuid">
+            <summary>
+            卡券获得来源guid:订单guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.TicketRecordModel.EffectiveStartDate">
+            <summary>
+            有效起始日期
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.TicketRecordModel.EffectiveEndDate">
+            <summary>
+            有效终止日期
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.TicketRecordModel.PlatformType">
+            <summary>
+            平台类型:CLOUDDOCTOR(智慧云医)；LIFECOSMETOLOGY(生活美容)；MEDICALCOSMETOLOGY(医疗美容)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Consumer.TicketRecordModel.PresentStatus">
+            <summary>
+            是否已转赠
+            </summary>
+        </member>
+        <member name="T:GD.Models.CrossTable.GetArticleInfoModel">
+            <summary>
+            获取文章信息
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetArticleInfoModel.ArticleGuid">
+            <summary>
+            文章GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetArticleInfoModel.UserName">
+            <summary>
+            医生姓名
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetArticleInfoModel.ArticlePic">
+            <summary>
+            基础路径
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetArticleInfoModel.SourceType">
+            <summary>
+            文章来源
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetArticleInfoModel.Title">
+            <summary>
+            文章标题
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetArticleInfoModel.DicGuid">
+            <summary>
+            字典ID
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetArticleInfoModel.ConfigName">
+            <summary>
+            配置名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetArticleInfoModel.CreationDate">
+            <summary>
+            发布日期（创建日期）
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetArticleInfoModel.ViewNum">
+            <summary>
+            浏览次数
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetArticleInfoModel.ThumbUpNum">
+            <summary>
+            点赞次数
+            </summary>
+        </member>
+        <member name="T:GD.Models.CrossTable.GetMerchantProductInfoModel">
+            <summary>
+            分页查询产品列表
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetMerchantProductInfoModel.MerchantGuid">
+            <summary>
+            商户Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetMerchantProductInfoModel.MerchantName">
+            <summary>
+            商户名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetMerchantProductInfoModel.CategoryGuid">
+            <summary>
+            分类Guid（字典dicGuid）
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetMerchantProductInfoModel.ConfigName">
+            <summary>
+            分类名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetMerchantProductInfoModel.ProductGuid">
+            <summary>
+            商品Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetMerchantProductInfoModel.ProductPicUrl">
+            <summary>
+            商品Logo
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetMerchantProductInfoModel.ProductName">
+            <summary>
+            商品名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetMerchantProductInfoModel.Price">
+            <summary>
+            商品价格
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetMerchantProductInfoModel.SaleNum">
+            <summary>
+            销售量
+            </summary>
+        </member>
+        <member name="T:GD.Models.CrossTable.GetShoppingCarInfoModel">
+            <inheritdoc />
+            <summary>
+            购物车信息model
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetShoppingCarInfoModel.ItemGuid">
+            <summary>
+            购物车记录主键id
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetShoppingCarInfoModel.UserGuid">
+            <summary>
+            用户Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetShoppingCarInfoModel.MerchantGuid">
+            <summary>
+            商户Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetShoppingCarInfoModel.MerchantName">
+            <summary>
+            商户名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetShoppingCarInfoModel.ProductGuid">
+            <summary>
+            产品Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetShoppingCarInfoModel.ProductName">
+            <summary>
+            产品名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetShoppingCarInfoModel.ProductPicUrl">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetShoppingCarInfoModel.Standerd">
+            <summary>
+            产品简介Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetShoppingCarInfoModel.Content">
+            <summary>
+            产品简介内容
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetShoppingCarInfoModel.Price">
+            <summary>
+            产品价格
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetShoppingCarInfoModel.Count">
+            <summary>
+            购买数量
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetShoppingCarInfoModel.Freight">
+            <summary>
+            运费
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.GetShoppingCarInfoModel.IsValid">
+            <summary>
+            库存有效性
+            </summary>
+        </member>
+        <member name="T:GD.Models.CrossTable.RegisterModel">
+            <summary>
+            注册子平台数据模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.RegisterModel.PlatformType">
+            <summary>
+            注册来源平台类型
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.RegisterModel.Parameters">
+            <summary>
+            扩展参数
+            子平台根据自己的需求单独定义规范
+            </summary>
+        </member>
+        <member name="T:GD.Models.CrossTable.UserActionCharacteristics">
+            <summary>
+            用户行为特征实体类
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.UserActionCharacteristics.UserActionGuid">
+            <summary>
+            用户行为GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.UserActionCharacteristics.UserTypeGuid">
+            <summary>
+            用户类型GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.UserActionCharacteristics.ActionGuid">
+            <summary>
+            操作GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.UserActionCharacteristics.ActioCcharacteristicsCode">
+            <summary>
+            行为特性code
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.UserActionCharacteristics.ActionCharacteristicsName">
+            <summary>
+            行为特性名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.UserActionCharacteristics.Enable">
+            <summary>
+            使能标志
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.UserActionCharacteristics.CreatedBy">
+            <summary>
+            创建人
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.UserActionCharacteristics.CreationDate">
+            <summary>
+            创建时间，默认为系统当前时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.UserActionCharacteristics.LastUpdatedBy">
+            <summary>
+            最后修改人
+            </summary>
+        </member>
+        <member name="P:GD.Models.CrossTable.UserActionCharacteristics.LastUpdatedDate">
+            <summary>
+            最后修改日期，默认为系统当前时间
+            </summary>
+        </member>
+        <member name="T:GD.Models.Doctor.AnswerModel">
+            <summary>
+            问题回答表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.AnswerModel.AnswerGuid">
+            <summary>
+            常问医生回答GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.AnswerModel.QuestionGuid">
+            <summary>
+            问题GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.AnswerModel.Answer">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:GD.Models.Doctor.DoctorModel">
+            <summary>
+            医生表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.DoctorGuid">
+            <summary>
+            医生GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.HospitalGuid">
+            <summary>
+            所属医院GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.HospitalName">
+            <summary>
+            所属医院名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.OfficeGuid">
+            <summary>
+            所属科室GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.OfficeName">
+            <summary>
+            所属科室GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.PortraitGuid">
+            <summary>
+            一寸照Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.WorkCity">
+            <summary>
+            工作城市
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.Background">
+            <summary>
+            背景
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.TitleGuid">
+            <summary>
+            职称GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.AdeptTags">
+            <summary>
+            擅长的标签
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.WorkAge">
+            <summary>
+            工龄
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.Honor">
+            <summary>
+            所获所获荣誉
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.PractisingHospital">
+            <summary>
+            执业医院
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.Status">
+            <summary>
+            账号申请状态
+            'reject','approved','submit','draft'
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.PlatformType">
+            <summary>
+            平台类型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.SignatureGuid">
+            <summary>
+            签名附件guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.DoctorModel.IsRecommend">
+            <summary>
+            是否推荐
+            </summary>
+        </member>
+        <member name="T:GD.Models.Doctor.DoctorModel.StatusEnum">
+            <summary>
+            医生状态
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.DoctorModel.StatusEnum.Reject">
+            <summary>
+            驳回
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.DoctorModel.StatusEnum.Approved">
+            <summary>
+            同意
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.DoctorModel.StatusEnum.Submit">
+            <summary>
+            提交
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.DoctorModel.StatusEnum.Draft">
+            <summary>
+            草稿
+            </summary>
+        </member>
+        <member name="T:GD.Models.Doctor.HospitalModel">
+            <summary>
+            医院表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.HospitalGuid">
+            <summary>
+            医院GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.LogoGuid">
+            <summary>
+            医院logo GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.HosDetailGuid">
+            <summary>
+            详情
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.HosName">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.HosTag">
+            <summary>
+             医院标签
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.HosAbstract">
+            <summary>
+            简介
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.HosLevel">
+            <summary>
+            等级
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.Location">
+            <summary>
+            位置
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.Visibility">
+            <summary>
+            是否可查询
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.RegisteredDate">
+            <summary>
+            注册时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.PlatformType">
+            <summary>
+            平台类型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.ContactNumber">
+            <summary>
+            联系电话
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.HospitalModel.GuidanceUrl">
+            <summary>
+            导诊链接
+            </summary>
+        </member>
+        <member name="T:GD.Models.Doctor.HospitalModel.HosLevelEnum">
+            <summary>
+            等级枚举
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.HospitalModel.HosLevelEnum.ThirdA">
+            <summary>
+            三及甲
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.HospitalModel.HosLevelEnum.ThirdB">
+            <summary>
+            三及乙
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.HospitalModel.HosLevelEnum.ThirdC">
+            <summary>
+            三及丙
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.HospitalModel.HosLevelEnum.ThirdZ">
+            <summary>
+            三级
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.HospitalModel.HosLevelEnum.SecondA">
+            <summary>
+            二级甲
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.HospitalModel.HosLevelEnum.SecondB">
+            <summary>
+            二级乙
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.HospitalModel.HosLevelEnum.SecondC">
+            <summary>
+            二级丙
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.HospitalModel.HosLevelEnum.SecondZ">
+            <summary>
+            二级
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.HospitalModel.HosLevelEnum.FirstA">
+            <summary>
+            一级甲
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.HospitalModel.HosLevelEnum.FirstB">
+            <summary>
+            一级乙
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.HospitalModel.HosLevelEnum.FirstC">
+            <summary>
+            一级丙
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.HospitalModel.HosLevelEnum.FirstZ">
+            <summary>
+            一级
+            </summary>
+        </member>
+        <member name="F:GD.Models.Doctor.HospitalModel.HosLevelEnum.Unknown">
+            <summary>
+            未知
+            </summary>
+        </member>
+        <member name="T:GD.Models.Doctor.OfficeModel">
+            <summary>
+            科室表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.OfficeModel.OfficeGuid">
+            <summary>
+            科室GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.OfficeModel.OfficeName">
+            <summary>
+            科室名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.OfficeModel.HospitalGuid">
+            <summary>
+            所属医院GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.OfficeModel.HospitalName">
+            <summary>
+            所属医院名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.OfficeModel.ParentOfficeGuid">
+            <summary>
+            上级科室
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.OfficeModel.PictureGuid">
+            <summary>
+            科室图片
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.OfficeModel.Recommend">
+            <summary>
+            是否推荐
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.OfficeModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.Doctor.QaModel">
+            <summary>
+            问答表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.QaModel.QaGuid">
+            <summary>
+            问答表GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.QaModel.AuthorGuid">
+            <summary>
+            医生GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.QaModel.Question">
+            <summary>
+            问题
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.QaModel.Answer">
+            <summary>
+            回答
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.QaModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.Doctor.QualificationModel">
+            <summary>
+            医院资质表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.QualificationModel.CharacterGuid">
+            <summary>
+            特征GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.QualificationModel.HospitalGuid">
+            <summary>
+            医院GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.QualificationModel.ConfGuid">
+            <summary>
+            配置guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.QualificationModel.ConfValue">
+            <summary>
+            配置对应的值
+            </summary>
+        </member>
+        <member name="T:GD.Models.Doctor.QuestionModel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.QuestionModel.QuestionGuid">
+            <summary>
+            常问医生问题GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.QuestionModel.UserGuid">
+            <summary>
+            医生GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.QuestionModel.Question">
+            <summary>
+            问题
+            </summary>
+        </member>
+        <member name="T:GD.Models.Doctor.TitleModel">
+            <summary>
+            职称表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.TitleModel.TitleGuid">
+            <summary>
+            职称GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.TitleModel.TitleName">
+            <summary>
+            职称名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.TitleModel.HospitalGuid">
+            <summary>
+            所属医院GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.TitleModel.PictureGuid">
+            <summary>
+            职称图片
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.TitleModel.Recommend">
+            <summary>
+            是否推荐
+            </summary>
+        </member>
+        <member name="P:GD.Models.Doctor.TitleModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.FAQs.FaqsAnswerModel">
+            <summary>
+             问题模块-回答表实体
+            </summary>
+        </member>
+        <member name="P:GD.Models.FAQs.FaqsAnswerModel.AnswerGuid">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.FAQs.FaqsAnswerModel.QuestionGuid">
+            <summary>
+            问题主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.FAQs.FaqsAnswerModel.UserGuid">
+            <summary>
+            用户
+            </summary>
+        </member>
+        <member name="P:GD.Models.FAQs.FaqsAnswerModel.MainAnswer">
+            <summary>
+            是否主解答
+            </summary>
+        </member>
+        <member name="P:GD.Models.FAQs.FaqsAnswerModel.RewardIntergral">
+            <summary>
+            已获悬赏积分
+            </summary>
+        </member>
+        <member name="P:GD.Models.FAQs.FaqsAnswerModel.Content">
+            <summary>
+            内容
+            </summary>
+        </member>
+        <member name="T:GD.Models.FAQs.FaqsQuestionModel">
+            <summary>
+            问答模块-问题
+            </summary>
+        </member>
+        <member name="P:GD.Models.FAQs.FaqsQuestionModel.QuestionGuid">
+            <summary>
+            提问主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.FAQs.FaqsQuestionModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.FAQs.FaqsQuestionModel.RewardIntergral">
+            <summary>
+            悬赏积分
+            </summary>
+        </member>
+        <member name="P:GD.Models.FAQs.FaqsQuestionModel.Status">
+            <summary>
+            状态
+            </summary>
+        </member>
+        <member name="P:GD.Models.FAQs.FaqsQuestionModel.AnswerNum">
+            <summary>
+            已抢答数
+            </summary>
+        </member>
+        <member name="P:GD.Models.FAQs.FaqsQuestionModel.Content">
+            <summary>
+            内容
+            </summary>
+        </member>
+        <member name="P:GD.Models.FAQs.FaqsQuestionModel.AttachmentGuidList">
+            <summary>
+            附件GUID，数据库为json格式：["Guid1","Guid2",……]
+            </summary>
+        </member>
+        <member name="T:GD.Models.FAQs.FaqsQuestionModel.StatusEnum">
+            <summary>
+            状态枚举
+            </summary>
+        </member>
+        <member name="F:GD.Models.FAQs.FaqsQuestionModel.StatusEnum.Solving">
+            <summary>
+            解决中
+            </summary>
+        </member>
+        <member name="F:GD.Models.FAQs.FaqsQuestionModel.StatusEnum.Solved">
+            <summary>
+            已解决
+            </summary>
+        </member>
+        <member name="F:GD.Models.FAQs.FaqsQuestionModel.StatusEnum.End">
+            <summary>
+            已结束
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.CampaignModel">
+            <inheritdoc />
+            <summary>
+            活动表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.CampaignModel.CampaignGuid">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.CampaignModel.CampaignName">
+            <summary>
+            活动名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.CampaignModel.ProductGuid">
+            <summary>
+            产品ID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.CampaignModel.Discount">
+            <summary>
+            折扣(0-1)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.CampaignModel.SpecialPrices">
+            <summary>
+            优惠价，非正数表示不适用
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.CampaignModel.BeginDate">
+            <summary>
+            活动开始日期
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.CampaignModel.EndDate">
+            <summary>
+            活动结束日期
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.CampaignModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.ClassifyModel">
+            <summary>
+            产品分类表（或医生）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ClassifyModel.ClassifyGuid">
+            <summary>
+            分类GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ClassifyModel.ClassifyName">
+            <summary>
+            分类名称--枚举
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ClassifyModel.TargetGuid">
+            <summary>
+            目标GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ClassifyModel.RelationDoctorGuid">
+            <summary>
+            关联的医生Guid(用于明星产品关联的医生)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ClassifyModel.Recommend">
+            <summary>
+            是否推荐
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ClassifyModel.PlatformType">
+            <summary>
+            平台类型:CloudDoctor(智慧云医)；LifeCosmetology(生活美容)；MedicalCosmetology(医疗美容)
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.ExtraPackageModel">
+            <summary>
+            超值套餐表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ExtraPackageModel.PackageGuid">
+            <summary>
+            超值套餐GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ExtraPackageModel.PackageName">
+            <summary>
+            超值套餐名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ExtraPackageModel.CampaignGuid">
+            <summary>
+            活动GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ExtraPackageModel.Details">
+            <summary>
+            产品组合和选择规则JSON
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ExtraPackageModel.PlatformType">
+            <summary>
+            平台类型:CloudDoctor(智慧云医)；LifeCosmetology(生活美容)；MedicalCosmetology(医疗美容)
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.FinancePayModel">
+            <summary>
+            订单-支付
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.PayGuid">
+            <summary>
+            支付主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.OrderGuid">
+            <summary>
+            订单Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.ChannelID">
+            <summary>
+            渠道ID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.TradeNo">
+            <summary>
+            订单号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.PayWay">
+            <summary>
+            支付方式（微信，支付宝）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.PayMode">
+            <summary>
+            是否银盛支付（可不填）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.Subject">
+            <summary>
+            支付名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.Amount">
+            <summary>
+            支付金额
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.AuthCode">
+            <summary>
+            支付码（仅扫码枪支付）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.PayType">
+            <summary>
+            支付类型（normal_pay，刷脸支付smilepay）扫码枪支付
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.Flag">
+            <summary>
+            默认null
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.PayTime">
+            <summary>
+            支付时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.OutTradeNo">
+            <summary>
+            商户订单号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.Status">
+            <summary>
+            支付状态(closed关闭，cancel撤销)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.Qr_Code">
+            <summary>
+            二维码base64
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.ResultCode">
+            <summary>
+            返回码
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinancePayModel.ResultMsg">
+            <summary>
+            返回消息
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.PayStatusEnum">
+            <summary>
+            支付状态枚举
+            </summary>
+        </member>
+        <member name="F:GD.Models.Mall.PayStatusEnum.Paying">
+            <summary>
+            支付中
+            </summary>
+        </member>
+        <member name="F:GD.Models.Mall.PayStatusEnum.PayOk">
+            <summary>
+            支付完成
+            </summary>
+        </member>
+        <member name="F:GD.Models.Mall.PayStatusEnum.Refunded">
+            <summary>
+            已退款
+            </summary>
+        </member>
+        <member name="F:GD.Models.Mall.PayStatusEnum.Closed">
+            <summary>
+            订单已关闭
+            </summary>
+        </member>
+        <member name="F:GD.Models.Mall.PayStatusEnum.Canceled">
+            <summary>
+            订单已撤销
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.FinanceRefundModel">
+            <summary>
+            退款
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinanceRefundModel.RefundGuid">
+            <summary>
+            退款主键Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinanceRefundModel.TradeNo">
+            <summary>
+            订单号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinanceRefundModel.Reason">
+            <summary>
+            原因
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinanceRefundModel.RefundNo">
+            <summary>
+            退款订单号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinanceRefundModel.RefundFee">
+            <summary>
+            退款金额
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinanceRefundModel.ResultCode">
+            <summary>
+            返回码
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.FinanceRefundModel.ResultMsg">
+            <summary>
+            返回消息
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.GroupBuyDetailModel">
+            <inheritdoc />
+            <summary>
+            团购子信息
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupBuyDetailModel.DetailGuid">
+            <summary>
+            团购子信息主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupBuyDetailModel.GroupBuyGuid">
+            <summary>
+            团购Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupBuyDetailModel.UserGuid">
+            <summary>
+            用户Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupBuyDetailModel.Num">
+            <summary>
+            购买数
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.GroupbuyModel">
+            <summary>
+            团购表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.GroupBuyGuid">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.ProductGuid">
+            <summary>
+            产品GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.Name">
+            <summary>
+            团购标题
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.Qty">
+            <summary>
+            团购数量
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.BuyQty">
+            <summary>
+            一次最低购买数量最低
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.Price">
+            <summary>
+            团购价
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.BeginDate">
+            <summary>
+            团购开始时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.EndDate">
+            <summary>
+            团购结束时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.Description">
+            <summary>
+            活动说明
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.ShareContent">
+            <summary>
+            分享内容
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.ShareIcon">
+            <summary>
+            分享图标
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.ShareTitle">
+            <summary>
+            分享标题
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.Lump">
+            <summary>
+            是否已成团
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.Recommend">
+            <summary>
+            是否推荐
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.PlatformType">
+            <summary>
+            平台类型--默认智慧云医
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.GroupbuyModel.DetailModel">
+            <summary>
+            团购自信息列表
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.OrderDetailModel">
+            <summary>
+            订单表详情模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderDetailModel.DetailGuid">
+            <summary>
+            订单详情GUID（对应订单GUID,此仅主键）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderDetailModel.OrderGuid">
+            <summary>
+            订单GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderDetailModel.ProductGuid">
+            <summary>
+            产品GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderDetailModel.ProductName">
+            <summary>
+            产品名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderDetailModel.ProductPrice">
+            <summary>
+            价格
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderDetailModel.ProductCount">
+            <summary>
+            数量
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderDetailModel.CampaignGuid">
+            <summary>
+            优惠Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderDetailModel.CommentGuid">
+            <summary>
+            商品评价guid
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.OrderListInfoModel">
+            <summary>
+            订单列表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.OrderGuid">
+            <summary>
+            订单GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.OrderStatus">
+            <summary>
+            订单状态
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.MerchantGuid">
+             <summary>
+             商户guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.MerchantName">
+             <summary>
+             商铺名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.PaidAmount">
+             <summary>
+             订单金额（实付）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.ProductCount">
+             <summary>
+             商品总数量
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.DetailGuid">
+             <summary>
+             购物车记录主键id
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.ProductGuid">
+             <summary>
+             产品Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.ProductName">
+             <summary>
+             产品名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.ProductPicUrl">
+             <summary>
+             产品图片url
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.DetailPrice">
+             <summary>
+             产品价格
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.DetailCount">
+             <summary>
+             购买数量
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.Freight">
+             <summary>
+             商品运费
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderListInfoModel.CommentGuid">
+             <summary>
+             商品评价
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.OrderModel">
+            <summary>
+            订单表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.OrderGuid">
+            <summary>
+            订单GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.OrderNo">
+            <summary>
+            订单编号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.MerchantGuid">
+            <summary>
+            商户guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.ProductCount">
+            <summary>
+            商品总数量
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.OrderPhone">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.OrderAddress">
+            <summary>
+            收货地址
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.OrderReceiver">
+            <summary>
+            订单收件人
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.OrderStatus">
+            <summary>
+            订单状态：待付款，待发货，待收货，退单
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.PaymentDate">
+            <summary>
+            付款日期
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.PayType">
+            <summary>
+            支付方式：银行卡，现金，苹果支付，积分支付，微信支付，支付宝
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.PayablesAmount">
+            <summary>
+            应付金额
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.PaidAmount">
+            <summary>
+            实付金额
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.Debt">
+            <summary>
+            欠款金额
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.DiscountAmout">
+            <summary>
+            优惠金额
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.Freight">
+            <summary>
+            运费
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.Remark">
+            <summary>
+            订单备注
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.TransactionFlowinGuid">
+            <summary>
+            交易流水GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.OrderModel.PlatformType">
+            <summary>
+            平台类型
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.PaymentOrderModel">
+            <summary>
+             支付订单Model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.PaymentOrderModel.PaymentOrderGuid">
+            <summary>
+            支付流水订单主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.PaymentOrderModel.PaymentSerialGuid">
+            <summary>
+            支付流水GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.PaymentOrderModel.OrderGuid">
+            <summary>
+            订单GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.PaymentOrderModel.OrderPaid">
+            <summary>
+            支付金额
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.PaymentSerialModel">
+            <summary>
+             支付流水Model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.PaymentSerialModel.PaymentSerialGuid">
+            <summary>
+            付款流水GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.PaymentSerialModel.PaymentSerialNo">
+            <summary>
+            付款流水号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.PaymentSerialModel.PayableAmount">
+            <summary>
+            应付
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.PaymentSerialModel.PaidAmount">
+            <summary>
+            实付
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.PaymentSerialModel.Abnormal">
+            <summary>
+            是否存在异常
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.ProductModel">
+            <summary>
+            产品表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.ProductGuid">
+            <summary>
+            产品GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.ProductCode">
+            <summary>
+            产品code
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.ProductTitle">
+            <summary>
+            产品标题
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.MerchantGuid">
+            <summary>
+            商户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.CategoryGuid">
+            <summary>
+            所属分类GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.CategoryName">
+            <summary>
+            所属分类名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.PictureGuid">
+            <summary>
+            图片GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.ProductName">
+            <summary>
+            产品名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.ProductLabel">
+            <summary>
+            产品标签
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.Brand">
+            <summary>
+            品牌
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.Standerd">
+            <summary>
+            规格
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.RetentionPeriod">
+            <summary>
+            保质期
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.Manufacture">
+            <summary>
+            生产厂家
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.ApprovalNumber">
+            <summary>
+            批准文号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.Price">
+            <summary>
+            价格
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.CostPrice">
+            <summary>
+            成本价
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.MarketPrice">
+            <summary>
+            市场价
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.Freight">
+            <summary>
+            运费
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.IntroduceGuid">
+            <summary>
+            详情（富文本Guid）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.ProDetailGuid">
+            <summary>
+            说明书（富文本Guid）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.Inventory">
+            <summary>
+            库存
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.WarningInventory">
+            <summary>
+            警戒库存
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.Location">
+            <summary>
+            位置
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.Recommend">
+            <summary>
+            是否热门
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.PlatformType">
+            <summary>
+            平台类型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.AllowAdvancePayment">
+            <summary>
+            允许预付款
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.AdvancePaymentRate">
+            <summary>
+            预付款比例
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.EffectiveDays">
+            <summary>
+            自购买日期多少天有效（0表示永久有效）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.IsPhysical">
+            <summary>
+            是否是实体商品（是：实体商品；否：虚拟商品）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.OnSale">
+            <summary>
+            是否上架在售
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.ReportGuid">
+            <summary>
+            体验报告Guid（富文本）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductModel.OperationTime">
+            <summary>
+            时长
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.ProductProjectModel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductProjectModel.ProductProjectGuid">
+            <summary>
+            商品-商品项关联GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductProjectModel.ProductGuid">
+            <summary>
+            商品GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductProjectModel.ProjectGuid">
+            <summary>
+            商品项目GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductProjectModel.ProjectTimes">
+            <summary>
+            项目次数
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductProjectModel.PlatformType">
+            <summary>
+            平台类型:CloudDoctor(智慧云医)；LifeCosmetology(生活美容)；MedicalCosmetology(医疗美容)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProductProjectModel.AllowPresent">
+            <summary>
+            是否允许转赠
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.ProjectMerchantModel">
+            <summary>
+            商品项目适用门店表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProjectMerchantModel.ProjectMerchantGuid">
+            <summary>
+            适用门店关系GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProjectMerchantModel.ProjectGuid">
+            <summary>
+            商品项目GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProjectMerchantModel.MerchantGuid">
+            <summary>
+            商铺GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProjectMerchantModel.PlatformType">
+            <summary>
+            平台类型:CloudDoctor(智慧云医)；LifeCosmetology(生活美容)；MedicalCosmetology(医疗美容)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProjectMerchantModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.ProjectModel">
+            <summary>
+            商品项基础数据表Model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProjectModel.ProjectGuid">
+            <summary>
+            商品项目GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProjectModel.ProjectNo">
+            <summary>
+            商品项目编码
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProjectModel.ProjectName">
+            <summary>
+            商品项目名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProjectModel.OperationTime">
+            <summary>
+            预计耗时
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProjectModel.MerchantGroupGuid">
+            <summary>
+            连锁店群组GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProjectModel.Price">
+            <summary>
+            项目价格
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProjectModel.PictureGuid">
+            <summary>
+            项目图片附件guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ProjectModel.PlatformType">
+            <summary>
+            平台类型:CloudDoctor(智慧云医)；LifeCosmetology(生活美容)；MedicalCosmetology(医疗美容)
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.ShoppingCarModel">
+            <summary>
+            购物车表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ShoppingCarModel.ItemGuid">
+            <summary>
+            GUID(根据USER_GUID区分购车）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ShoppingCarModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ShoppingCarModel.MerchantGuid">
+            <summary>
+            商户guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ShoppingCarModel.ProductGuid">
+            <summary>
+            产品GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ShoppingCarModel.ProductName">
+            <summary>
+            产品名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ShoppingCarModel.Count">
+            <summary>
+            产品数量
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ShoppingCarModel.IsValid">
+            <summary>
+            是否有效（当库存不够，则显示无效）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ShoppingCarModel.PlatformType">
+            <summary>
+            平台类型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.ShoppingCarModel.AdvancePayment">
+            <summary>
+            是否预付款购买
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.TransactionFlowingModel">
+            <summary>
+            交易流水Model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.TransactionFlowingModel.TransactionFlowinGuid">
+            <summary>
+            交易流水GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.TransactionFlowingModel.TransactionNumber">
+            <summary>
+            交易流水号(流水号)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.TransactionFlowingModel.OutTradeNo">
+            <summary>
+            商品订单号(平台生产的生产订单号,传给外部支付平台)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.TransactionFlowingModel.Channel">
+            <summary>
+            交易渠道(银行卡，现金，苹果支付，积分支付，微信支付，支付宝)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.TransactionFlowingModel.ChannelNumber">
+            <summary>
+            交易渠道编号(外部支付平台生成编号)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.TransactionFlowingModel.PayAccount">
+            <summary>
+            支付账号(银行卡号、微信号等等)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.TransactionFlowingModel.Amount">
+            <summary>
+            交易金额
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.TransactionFlowingModel.TransactionStatus">
+            <summary>
+            交易流水状态(WaitForPayment:等待支付, WaitingForTheAccount:等待到账, Success:成功, Expired:过期, Failure:失败, RequestRefund:退款申请, RefuseRefund:拒绝退款, WaitingForTheAccountByRefund:等待退款到账, RefundSuccess:退款成功, RefundExpired:退款支付过期, RefundFailure:退款失败, TradingClosed:交易关闭)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.TransactionFlowingModel.Remarks">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.WeiXinToken">
+            <summary>
+            微信Token
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.WeiXinToken.access_token">
+            <summary>
+            接口调用凭证
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.WeiXinToken.expires_in">
+            <summary>
+            access_token接口调用凭证超时时间，单位（秒）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.WeiXinToken.refresh_token">
+            <summary>
+            用户刷新access_token
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.WeiXinToken.openid">
+            <summary>
+            授权用户唯一标识
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.WeiXinToken.scope">
+            <summary>
+            用户授权的作用域，使用逗号（,）分隔
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.WeiXinToken.unionid">
+            <summary>
+            只有在用户将公众号绑定到微信开放平台帐号后，才会出现该字段。详见：获取用户个人信息（UnionID机制）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.WeiXinToken.create_date">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.WeiXinToken.expires_date">
+            <summary>
+            失效时间
+            </summary>
+        </member>
+        <member name="T:GD.Models.Mall.SearchDicModel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.SearchDicModel.DicGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.SearchDicModel.Word">
+            <summary>
+            搜索词
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.SearchDicModel.Frequency">
+            <summary>
+            搜索次数频率
+            </summary>
+        </member>
+        <member name="P:GD.Models.Mall.SearchDicModel.Loaded">
+            <summary>
+            是否已经加载到IK
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.AccountModel">
+            <summary>
+            运营账号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountModel.UserGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountModel.Account">
+            <summary>
+            账号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountModel.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountModel.OrganizationGuid">
+            <summary>
+            部门ID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountModel.IsSuper">
+            <summary>
+            超级管理员
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountModel.Email">
+            <summary>
+            EMAIL
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountModel.WechatOpenid">
+            <summary>
+            微信号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountModel.NickName">
+            <summary>
+            用户昵称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountModel.UserName">
+            <summary>
+            真实姓名
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountModel.Phone">
+            <summary>
+            手机号码
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountModel.Gender">
+            <summary>
+            性别（M/F），默认为M
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountModel.Birthday">
+            <summary>
+            生日
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountModel.PortraitGuid">
+            <summary>
+            头像
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.AccountRoleModel">
+            <summary>
+            用户角色
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountRoleModel.Arguid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountRoleModel.UserGuid">
+            <summary>
+            账号ID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.AccountRoleModel.RoleGuid">
+            <summary>
+            角色ID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.BannerModel">
+            <summary>
+            首页banner表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.BannerModel.BannerGuid">
+            <summary>
+            BANNER的GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.BannerModel.OwnerGuid">
+            <summary>
+            属于谁的GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.BannerModel.BannerName">
+            <summary>
+            BANNER名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.BannerModel.PictureGuid">
+            <summary>
+            BANNER图片GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.BannerModel.TargetUrl">
+            <summary>
+            目标地址
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.BannerModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.BannerModel.Description">
+            <summary>
+            描述
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.ButtonModel">
+            <summary>
+            系统按钮
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.ButtonModel.ButtonGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.ButtonModel.MenuGuid">
+            <summary>
+            菜单GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.ButtonModel.ButtonCode">
+            <summary>
+            菜单编码（CONTROLLER/ACTION）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.ButtonModel.ButtonName">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.ButtonModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.DictionaryModel">
+            <summary>
+            系统字典表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.DictionaryModel.DicGuid">
+            <summary>
+            系统字典GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.DictionaryModel.TypeCode">
+            <summary>
+            字典类型CODE(如HABBIT表示生活习惯)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.DictionaryModel.TypeName">
+            <summary>
+            字段类型值（如生活习惯）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.DictionaryModel.ConfigCode">
+            <summary>
+            配置项CODE，如SMOKE表示抽烟
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.DictionaryModel.ConfigName">
+            <summary>
+            配置项名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.DictionaryModel.ValueType">
+            <summary>
+            取值类型，默认为字符类型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.DictionaryModel.ValueRange">
+            <summary>
+            取值范围
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.DictionaryModel.ParentGuid">
+            <summary>
+            父GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.DictionaryModel.Sort">
+            <summary>
+            排序(理论上相同TYPE_CODE的排序不能相同）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.DictionaryModel.ExtensionField">
+            <summary>
+            扩展字段
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.DictionaryType">
+            <summary>
+            字典类型
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.DicTypeConfig">
+            <summary>
+            数据字典类型Guid
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.DoctorDicConfig">
+            <summary>
+            医生证书配置字典原数据Guid
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.MerchantDicConfig">
+            <summary>
+            商户证书配置字典原数据Guid
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.BusinessScopeDic">
+            <summary>
+            经营范围元数据字典Guid
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.UserPersonalInfo">
+            <summary>
+            用户生活习惯/个人资料
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.UserTypeConfig">
+            <summary>
+            用户类型配置Guid
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.Consumer_UserType">
+            <summary>
+            用户类型--消费者
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.DoctorTitle">
+            <summary>
+            医生职称
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.BackgroundMenu">
+            <summary>
+            后台菜单
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.PageId">
+            <summary>
+            页面ID元数据Guid
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.WechatOfficialAccountHome">
+            <summary>
+            智慧云医公众号首页ID
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.AskedDoctorHot">
+            <summary>
+            问医热点页面ID
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.AskedDoctorLectureHall">
+            <summary>
+            问医讲堂页面ID
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.HealthManagementPage">
+            <summary>
+            健康管理页面ID
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.RegularMedicine">
+            <summary>
+            常备药品
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.ArticleTypeConfig">
+            <summary>
+            文章类型
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.CourseArticle">
+            <summary>
+            课程文章类型
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.OccupationalDiseaseKnowledge">
+            <summary>
+            文章类型-职业病常识
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.OccupationalDiseasePrevent">
+            <summary>
+            文章类型-职业病预防
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.HospitalQualification">
+            <summary>
+            医院资质
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.OccupationalDiseaseQualification">
+            <summary>
+            职业病资质
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.CosmeticMedicineType">
+             <summary>
+            医美 产品分类 元数据字典Guid
+             </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.CosmeticMedicineHomePageGuid">
+             <summary>
+            医美-首页页面Guid
+             </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.LivingBeautyProductType">
+            <summary>
+            生美-产品分类 元数据字典Guid
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.LivingBeautyProductHomePageGuid">
+             <summary>
+            生美-首页页面Guid
+             </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.LivingBeautyStartProductHomePageGuid">
+             <summary>
+            生美-明星产品BannerGuid
+             </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.LivingBeautySuperValuHomePageGuid">
+             <summary>
+            生美-超值优惠BannerGuid
+             </summary>
+        </member>
+        <member name="F:GD.Models.Manager.DictionaryType.LivingBeautyGroupBuyHomePageGuid">
+             <summary>
+            生美-拼团聚划算BannerGuid
+             </summary>
+        </member>
+        <member name="T:GD.Models.Manager.GrantRoleModel">
+            <summary>
+            角色授权表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.GrantRoleModel.GrantGuid">
+            <summary>
+            授权GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.GrantRoleModel.RoleGuid">
+            <summary>
+            角色ID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.GrantRoleModel.RightGuid">
+            <summary>
+            权限ID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.GrantUserModel">
+            <summary>
+            用户授权表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.GrantUserModel.GrantGuid">
+            <summary>
+            授权GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.GrantUserModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.GrantUserModel.RoleGuid">
+            <summary>
+            角色GUID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.HeadlineModel">
+            <summary>
+            头条表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.HeadlineModel.HeadlineGuid">
+            <summary>
+            头条GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.HeadlineModel.HeadlineName">
+            <summary>
+            头条名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.HeadlineModel.HeadlineAbstract">
+            <summary>
+            头条简介
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.HeadlineModel.Target">
+            <summary>
+            点击响应目标
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.HeadlineModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.HeadlineModel.PlatformType">
+            <summary>
+            平台类型
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.MenuModel">
+            <summary>
+            系统菜单
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.MenuModel.MenuGuid">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.MenuModel.ParentGuid">
+            <summary>
+            父菜单GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.MenuModel.MenuClass">
+            <summary>
+            图标名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.MenuModel.MenuName">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.MenuModel.MenuUrl">
+            <summary>
+            菜单URL（VUE路由地址）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.MenuModel.MenuCode">
+            <summary>
+            编码
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.MenuModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.OrganizationModel">
+            <summary>
+            组织表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.OrganizationModel.OrgGuid">
+            <summary>
+            guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.OrganizationModel.ParentGuid">
+            <summary>
+            父GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.OrganizationModel.OrgName">
+            <summary>
+            组织名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.OrganizationModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.QuestionModel">
+            <summary>
+            常见问题
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.QuestionModel.QuestionGuid">
+            <summary>
+            问题GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.QuestionModel.Question">
+            <summary>
+            问题
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.QuestionModel.Answer">
+            <summary>
+            答案
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.QuestionModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.RecommendDetailModel">
+            <summary>
+            推荐详细
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RecommendDetailModel.DetailGuid">
+            <summary>
+            推荐详细GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RecommendDetailModel.OwnerGuid">
+            <summary>
+            推荐归属GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RecommendDetailModel.RecommendGuid">
+            <summary>
+            推荐GUID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.RecommendModel">
+            <summary>
+            推荐表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RecommendModel.RecommendGuid">
+            <summary>
+            推荐GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RecommendModel.OwnerGuid">
+            <summary>
+            推荐归属GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RecommendModel.Name">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RecommendModel.Target">
+            <summary>
+            点击响应目标
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RecommendModel.PictureGuid">
+            <summary>
+            图片GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RecommendModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RecommendModel.Type">
+            <summary>
+            类型[Campaign,Article,Product,Doctor,Office,Hostpital]
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RecommendModel.Remark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.RecommendModel.TypeEnum">
+            <summary>
+            推荐类型
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.RecommendModel.TypeEnum.Campaign">
+            <summary>
+            活动
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.RecommendModel.TypeEnum.Article">
+            <summary>
+            文章
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.RecommendModel.TypeEnum.Product">
+            <summary>
+            商品
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.RecommendModel.TypeEnum.Doctor">
+            <summary>
+            医生
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.RecommendModel.TypeEnum.Office">
+            <summary>
+            科室
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.RecommendModel.TypeEnum.Hostpital">
+            <summary>
+            医院
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.RecommendModel.TypeEnum.Course">
+            <summary>
+            课程
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.RedisKeysModel">
+            <summary>
+            持久化RedisKey
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RedisKeysModel.KeyGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RedisKeysModel.EntityProperty">
+            <summary>
+            后台定义的属性字段名
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RedisKeysModel.RedisKey">
+            <summary>
+            redis关键字
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.ReviewRecordModel">
+            <summary>
+            审核记录
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.ReviewRecordModel.ReviewGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.ReviewRecordModel.OwnerGuid">
+            <summary>
+            推荐归属GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.ReviewRecordModel.Type">
+            <summary>
+            类型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.ReviewRecordModel.Status">
+            <summary>
+            状态
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.ReviewRecordModel.RejectReason">
+            <summary>
+            拒绝原因
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.ReviewRecordModel.TypeEnum">
+            <summary>
+            类型
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.ReviewRecordModel.TypeEnum.Merchant">
+            <summary>
+            商家
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.ReviewRecordModel.TypeEnum.Doctors">
+            <summary>
+            医生
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.RightModel">
+            <summary>
+            权限定义表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RightModel.RightGuid">
+            <summary>
+            权限GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RightModel.RightName">
+            <summary>
+            权限名
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RightModel.RightType">
+            <summary>
+            类型
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.RightModel.RightTypeEnum">
+            <summary>
+            类型
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.RightModel.RightTypeEnum.Menu">
+            <summary>
+            菜单
+            </summary>
+        </member>
+        <member name="F:GD.Models.Manager.RightModel.RightTypeEnum.Button">
+            <summary>
+            按钮
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.RoleModel">
+            <summary>
+            角色定义表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RoleModel.RoleGuid">
+            <summary>
+            角色GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RoleModel.RoleName">
+            <summary>
+            角色名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RoleModel.Description">
+            <summary>
+            描述
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.RoleModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.Manager.TestModel">
+            <summary>
+            测试模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.TestModel.TestGuid">
+            <summary>
+            测试ID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Manager.TestModel.TestName">
+            <summary>
+            测试名称
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealAccountDetailModel">
+            <summary>
+            点餐用户钱包账户明细
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountDetailModel.AccountDetailGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountDetailModel.AccountGuid">
+            <summary>
+            钱包账户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountDetailModel.AccountDetailType">
+            <summary>
+            操作类型，"consume"：消费，"recharge"：充值，"deduction":扣减， "refund": 退款
+            注意：取消订单、转让订单属于退款，加减通过收支类型来判断
+            注意：红冲属于扣减
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountDetailModel.AccountDetailIncomeType">
+            <summary>
+            收支类型，0：收入，1：支出
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountDetailModel.AccountDetailBeforeFee">
+            <summary>
+            操作之前金额
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountDetailModel.AccountDetailFee">
+            <summary>
+            操作金额
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountDetailModel.AccountDetailAfterFee">
+            <summary>
+            操作后金额
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountDetailModel.AccountDetailDescription">
+            <summary>
+            操作描述
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountDetailModel.Remark">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealAccountDetailTypeEnum">
+            <summary>
+            点餐用户钱包账户明细流水类型枚举
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealAccountDetailTypeEnum.Consume">
+            <summary>
+            消费相关：用餐消费、取消订单、转让订单属于消费
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealAccountDetailTypeEnum.Recharge">
+            <summary>
+            充值
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealAccountDetailTypeEnum.Deduction">
+            <summary>
+            扣减：红冲属于扣减
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealAccountDetailTypeEnum.Refund">
+            <summary>
+            退款
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealAccountDetailIncomeTypeEnum">
+            <summary>
+            点餐用户钱包账户明细流水- 收支类型，0：收入，1：支出
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealAccountDetailIncomeTypeEnum.Income">
+            <summary>
+            收入
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealAccountDetailIncomeTypeEnum.Expenditure">
+            <summary>
+            支出
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealAccountModel">
+            <summary>
+            点餐用户钱包账户
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountModel.AccountGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountModel.HospitalGuid">
+            <summary>
+            账户所属医院guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountModel.UserType">
+            <summary>
+            用户类型，内部职工，外部人员
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountModel.AccountType">
+            <summary>
+            赠款，充值
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountModel.AccountBalance">
+            <summary>
+            账户余额
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealUserTypeEnum">
+            <summary>
+            点餐用户类型
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealUserTypeEnum.Internal">
+            <summary>
+            内部人员
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealUserTypeEnum.External">
+            <summary>
+            外部人员
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealAccountTypeEnum">
+            <summary>
+            点餐钱包账户类型
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealAccountTypeEnum.Recharge">
+            <summary>
+            个人充值款账户
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealAccountTypeEnum.Grant">
+            <summary>
+            赠款账户
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealAccountTradeDetailModel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountTradeDetailModel.AccountTradeDetailGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountTradeDetailModel.AccountGuid">
+            <summary>
+            账户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountTradeDetailModel.AccountTradeGuid">
+            <summary>
+            交易流水GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountTradeDetailModel.AccountTradeFee">
+            <summary>
+            指定账户交易金额
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealAccountTradeModel">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountTradeModel.AccountTradeGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountTradeModel.OrderGuid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountTradeModel.AccountTradeType">
+            <summary>
+            交易类型。0：消费，1：退款
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountTradeModel.AccountTradeFee">
+            <summary>
+            交易总金额
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAccountTradeModel.AccountTradeDescription">
+            <summary>
+            交易描述
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealAccountTradeTypeEnum">
+            <summary>
+            点餐订单交易类型
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealAccountTradeTypeEnum.Consumer">
+            <summary>
+            消费
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealAccountTradeTypeEnum.Refund">
+            <summary>
+            退款
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealAdminModel">
+            <summary>
+            点餐后台管理员
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAdminModel.AdminGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAdminModel.AdminName">
+            <summary>
+            账号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAdminModel.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAdminModel.HosName">
+            <summary>
+            医院名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealAdminModel.HospitalGuid">
+            <summary>
+            医院GUID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealCategoryModel">
+            <summary>
+            点餐餐别
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealCategoryModel.CategoryGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealCategoryModel.HospitalGuid">
+            <summary>
+            医院GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealCategoryModel.CategoryName">
+            <summary>
+            餐别名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealCategoryModel.MealStartTime">
+            <summary>
+            用餐开始时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealCategoryModel.MealEndTime">
+            <summary>
+            用餐截止时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealCategoryModel.CategoryAdvanceDay">
+            <summary>
+            提前几天，默认为0
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealCategoryModel.CategoryScheduleTime">
+            <summary>
+            可预订时间
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealDishesModel">
+            <summary>
+            点餐菜品
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealDishesModel.DishesGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealDishesModel.HospitalGuid">
+            <summary>
+            医院GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealDishesModel.DishesName">
+            <summary>
+            菜品名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealDishesModel.DishesImg">
+            <summary>
+            菜品图片
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealDishesModel.DishesInternalPrice">
+            <summary>
+            菜品内部价
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealDishesModel.DishesExternalPrice">
+            <summary>
+            菜品外部价
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealDishesModel.DishesDescription">
+            <summary>
+            菜品介绍
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealDishesModel.DishesOnsale">
+            <summary>
+            是否在售
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealMenuModel">
+            <summary>
+            点餐菜单
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealMenuModel.MenuGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealMenuModel.HospitalGuid">
+            <summary>
+            hsopital_guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealMenuModel.CategoryGuid">
+            <summary>
+            餐别GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealMenuModel.DishesGuid">
+            <summary>
+            菜品GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealMenuModel.MenuDate">
+            <summary>
+            菜单日期
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealOperatorModel">
+            <summary>
+            食堂操作员
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOperatorModel.OperatorGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOperatorModel.HospitalGuid">
+            <summary>
+            医院GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOperatorModel.UserName">
+            <summary>
+            用户名（手机号码）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOperatorModel.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealOrderDetailModel">
+            <summary>
+             点餐订单明细表实体
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderDetailModel.OrderDetailGuid">
+            <summary>
+            订单明细GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderDetailModel.OrderGuid">
+            <summary>
+            订单GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderDetailModel.DishesGuid">
+            <summary>
+            菜品GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderDetailModel.DishesName">
+            <summary>
+            菜品名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderDetailModel.Quantity">
+            <summary>
+            数量
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderDetailModel.UnitPrice">
+            <summary>
+            单价
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealOrderModel">
+            <summary>
+             点餐订单表实体
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.OrderGuid">
+            <summary>
+            订单GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.OrderNo">
+            <summary>
+            订单编号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.CategoryGuid">
+            <summary>
+            餐别GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.CategoryName">
+            <summary>
+            餐别名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.MealDate">
+            <summary>
+            用餐日期
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.MealStartTime">
+            <summary>
+            用餐开始时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.MealEndTime">
+            <summary>
+            用餐结束时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.HospitalGuid">
+            <summary>
+            就餐医院guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.OrderStatus">
+            <summary>
+            已付款/已取餐/已取消/已过期/已转让
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.Quantity">
+            <summary>
+            菜品数量
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.TotalPrice">
+            <summary>
+            总价
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.TransferredFrom">
+            <summary>
+            已转让订单的来源订单GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Meal.MealOrderModel.TransferredTo">
+            <summary>
+            已转让订单的去向订单GUID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Meal.MealOrderStatusEnum">
+            <summary>
+            点餐订单状态
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealOrderStatusEnum.Paided">
+            <summary>
+            已付款
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealOrderStatusEnum.Completed">
+            <summary>
+            已取餐
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealOrderStatusEnum.Canceled">
+            <summary>
+            已取消
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealOrderStatusEnum.Expired">
+            <summary>
+            已过期
+            </summary>
+        </member>
+        <member name="F:GD.Models.Meal.MealOrderStatusEnum.Transferred">
+            <summary>
+            已转让
+            </summary>
+        </member>
+        <member name="T:GD.Models.Merchant.BrandModel">
+            <summary>
+            产品品牌表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.BrandModel.BrandGuid">
+            <summary>
+            产品品牌GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.BrandModel.MerchantGuid">
+            <summary>
+            所属商户guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.BrandModel.BrandName">
+            <summary>
+            产品名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.BrandModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.BrandModel.PictureGuid">
+            <summary>
+            图片guid
+            </summary>
+        </member>
+        <member name="T:GD.Models.Merchant.MerchantFlowingModel">
+            <summary>
+            商户流水表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantFlowingModel.MerchantFlowingGuid">
+            <summary>
+            商户流水表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantFlowingModel.TransactionFlowingGuid">
+            <summary>
+            用户支付流水号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantFlowingModel.OrderGuid">
+            <summary>
+            订单GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantFlowingModel.MerchantAccount">
+            <summary>
+            商户账号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantFlowingModel.FlowState">
+            <summary>
+            金钱流动状态(PlatformNotReceived:平台未收款, PlatformCollection:平台已收款, RefundSuccess:已退款, RefundFailure:退款失败, 钱已经回退至平台, TradingClosed:交易关闭(失效), BeingAllocated:正在划拨, AllocatedSuccess:划拨成功, TransferFailed:划拨失败, 钱已经回退至平台)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantFlowingModel.Amount">
+            <summary>
+            金额
+            </summary>
+        </member>
+        <member name="T:GD.Models.Merchant.MerchantModel">
+            <summary>
+            商户表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantModel.MerchantGuid">
+            <summary>
+            商户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantModel.MerchantName">
+            <summary>
+            商户名
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantModel.MerchantGroupGuid">
+            <summary>
+            连锁店群组guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantModel.Status">
+            <summary>
+            账号申请状态
+            'reject','approved','submit','draft'
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantModel.SignatureGuid">
+            <summary>
+            签名附件guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantModel.Telephone">
+            <summary>
+            商家电话
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantModel.PlatformType">
+            <summary>
+            平台类型
+            </summary>
+        </member>
+        <member name="T:GD.Models.Merchant.MerchantModel.StatusEnum">
+            <summary>
+            状态
+            </summary>
+        </member>
+        <member name="F:GD.Models.Merchant.MerchantModel.StatusEnum.Reject">
+            <summary>
+            驳回
+            </summary>
+        </member>
+        <member name="F:GD.Models.Merchant.MerchantModel.StatusEnum.Approved">
+            <summary>
+            同意
+            </summary>
+        </member>
+        <member name="F:GD.Models.Merchant.MerchantModel.StatusEnum.Submit">
+            <summary>
+            提交
+            </summary>
+        </member>
+        <member name="F:GD.Models.Merchant.MerchantModel.StatusEnum.Draft">
+            <summary>
+            草稿
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantModel.MerchantAddress">
+            <summary>
+            商户地址
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantModel.MerchantPicture">
+            <summary>
+            商户图片
+            </summary>
+        </member>
+        <member name="T:GD.Models.Merchant.MerchantScheduleDetailModel">
+            <summary>
+             店铺排班明细Model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleDetailModel.ScheduleDetailGuid">
+            <summary>
+            排班明细GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleDetailModel.ScheduleGuid">
+            <summary>
+            排班GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleDetailModel.StartTime">
+            <summary>
+            开始时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleDetailModel.EndTime">
+            <summary>
+            结束时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleDetailModel.ConsumptionGuid">
+            <summary>
+            消费GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleDetailModel.LockDetailGuid">
+            <summary>
+            项目间隔锁定排班明细guid
+            </summary>
+        </member>
+        <member name="T:GD.Models.Merchant.MerchantScheduleModel">
+            <summary>
+             店铺排班model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleModel.ScheduleGuid">
+            <summary>
+            排班GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleModel.ScheduleDate">
+            <summary>
+            排班日期
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleModel.MerchantGuid">
+            <summary>
+            店铺guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleModel.TargetGuid">
+            <summary>
+            被排班人：美疗师GUID/其他
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleModel.TargetType">
+            <summary>
+            被排班人类型：美疗师/其他
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleModel.ScheduleTemplateGuid">
+            <summary>
+            周期排班GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleModel.WorkShiftGuid">
+            <summary>
+            班次GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleModel.FullStatus">
+            <summary>
+            是否约满
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleModel.ConfirmStatus">
+            <summary>
+            是否确认
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantScheduleModel.PlatformType">
+            <summary>
+            平台类型:CloudDoctor(智慧云医)；LifeCosmetology(生活美容)；MedicalCosmetology(医疗美容)
+            </summary>
+        </member>
+        <member name="T:GD.Models.Merchant.MerchantWorkShiftDetailModel">
+            <summary>
+             店铺班次明细Model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantWorkShiftDetailModel.WorkShiftDetailGuid">
+            <summary>
+            工作班次明细GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantWorkShiftDetailModel.WorkShiftGuid">
+            <summary>
+            工作班次GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantWorkShiftDetailModel.StartTime">
+            <summary>
+            开始时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantWorkShiftDetailModel.EndTime">
+            <summary>
+            结束时间
+            </summary>
+        </member>
+        <member name="T:GD.Models.Merchant.MerchantWorkShiftModel">
+            <summary>
+             店铺工作班次Model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantWorkShiftModel.WorkShiftGuid">
+            <summary>
+            工作班次GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantWorkShiftModel.WorkShiftName">
+            <summary>
+            班次名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantWorkShiftModel.TemplateGuid">
+            <summary>
+            班次模板GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantWorkShiftModel.MerchantGuid">
+            <summary>
+            所属店铺GUID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Merchant.MerchantWorkShiftTemplateModel">
+            <summary>
+            班次模板model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantWorkShiftTemplateModel.TemplateGuid">
+            <summary>
+            班次模板GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantWorkShiftTemplateModel.TemplateName">
+            <summary>
+            班次名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.MerchantWorkShiftTemplateModel.MerchantGuid">
+            <summary>
+            商户GUID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Merchant.ScheduleTemplateModel">
+            <summary>
+            周期排班模板关系表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.ScheduleTemplateModel.ScheduleTemplateGuid">
+            <summary>
+            周期排班GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.ScheduleTemplateModel.MerchantGuid">
+            <summary>
+            商户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.ScheduleTemplateModel.StartDate">
+            <summary>
+            起始日期
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.ScheduleTemplateModel.EndDate">
+            <summary>
+            结束日期
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.ScheduleTemplateModel.TemplateGuid">
+            <summary>
+            班次模板GUID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Merchant.ScopeModel">
+            <summary>
+            经营范围表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.ScopeModel.ScopeGuid">
+            <summary>
+            经营范围GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.ScopeModel.ScopeDicGuid">
+            <summary>
+            经营范围字典Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.ScopeModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.ScopeModel.PictureGuid">
+            <summary>
+            图片GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.ScopeModel.MerchantGuid">
+            <summary>
+            商户GUID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Merchant.TherapistModel">
+            <summary>
+             美疗师Model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.TherapistModel.TherapistGuid">
+            <summary>
+            美疗师GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.TherapistModel.TherapistName">
+            <summary>
+            美疗师姓名
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.TherapistModel.MerchantGuid">
+            <summary>
+            所属店铺guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.TherapistModel.WorkAge">
+            <summary>
+            工龄
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.TherapistModel.PortraitGuid">
+            <summary>
+            医生一寸照附件Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.TherapistModel.Honor">
+            <summary>
+            所获荣誉
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.TherapistModel.TaggedGuid">
+            <summary>
+            美容店GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.TherapistModel.IntroductionGuid">
+            <summary>
+            医生介绍(富文本guid)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.TherapistModel.Recommend">
+            <summary>
+            是否明星医生
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.TherapistModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.Merchant.TherapistProjectModel">
+            <summary>
+             美疗师可做项目关系表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.TherapistProjectModel.TherapistProjectGuid">
+            <summary>
+            美疗师项目关系GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.TherapistProjectModel.TherapistGuid">
+            <summary>
+            美疗师GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Merchant.TherapistProjectModel.ProjectGuid">
+            <summary>
+            美容项目GUID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Report.ReportApproveLogModel">
+            <summary>
+             问题模块-回答表实体
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveLogModel.ApprovedLogGuid">
+            <summary>
+            审批日志主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveLogModel.UserGuid">
+            <summary>
+            审批人guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveLogModel.TargetGuid">
+            <summary>
+            审批记录guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveLogModel.ApprovedResult">
+            <summary>
+            审批结果(驳回1/通过2/取消3)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveLogModel.ApprovedReason">
+            <summary>
+            审批原因
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveLogModel.ApprovedDatetime">
+            <summary>
+            审批时间
+            </summary>
+        </member>
+        <member name="T:GD.Models.Report.ReportApproveModel">
+            <summary>
+             问题模块-回答表实体
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveModel.ApproveGuid">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveModel.ThemeGuid">
+            <summary>
+            需求主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveModel.ApplyUserGuid">
+            <summary>
+            需求申请人
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveModel.SQLWriterGuid">
+            <summary>
+            编写sql的人
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveModel.SQLApproverGuid">
+            <summary>
+            sql审批人
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveModel.ListApproverGuid">
+            <summary>
+            数据列表审核人
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveModel.ApprovedReason">
+            <summary>
+            当前审批理由
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveModel.ApprovedDatetime">
+            <summary>
+            当前审批时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveModel.ApproveScheduleEnum">
+            <summary>
+            审批进度枚举
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportApproveModel.ApproveStatus">
+            <summary>
+            审批状态(待审批/驳回/通过/取消)
+            </summary>
+        </member>
+        <member name="T:GD.Models.Report.ReportConditionModel">
+            <summary>
+             问题模块-回答表实体
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportConditionModel.ConditionGuid">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportConditionModel.ThemeGuid">
+            <summary>
+            问题主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportConditionModel.Name">
+            <summary>
+            条件名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportConditionModel.FieldCode">
+            <summary>
+            字段名
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportConditionModel.FieldValueSql">
+            <summary>
+            条件sql语句
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportConditionModel.IsRightSql">
+            <summary>
+            该条件sql是否可执行
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportConditionModel.ValueType">
+            <summary>
+            取值类型，默认为字符类型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportConditionModel.ValueRange">
+            <summary>
+            取值范围
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportConditionModel.ExtensionField">
+            <summary>
+            扩展字段
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportConditionModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="T:GD.Models.Report.ReportThemeModel">
+            <summary>
+             报表需求
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportThemeModel.ThemeGuid">
+            <summary>
+            报表需求
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportThemeModel.Name">
+            <summary>
+            报表名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportThemeModel.Demand">
+            <summary>
+            报表需求
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportThemeModel.ConditionDemand">
+            <summary>
+            报表条件需求
+            </summary>
+        </member>
+        <member name="P:GD.Models.Report.ReportThemeModel.SQLStr">
+            <summary>
+            sql语句
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.AccessoryModel">
+            <summary>
+            附件表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.AccessoryModel.AccessoryGuid">
+            <summary>
+            附件GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.AccessoryModel.OwnerGuid">
+            <summary>
+            来源GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.AccessoryModel.BasePath">
+            <summary>
+            基础路径
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.AccessoryModel.RelativePath">
+            <summary>
+            相对路径
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.AccessoryModel.Extension">
+            <summary>
+            文件后缀名
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.ActionCharacteristicsModel">
+            <summary>
+            行为特性model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ActionCharacteristicsModel.ActionCharacteristicsGuid">
+            <summary>
+            行为特性GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ActionCharacteristicsModel.ActioCcharacteristicsCode">
+            <summary>
+            行为特性code
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ActionCharacteristicsModel.ActionCharacteristicsName">
+            <summary>
+            行为特性名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ActionCharacteristicsModel.ActionCharacteristicsType">
+            <summary>
+            行为特征类型
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.AliasModel">
+            <summary>
+            别名表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.AliasModel.AliasGuid">
+            <summary>
+            别名主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.AliasModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.AliasModel.TargetGuid">
+            <summary>
+            别名针对的目标GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.AliasModel.AliasName">
+            <summary>
+            别名
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.ArticleModel">
+            <summary>
+            文章表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ArticleModel.ArticleGuid">
+            <summary>
+            文章GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ArticleModel.AuthorGuid">
+            <summary>
+            作者GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ArticleModel.SourceType">
+            <summary>
+            来源类型(医生文章、平台文章)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ArticleModel.Keyword">
+            <summary>
+            关键字
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ArticleModel.ContentGuid">
+            <summary>
+            文章富文本内容GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ArticleModel.Title">
+            <summary>
+            标题
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ArticleModel.Abstract">
+            <summary>
+            简介
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ArticleModel.PictureGuid">
+            <summary>
+            图片GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ArticleModel.ArticleTypeDic">
+            <summary>
+            文章类型CODE
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ArticleModel.Visible">
+            <summary>
+            是否显示
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ArticleModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ArticleModel.PlatformType">
+            <summary>
+            平台类型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ArticleModel.ActcleReleaseStatus">
+            <summary>
+            发布状态
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.ArticleModel.ArticleSourceTypeEnum">
+            <summary>
+            文章来源类型
+            </summary>
+        </member>
+        <member name="F:GD.Models.Utility.ArticleModel.ArticleSourceTypeEnum.Doctor">
+            <summary>
+            医生文章
+            </summary>
+        </member>
+        <member name="F:GD.Models.Utility.ArticleModel.ArticleSourceTypeEnum.Manager">
+            <summary>
+            平台文章
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.ReleaseStatus">
+            <summary>
+            发布状态
+            </summary>
+        </member>
+        <member name="F:GD.Models.Utility.ReleaseStatus.Release">
+            <summary>
+            发布
+            </summary>
+        </member>
+        <member name="F:GD.Models.Utility.ReleaseStatus.NoRelease">
+            <summary>
+            未发布
+            </summary>
+        </member>
+        <member name="F:GD.Models.Utility.ReleaseStatus.Reject">
+            <summary>
+            驳回
+            </summary>
+        </member>
+        <member name="F:GD.Models.Utility.ReleaseStatus.ReviewPass">
+            <summary>
+            审核通过
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.CertificateModel">
+            <summary>
+            证书表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CertificateModel.CertificateGuid">
+            <summary>
+            证书GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CertificateModel.PictureGuid">
+            <summary>
+            证书图片GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CertificateModel.OwnerGuid">
+            <summary>
+            证书持有人GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CertificateModel.DicGuid">
+            <summary>
+            配置项GUID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.CodeModel">
+            <summary>
+            最大自增id存储
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CodeModel.Id">
+            <summary>
+            id
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CodeModel.MealOrderMaxId">
+            <summary>
+            优惠券，自增最大id
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.CourseModel">
+            <summary>
+            课堂表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CourseModel.CourseGuid">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CourseModel.Title">
+            <summary>
+            标题
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CourseModel.Summary">
+            <summary>
+            简介
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CourseModel.Visible">
+            <summary>
+            否显示
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CourseModel.ContentGuid">
+            <summary>
+            文章富文本内容GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CourseModel.LogoGuid">
+            <summary>
+            图片guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CourseModel.VideoGuid">
+            <summary>
+            课堂视频资源
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.CourseModel.AuthorGuid">
+            <summary>
+            作者GUID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.HelpModel">
+            <summary>
+            平台帮助控制器
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.HelpModel.HelpGuid">
+            <summary>
+            主键GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.HelpModel.Question">
+            <summary>
+            问题
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.HelpModel.Answer">
+            <summary>
+            解答
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.HelpModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.HelpModel.PlatformType">
+            <summary>
+            平台类型:CLOUDDOCTOR(智慧云医)；LIFECOSMETOLOGY(生活美容)；MEDICALCOSMETOLOGY(医疗美容)
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.HotModel">
+            <summary>
+            访问量，点赞量统计
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.HotModel.OwnerGuid">
+            <summary>
+            主键(与目标对象主键guid值相同)
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.HotModel.LikeCount">
+            <summary>
+            点赞量
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.HotModel.VisitCount">
+            <summary>
+            访问量
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.HotModel.CollectCount">
+            <summary>
+            收藏量
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.MessageModel">
+            <summary>
+            消息表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.MessageModel.MsgGuid">
+            <summary>
+            消息GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.MessageModel.TopicGuid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.MessageModel.FromGuid">
+            <summary>
+            发送者GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.MessageModel.ToGuid">
+            <summary>
+            接收者GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.MessageModel.Context">
+            <summary>
+            消息内容
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.RichtextModel">
+            <summary>
+            富文本表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.RichtextModel.TextGuid">
+            <summary>
+            富文本GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.RichtextModel.OwnerGuid">
+            <summary>
+            属于谁的富文本
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.RichtextModel.Content">
+            <summary>
+            文章内容
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.ScoreModel">
+            <summary>
+            用户积分表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreModel.ScoreGuid">
+            <summary>
+            积分项GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreModel.UserGuid">
+            <summary>
+            用户GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreModel.RulesGuid">
+            <summary>
+            规则GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreModel.UserTypeGuid">
+            <summary>
+            用户类型Guid
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreModel.Variation">
+            <summary>
+            积分变化，+/-
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreModel.Reason">
+            <summary>
+            积分变化原因
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreModel.PlatformType">
+            <summary>
+            平台类型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreModel.ScoreLock">
+            <summary>
+            是否锁定
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreModel.ScoreRecordGuid">
+            <summary>
+            积分记录guid
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.ScoreRulesModel">
+            <summary>
+            积分规则model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreRulesModel.RulesGuid">
+            <summary>
+            规则GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreRulesModel.UserActionGuid">
+            <summary>
+            用户行为GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreRulesModel.RulesType">
+            <summary>
+            规则类型:Unlimited(无限制); Year(每年); Month(每月); Week(每周); Day(每天);
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreRulesModel.UsageCount">
+            <summary>
+            使用次数
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreRulesModel.UserTypeGuid">
+            <summary>
+            用户类型GUID，关联字典表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.ScoreRulesModel.Variation">
+            <summary>
+            积分变化，+/-
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.TaggedModel">
+            <summary>
+            标签表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TaggedModel.TagGuid">
+            <summary>
+            标签GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TaggedModel.OwnerGuid">
+            <summary>
+            标签所属者GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TaggedModel.Tags">
+            <summary>
+            标签内容，JSON格式[{"LABLE":"","TIMES":1}]
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TaggedModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TaggedModel.PlatformType">
+            <summary>
+            平台类型--默认智慧云医
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.TestModel">
+            <summary>
+            测试表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TestModel.TestGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TestModel.TestName">
+            <summary>
+            测试名
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.TopicModel">
+            <summary>
+            会话主题表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TopicModel.TopicGuid">
+            <summary>
+            主题GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TopicModel.SponsorGuid">
+            <summary>
+            发起者GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TopicModel.ReceiverGuid">
+            <summary>
+            接收者GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TopicModel.AboutGuid">
+            <summary>
+            话题关于GUID(如来自商品或直接问的医生）
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TopicModel.AboutType">
+            <summary>
+            aboutGuid对应枚举类型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TopicModel.BeginDate">
+            <summary>
+            开始时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TopicModel.EndDate">
+            <summary>
+            结束时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.TopicModel.PlatformType">
+            <summary>
+            平台类型
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.UserActionCharacteristics">
+            <summary>
+            用户行为特征实体类
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserActionCharacteristics.UserActionGuid">
+            <summary>
+            用户行为GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserActionCharacteristics.UserTypeGuid">
+            <summary>
+            用户类型GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserActionCharacteristics.ActionGuid">
+            <summary>
+            操作GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserActionCharacteristics.ActioCcharacteristicsCode">
+            <summary>
+            行为特性code
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserActionCharacteristics.ActionCharacteristicsName">
+            <summary>
+            行为特性名称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserActionCharacteristics.Enable">
+            <summary>
+            使能标志
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserActionCharacteristics.CreatedBy">
+            <summary>
+            创建人
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserActionCharacteristics.CreationDate">
+            <summary>
+            创建时间，默认为系统当前时间
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserActionCharacteristics.LastUpdatedBy">
+            <summary>
+            最后修改人
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserActionCharacteristics.LastUpdatedDate">
+            <summary>
+            最后修改日期，默认为系统当前时间
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.UserActionModel">
+            <summary>
+            用户行为Model
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserActionModel.UserActionGuid">
+            <summary>
+            用户行为GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserActionModel.UserTypeGuid">
+            <summary>
+            用户类型GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserActionModel.ActionGuid">
+            <summary>
+            操作GUID
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.UserModel">
+            <summary>
+            用户表模型
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserModel.UserGuid">
+            <summary>
+            GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserModel.WechatOpenid">
+            <summary>
+            微信ID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserModel.RecommendGuid">
+            <summary>
+            推荐人GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserModel.NickName">
+            <summary>
+            用户昵称
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserModel.UserName">
+            <summary>
+            真实姓名
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserModel.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserModel.Phone">
+            <summary>
+            手机号码
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserModel.Gender">
+            <summary>
+            性别（M/F），默认为M
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserModel.Birthday">
+            <summary>
+            生日
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserModel.IdentityNumber">
+            <summary>
+            身份证号
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UserModel.PortraitGuid">
+            <summary>
+            头像
+            </summary>
+        </member>
+        <member name="T:GD.Models.Utility.UtilityAccessoryModel">
+            <summary>
+            附件表
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UtilityAccessoryModel.AssessoryGuid">
+            <summary>
+            附件GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UtilityAccessoryModel.OwnerGuid">
+            <summary>
+            来源GUID
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UtilityAccessoryModel.BasePath">
+            <summary>
+            基础路径
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UtilityAccessoryModel.RelativeUrl">
+            <summary>
+            相对路径
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UtilityAccessoryModel.Extension">
+            <summary>
+            文件后缀名
+            </summary>
+        </member>
+        <member name="P:GD.Models.Utility.UtilityAccessoryModel.Sort">
+            <summary>
+            排序
+            </summary>
+        </member>
+    </members>
+</doc>

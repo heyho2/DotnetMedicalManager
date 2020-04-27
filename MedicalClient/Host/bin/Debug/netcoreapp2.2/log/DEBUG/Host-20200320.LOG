@@ -1,0 +1,5 @@
+﻿00:11:08 DEBUG - 删除redis中无效用户的出席状态key:["test"]
+01:11:08 DEBUG - 删除redis中无效用户的出席状态key:["test"]
+02:11:08 DEBUG - 删除redis中无效用户的出席状态key:["test"]
+08:47:29 DEBUG - 删除redis中无效用户的出席状态key:["test"]
+09:47:29 DEBUG - 删除redis中无效用户的出席状态key:["test"]

@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>GD.Dtos</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>GD.Dtos</PackageId>
+    <Authors>ZhouHaiyan</Authors>
+    <Company>GuoDan</Company>
+    <Product>GuoDan Cloud</Product>
+    <Description>数据传输对象</Description>
+    <PackageReleaseNotes>数据传输对象</PackageReleaseNotes>
+    <PackageProjectUrl>http://api.guodan.com</PackageProjectUrl>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>Dtos.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DtoResponse\**" />
+    <EmbeddedResource Remove="DtoResponse\**" />
+    <None Remove="DtoResponse\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GD.Common" Version="1.0.1.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Dtos.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Consumer\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Models\Models.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,42 @@
+﻿14:37:45 ERROR - ::1
+14:37:45 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Column 'type_code' cannot be null
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Common.DbCommand.ExecuteNonQueryAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 678
+   at Dapper.SimpleCRUD.InsertAsync[TKey,TEntity](IDbConnection connection, TEntity entityToInsert, IDbTransaction transaction, Nullable`1 commandTimeout) in \\SERVER1\Folder Redirection\ericc\Documents\GitHub\Dapper.SimpleCRUD\Dapper.SimpleCRUD\SimpleCRUDAsync.cs:line 301
+   at GD.Manager.BaseBiz`1.InsertAsync(T entity) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\BaseBiz.cs:line 33
+   at GD.API.Controllers.System.DictionaryController.AddDictionaryAsync(AddDictionaryRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\System\DictionaryController.cs:line 201
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+14:39:01 ERROR - ::1
+14:39:01 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Column 'type_code' cannot be null
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Common.DbCommand.ExecuteNonQueryAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.ExecuteImplAsync(IDbConnection cnn, CommandDefinition command, Object param) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 678
+   at Dapper.SimpleCRUD.InsertAsync[TKey,TEntity](IDbConnection connection, TEntity entityToInsert, IDbTransaction transaction, Nullable`1 commandTimeout) in \\SERVER1\Folder Redirection\ericc\Documents\GitHub\Dapper.SimpleCRUD\Dapper.SimpleCRUD\SimpleCRUDAsync.cs:line 301
+   at GD.Manager.BaseBiz`1.InsertAsync(T entity) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\BaseBiz.cs:line 33
+   at GD.API.Controllers.System.DictionaryController.AddDictionaryAsync(AddDictionaryRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\System\DictionaryController.cs:line 201
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()

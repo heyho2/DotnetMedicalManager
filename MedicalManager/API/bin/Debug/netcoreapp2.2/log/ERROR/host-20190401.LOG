@@ -1,0 +1,218 @@
+﻿16:41:05 ERROR - ::1
+16:41:05 ERROR - System.ArgumentException: Entity must have at least one [Key] property
+   at Dapper.SimpleCRUD.GetListAsync[T](IDbConnection connection, String conditions, Object parameters, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.Manager.Utility.ScoreBiz.GetUserPointsAsync(String[] users) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\Utility\ScoreBiz.cs:line 35
+   at GD.API.Controllers.Doctor.DoctorController.GetDoctorIntegralPageAsync(GetDoctorIntegralPageRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Doctor\DoctorController.cs:line 369
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+16:41:23 ERROR - ::1
+16:41:23 ERROR - System.ArgumentException: Entity must have at least one [Key] property
+   at Dapper.SimpleCRUD.GetListAsync[T](IDbConnection connection, String conditions, Object parameters, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.Manager.Utility.ScoreBiz.GetUserPointsAsync(String[] users) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\Utility\ScoreBiz.cs:line 35
+   at GD.API.Controllers.Doctor.DoctorController.GetDoctorIntegralPageAsync(GetDoctorIntegralPageRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Doctor\DoctorController.cs:line 369
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+16:41:30 ERROR - ::1
+16:41:30 ERROR - System.ArgumentException: Entity must have at least one [Key] property
+   at Dapper.SimpleCRUD.GetListAsync[T](IDbConnection connection, String conditions, Object parameters, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.Manager.Utility.ScoreBiz.GetUserPointsAsync(String[] users) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\Utility\ScoreBiz.cs:line 35
+   at GD.API.Controllers.Doctor.DoctorController.GetDoctorIntegralPageAsync(GetDoctorIntegralPageRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Doctor\DoctorController.cs:line 369
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+16:41:33 ERROR - ::1
+16:41:33 ERROR - System.ArgumentException: Entity must have at least one [Key] property
+   at Dapper.SimpleCRUD.GetListAsync[T](IDbConnection connection, String conditions, Object parameters, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.Manager.Utility.ScoreBiz.GetUserPointsAsync(String[] users) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\Utility\ScoreBiz.cs:line 35
+   at GD.API.Controllers.Doctor.DoctorController.GetDoctorIntegralPageAsync(GetDoctorIntegralPageRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Doctor\DoctorController.cs:line 369
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+16:42:17 ERROR - ::1
+16:42:17 ERROR - System.ArgumentException: Entity must have at least one [Key] property
+   at Dapper.SimpleCRUD.GetListAsync[T](IDbConnection connection, String conditions, Object parameters, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.Manager.Utility.ScoreBiz.GetUserPointsAsync(String[] users) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\Utility\ScoreBiz.cs:line 35
+   at GD.API.Controllers.Doctor.DoctorController.GetDoctorIntegralPageAsync(GetDoctorIntegralPageRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Doctor\DoctorController.cs:line 369
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+17:37:29 ERROR - ::1
+17:37:29 ERROR - System.NullReferenceException: Object reference not set to an instance of an object.
+   at MySql.Data.MySqlClient.MySqlConnection.get_ServerThread()
+   at MySql.Data.MySqlClient.MySqlConnection.Abort()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Utility.ScoreBiz.GetIntegralInfoPageAsync(GetIntegralInfoPageRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\Utility\ScoreBiz.cs:line 85
+   at GD.API.Controllers.Doctor.DoctorController.GetIntegralInfoPageAsync(GetIntegralInfoPageRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Doctor\DoctorController.cs:line 389
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+20:02:20 ERROR - ::1
+20:02:20 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'actcle_release_type' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Dapper.SimpleCRUD.GetAsync[T](IDbConnection connection, Object id, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.Manager.BaseBiz`1.GetAsync(Object id) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\BaseBiz.cs:line 19
+   at GD.API.Controllers.Utility.ArticleController.GetArticleInfoAsync(GetArticleInfoRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\ArticleController.cs:line 149
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+20:02:22 ERROR - ::1
+20:02:22 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'actcle_release_type' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Dapper.SimpleCRUD.GetAsync[T](IDbConnection connection, Object id, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.Manager.BaseBiz`1.GetAsync(Object id) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\BaseBiz.cs:line 19
+   at GD.API.Controllers.Utility.ArticleController.GetArticleInfoAsync(GetArticleInfoRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\ArticleController.cs:line 149
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+20:02:22 ERROR - ::1
+20:02:22 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'actcle_release_type' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Dapper.SimpleCRUD.GetAsync[T](IDbConnection connection, Object id, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.Manager.BaseBiz`1.GetAsync(Object id) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\BaseBiz.cs:line 19
+   at GD.API.Controllers.Utility.ArticleController.GetArticleInfoAsync(GetArticleInfoRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\ArticleController.cs:line 149
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+20:02:23 ERROR - ::1
+20:02:23 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'actcle_release_type' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Dapper.SimpleCRUD.GetAsync[T](IDbConnection connection, Object id, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.Manager.BaseBiz`1.GetAsync(Object id) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\BaseBiz.cs:line 19
+   at GD.API.Controllers.Utility.ArticleController.GetArticleInfoAsync(GetArticleInfoRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\ArticleController.cs:line 149
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+20:02:23 ERROR - ::1
+20:02:23 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'actcle_release_type' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Dapper.SimpleCRUD.GetAsync[T](IDbConnection connection, Object id, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.Manager.BaseBiz`1.GetAsync(Object id) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\BaseBiz.cs:line 19
+   at GD.API.Controllers.Utility.ArticleController.GetArticleInfoAsync(GetArticleInfoRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\ArticleController.cs:line 149
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+20:02:32 ERROR - ::1
+20:02:32 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'actcle_release_type' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Dapper.SimpleCRUD.GetAsync[T](IDbConnection connection, Object id, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.Manager.BaseBiz`1.GetAsync(Object id) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\BaseBiz.cs:line 19
+   at GD.API.Controllers.Utility.ArticleController.GetArticleInfoAsync(GetArticleInfoRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\ArticleController.cs:line 149
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+20:03:42 ERROR - ::1
+20:03:42 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'actcle_release_type' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Dapper.SimpleCRUD.GetAsync[T](IDbConnection connection, Object id, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.Manager.BaseBiz`1.GetAsync(Object id) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\BaseBiz.cs:line 19
+   at GD.API.Controllers.Utility.ArticleController.GetArticleInfoAsync(GetArticleInfoRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Utility\ArticleController.cs:line 149
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()

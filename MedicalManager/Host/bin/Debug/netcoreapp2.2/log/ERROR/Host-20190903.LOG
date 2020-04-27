@@ -1,0 +1,84 @@
+﻿11:38:41 ERROR - ::1
+11:38:41 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Data truncated for column 'value_type' at row 1
+   at GD.DataAccess.MySqlHelper.TransactionAsync(Func`3 func)
+   at Report.CommonReportThemeBiz.ApplyCreateReport(ReportThemeModel tModel, List`1 conditionModelList) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\Report\CommonReportThemeBiz.cs:line 69
+   at GD.API.Controllers.Report.CommonReportController.CreateReport(CreateReportRequest requestDto) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Report\CommonReportController.cs:line 107
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+11:38:51 ERROR - ::1
+11:38:51 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Data truncated for column 'value_type' at row 1
+   at GD.DataAccess.MySqlHelper.TransactionAsync(Func`3 func)
+   at Report.CommonReportThemeBiz.ApplyCreateReport(ReportThemeModel tModel, List`1 conditionModelList) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\Report\CommonReportThemeBiz.cs:line 69
+   at GD.API.Controllers.Report.CommonReportController.CreateReport(CreateReportRequest requestDto) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Report\CommonReportController.cs:line 107
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+11:38:52 ERROR - ::1
+11:38:52 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Data truncated for column 'value_type' at row 1
+   at GD.DataAccess.MySqlHelper.TransactionAsync(Func`3 func)
+   at Report.CommonReportThemeBiz.ApplyCreateReport(ReportThemeModel tModel, List`1 conditionModelList) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\Report\CommonReportThemeBiz.cs:line 69
+   at GD.API.Controllers.Report.CommonReportController.CreateReport(CreateReportRequest requestDto) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Report\CommonReportController.cs:line 107
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+11:38:53 ERROR - ::1
+11:38:53 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Data truncated for column 'value_type' at row 1
+   at GD.DataAccess.MySqlHelper.TransactionAsync(Func`3 func)
+   at Report.CommonReportThemeBiz.ApplyCreateReport(ReportThemeModel tModel, List`1 conditionModelList) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\Report\CommonReportThemeBiz.cs:line 69
+   at GD.API.Controllers.Report.CommonReportController.CreateReport(CreateReportRequest requestDto) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Report\CommonReportController.cs:line 107
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+11:38:53 ERROR - ::1
+11:38:53 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Data truncated for column 'value_type' at row 1
+   at GD.DataAccess.MySqlHelper.TransactionAsync(Func`3 func)
+   at Report.CommonReportThemeBiz.ApplyCreateReport(ReportThemeModel tModel, List`1 conditionModelList) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\Report\CommonReportThemeBiz.cs:line 69
+   at GD.API.Controllers.Report.CommonReportController.CreateReport(CreateReportRequest requestDto) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Report\CommonReportController.cs:line 107
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+11:40:45 ERROR - ::1
+11:40:45 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Data truncated for column 'value_type' at row 1
+   at GD.DataAccess.MySqlHelper.TransactionAsync(Func`3 func)
+   at Report.CommonReportThemeBiz.ApplyCreateReport(ReportThemeModel tModel, List`1 conditionModelList) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\Report\CommonReportThemeBiz.cs:line 69
+   at GD.API.Controllers.Report.CommonReportController.CreateReport(CreateReportRequest requestDto) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Report\CommonReportController.cs:line 107
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+11:42:54 ERROR - ::1
+11:42:54 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Data truncated for column 'value_type' at row 1
+   at GD.DataAccess.MySqlHelper.TransactionAsync(Func`3 func)
+   at Report.CommonReportThemeBiz.ApplyCreateReport(ReportThemeModel tModel, List`1 conditionModelList) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\Report\CommonReportThemeBiz.cs:line 69
+   at GD.API.Controllers.Report.CommonReportController.CreateReport(CreateReportRequest requestDto) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\Report\CommonReportController.cs:line 107
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()

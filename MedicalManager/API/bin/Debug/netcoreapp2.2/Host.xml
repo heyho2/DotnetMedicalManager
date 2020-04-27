@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Host</name>
+    </assembly>
+    <members>
+        <member name="M:GD.Host.Code.MvcOptionsEx.UseCentralRoutePrefix(Microsoft.AspNetCore.Mvc.MvcOptions,Microsoft.AspNetCore.Mvc.Routing.IRouteTemplateProvider)">
+            <summary>
+            配置路由前缀
+            </summary>
+            <param name="options"></param>
+            <param name="routeTemplateProvider"></param>
+        </member>
+        <member name="T:GD.Host.Filter.ActionFilter">
+            <summary>
+            执行过滤器
+            </summary>
+        </member>
+        <member name="M:GD.Host.Filter.ActionFilter.OnActionExecuting(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext)">
+            <summary>
+            处理执行前事件
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:GD.Host.Filter.ActionFilter.OnActionExecuted(Microsoft.AspNetCore.Mvc.Filters.ActionExecutedContext)">
+            <summary>
+            处理执行完成事件
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="T:GD.Host.Filter.ExceptionFilter">
+            <summary>
+            异常过滤器
+            </summary>
+        </member>
+        <member name="M:GD.Host.Filter.ExceptionFilter.OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)">
+            <summary>
+            捕获系统运行时异常，并记录客户端IP地址和异常堆栈信息
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="T:Host.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Host.Program.Main(System.String[])">
+            <summary>
+            主程序入口
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="T:Host.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Host.Startup.PREFIX">
+            <summary>
+            路径前缀
+            </summary>
+        </member>
+        <member name="P:Host.Startup.Version">
+            <summary>
+            平台版本号
+            </summary>
+        </member>
+        <member name="P:Host.Startup.SystemName">
+            <summary>
+            系统名
+            </summary>
+        </member>
+        <member name="P:Host.Startup.Configuration">
+            <summary>
+            配置器
+            </summary>
+        </member>
+        <member name="M:Host.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="M:Host.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Host.Startup.SetSwaggerGen(Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions)">
+            <summary>
+            
+            </summary>
+            <param name="options"></param>
+        </member>
+        <member name="M:Host.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+        <member name="M:Host.Startup.SetSwaggerUI(Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptions)">
+            <summary>
+            
+            </summary>
+            <param name="options"></param>
+        </member>
+        <member name="M:Host.Startup.IncludeXmlComments(Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions,System.String[])">
+            <summary>
+            添加XML注释文档
+            </summary>
+            <param name="options"></param>
+            <param name="names"></param>
+        </member>
+        <member name="M:Host.Startup.GetAllowCors(GD.AppSettings.Settings)">
+            <summary>
+            获取允许跨域配置
+            </summary>
+            <param name="settings"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

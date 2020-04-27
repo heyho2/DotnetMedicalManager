@@ -1,0 +1,16 @@
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\bin\Release\netcoreapp2.2\Models.xml
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\bin\Release\netcoreapp2.2\Dtos.xml
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\bin\Release\netcoreapp2.2\Merchant.deps.json
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\bin\Release\netcoreapp2.2\Merchant.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\bin\Release\netcoreapp2.2\Merchant.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\bin\Release\netcoreapp2.2\Dtos.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\bin\Release\netcoreapp2.2\Models.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\bin\Release\netcoreapp2.2\Models.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\bin\Release\netcoreapp2.2\Dtos.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\obj\Release\netcoreapp2.2\Merchant.csprojAssemblyReference.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\obj\Release\netcoreapp2.2\Merchant.csproj.CoreCompileInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\obj\Release\netcoreapp2.2\Merchant.AssemblyInfoInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\obj\Release\netcoreapp2.2\Merchant.AssemblyInfo.cs
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\obj\Release\netcoreapp2.2\Merchant.csproj.CopyComplete
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\obj\Release\netcoreapp2.2\Merchant.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Merchant\obj\Release\netcoreapp2.2\Merchant.pdb

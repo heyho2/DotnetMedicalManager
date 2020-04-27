@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Product>GuoDan Cloud</Product>
+    <Company>GuoDan</Company>
+    <Authors>ZhouHaiyan</Authors>
+    <RootNamespace>GD.Models</RootNamespace>
+    <PackageId>GD.Models</PackageId>
+    <AssemblyName>Models</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>http://api.guodan.com</PackageProjectUrl>
+    <Description>数据库实体模型</Description>
+    <PackageReleaseNotes>数据库实体模型</PackageReleaseNotes>
+    <Version>1.0.0.1</Version>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>Models.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Consumer\Model\**" />
+    <EmbeddedResource Remove="Consumer\Model\**" />
+    <None Remove="Consumer\Model\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="BaseModel.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Models.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Models.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GD.Common" Version="1.0.1.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Consultant\" />
+    <Folder Include="Questionnaire\" />
+    <Folder Include="Health\" />
+    <Folder Include="Payment\" />
+  </ItemGroup>
+
+</Project>

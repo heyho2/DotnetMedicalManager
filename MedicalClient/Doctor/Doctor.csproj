@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>GD.Doctor</RootNamespace>
+    <Authors>ZhouHaiyan</Authors>
+    <Product>GuoDan Cloud</Product>
+    <Company>GuoDan</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>http://api.guodan.com</PackageProjectUrl>
+    <Description>医生业务模块</Description>
+    <PackageId>GD.Doctor</PackageId>
+    <PackageReleaseNotes>医生业务模块</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GD.DataAccess" Version="1.0.1.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Models\Models.csproj" />
+    <ProjectReference Include="..\..\Utility\Utility.csproj" />
+    <ProjectReference Include="..\Dtos\Dtos.csproj" />
+  </ItemGroup>
+
+</Project>

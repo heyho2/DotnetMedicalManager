@@ -1,0 +1,1328 @@
+﻿08:59:28 INFO  - hzl 成功登录Openfire
+08:59:42 INFO  - 开始保存聊天消息数据
+08:59:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒7毫秒
+09:00:42 INFO  - 开始保存聊天消息数据
+09:00:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:01:42 INFO  - 开始保存聊天消息数据
+09:01:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:02:42 INFO  - 开始保存聊天消息数据
+09:02:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:03:42 INFO  - 开始保存聊天消息数据
+09:03:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+09:04:42 INFO  - 开始保存聊天消息数据
+09:04:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒24毫秒
+09:05:42 INFO  - 开始保存聊天消息数据
+09:05:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:06:42 INFO  - 开始保存聊天消息数据
+09:06:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+09:07:42 INFO  - 开始保存聊天消息数据
+09:07:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:08:42 INFO  - 开始保存聊天消息数据
+09:08:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:09:42 INFO  - 开始保存聊天消息数据
+09:09:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+09:10:42 INFO  - 开始保存聊天消息数据
+09:10:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:11:42 INFO  - 开始保存聊天消息数据
+09:11:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:12:42 INFO  - 开始保存聊天消息数据
+09:12:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:13:42 INFO  - 开始保存聊天消息数据
+09:13:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:14:42 INFO  - 开始保存聊天消息数据
+09:14:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:15:42 INFO  - 开始保存聊天消息数据
+09:15:42 INFO  - 聊天消息数据保存完成，共处理条 1 数据。耗时：0时0分0秒177毫秒
+09:16:42 INFO  - 开始保存聊天消息数据
+09:16:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:17:42 INFO  - 开始保存聊天消息数据
+09:17:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:18:42 INFO  - 开始保存聊天消息数据
+09:18:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:19:42 INFO  - 开始保存聊天消息数据
+09:19:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+09:20:42 INFO  - 开始保存聊天消息数据
+09:20:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+09:21:42 INFO  - 开始保存聊天消息数据
+09:21:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:22:42 INFO  - 开始保存聊天消息数据
+09:22:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+09:23:42 INFO  - 开始保存聊天消息数据
+09:23:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒20毫秒
+09:24:42 INFO  - 开始保存聊天消息数据
+09:24:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:25:42 INFO  - 开始保存聊天消息数据
+09:25:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:26:42 INFO  - 开始保存聊天消息数据
+09:26:42 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+09:27:53 INFO  - hzl 成功登录Openfire
+09:27:53 INFO  - 开始保存聊天消息数据
+09:27:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒638毫秒
+09:28:53 INFO  - 开始保存聊天消息数据
+09:28:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+09:29:53 INFO  - 开始保存聊天消息数据
+09:29:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒26毫秒
+09:30:53 INFO  - 开始保存聊天消息数据
+09:30:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:31:53 INFO  - 开始保存聊天消息数据
+09:31:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:32:53 INFO  - 开始保存聊天消息数据
+09:32:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+09:33:53 INFO  - 开始保存聊天消息数据
+09:33:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+09:34:53 INFO  - 开始保存聊天消息数据
+09:34:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+09:35:53 INFO  - 开始保存聊天消息数据
+09:35:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+09:36:53 INFO  - 开始保存聊天消息数据
+09:36:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:37:53 INFO  - 开始保存聊天消息数据
+09:37:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:38:53 INFO  - 开始保存聊天消息数据
+09:38:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:39:53 INFO  - 开始保存聊天消息数据
+09:39:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:40:53 INFO  - 开始保存聊天消息数据
+09:40:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:41:53 INFO  - 开始保存聊天消息数据
+09:41:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:42:53 INFO  - 开始保存聊天消息数据
+09:42:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:43:53 INFO  - 开始保存聊天消息数据
+09:43:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+09:44:53 INFO  - 开始保存聊天消息数据
+09:44:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:45:53 INFO  - 开始保存聊天消息数据
+09:45:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:46:53 INFO  - 开始保存聊天消息数据
+09:46:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+09:47:53 INFO  - 开始保存聊天消息数据
+09:47:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:48:53 INFO  - 开始保存聊天消息数据
+09:48:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:49:53 INFO  - 开始保存聊天消息数据
+09:49:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+09:50:53 INFO  - 开始保存聊天消息数据
+09:50:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:51:53 INFO  - 开始保存聊天消息数据
+09:51:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:52:53 INFO  - 开始保存聊天消息数据
+09:52:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+09:53:53 INFO  - 开始保存聊天消息数据
+09:53:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒184毫秒
+09:54:53 INFO  - 开始保存聊天消息数据
+09:54:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+09:55:53 INFO  - 开始保存聊天消息数据
+09:55:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:56:53 INFO  - 开始保存聊天消息数据
+09:56:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:57:53 INFO  - 开始保存聊天消息数据
+09:57:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+09:58:53 INFO  - 开始保存聊天消息数据
+09:58:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+09:59:53 INFO  - 开始保存聊天消息数据
+09:59:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:00:53 INFO  - 开始保存聊天消息数据
+10:00:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:01:53 INFO  - 开始保存聊天消息数据
+10:01:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:02:53 INFO  - 开始保存聊天消息数据
+10:02:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:03:53 INFO  - 开始保存聊天消息数据
+10:03:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:04:53 INFO  - 开始保存聊天消息数据
+10:04:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:05:53 INFO  - 开始保存聊天消息数据
+10:05:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒22毫秒
+10:06:53 INFO  - 开始保存聊天消息数据
+10:06:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:07:53 INFO  - 开始保存聊天消息数据
+10:07:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:08:53 INFO  - 开始保存聊天消息数据
+10:08:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒22毫秒
+10:09:53 INFO  - 开始保存聊天消息数据
+10:09:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+10:10:53 INFO  - 开始保存聊天消息数据
+10:10:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:11:53 INFO  - 开始保存聊天消息数据
+10:11:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:12:53 INFO  - 开始保存聊天消息数据
+10:12:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:13:53 INFO  - 开始保存聊天消息数据
+10:13:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:14:53 INFO  - 开始保存聊天消息数据
+10:14:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:15:53 INFO  - 开始保存聊天消息数据
+10:15:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:16:53 INFO  - 开始保存聊天消息数据
+10:16:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒23毫秒
+10:17:53 INFO  - 开始保存聊天消息数据
+10:17:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒21毫秒
+10:18:53 INFO  - 开始保存聊天消息数据
+10:18:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:19:53 INFO  - 开始保存聊天消息数据
+10:19:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:20:53 INFO  - 开始保存聊天消息数据
+10:20:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:21:53 INFO  - 开始保存聊天消息数据
+10:21:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒7毫秒
+10:22:53 INFO  - 开始保存聊天消息数据
+10:22:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+10:23:53 INFO  - 开始保存聊天消息数据
+10:23:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:24:53 INFO  - 开始保存聊天消息数据
+10:24:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:25:53 INFO  - 开始保存聊天消息数据
+10:25:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:26:53 INFO  - 开始保存聊天消息数据
+10:26:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+10:27:53 INFO  - 开始保存聊天消息数据
+10:27:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+10:28:53 INFO  - 开始保存聊天消息数据
+10:28:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:29:53 INFO  - 开始保存聊天消息数据
+10:29:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:30:53 INFO  - 开始保存聊天消息数据
+10:30:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+10:31:53 INFO  - 开始保存聊天消息数据
+10:31:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+10:32:53 INFO  - 开始保存聊天消息数据
+10:32:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:33:53 INFO  - 开始保存聊天消息数据
+10:33:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:34:53 INFO  - 开始保存聊天消息数据
+10:34:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+10:35:53 INFO  - 开始保存聊天消息数据
+10:35:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:36:53 INFO  - 开始保存聊天消息数据
+10:36:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:37:53 INFO  - 开始保存聊天消息数据
+10:37:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:38:53 INFO  - 开始保存聊天消息数据
+10:38:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+10:39:53 INFO  - 开始保存聊天消息数据
+10:39:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒38毫秒
+10:40:53 INFO  - 开始保存聊天消息数据
+10:40:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒27毫秒
+10:41:53 INFO  - 开始保存聊天消息数据
+10:41:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+10:42:53 INFO  - 开始保存聊天消息数据
+10:42:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+10:43:53 INFO  - 开始保存聊天消息数据
+10:43:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+10:44:53 INFO  - 开始保存聊天消息数据
+10:44:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:45:53 INFO  - 开始保存聊天消息数据
+10:45:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+10:46:53 INFO  - 开始保存聊天消息数据
+10:46:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:47:53 INFO  - 开始保存聊天消息数据
+10:47:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+10:48:53 INFO  - 开始保存聊天消息数据
+10:48:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:49:53 INFO  - 开始保存聊天消息数据
+10:49:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:50:53 INFO  - 开始保存聊天消息数据
+10:50:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:51:53 INFO  - 开始保存聊天消息数据
+10:51:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:52:53 INFO  - 开始保存聊天消息数据
+10:52:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+10:53:53 INFO  - 开始保存聊天消息数据
+10:53:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+10:54:53 INFO  - 开始保存聊天消息数据
+10:54:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:55:53 INFO  - 开始保存聊天消息数据
+10:55:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:56:53 INFO  - 开始保存聊天消息数据
+10:56:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:57:53 INFO  - 开始保存聊天消息数据
+10:57:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:58:53 INFO  - 开始保存聊天消息数据
+10:58:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+10:59:53 INFO  - 开始保存聊天消息数据
+10:59:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:00:53 INFO  - 开始保存聊天消息数据
+11:00:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+11:01:53 INFO  - 开始保存聊天消息数据
+11:01:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:02:53 INFO  - 开始保存聊天消息数据
+11:02:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+11:03:53 INFO  - 开始保存聊天消息数据
+11:03:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+11:04:53 INFO  - 开始保存聊天消息数据
+11:04:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:05:53 INFO  - 开始保存聊天消息数据
+11:05:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+11:06:53 INFO  - 开始保存聊天消息数据
+11:06:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+11:07:53 INFO  - 开始保存聊天消息数据
+11:07:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:08:53 INFO  - 开始保存聊天消息数据
+11:08:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+11:09:53 INFO  - 开始保存聊天消息数据
+11:09:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+11:10:05 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 324ms
+11:10:06 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 537ms
+11:10:07 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 119ms
+11:10:07 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 142ms
+11:10:07 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 187ms
+11:10:07 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 160ms
+11:10:07 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 108ms
+11:10:07 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 218ms
+11:10:08 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 295ms
+11:10:11 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 244ms
+11:10:12 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 43ms
+11:10:12 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 157ms
+11:10:12 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 34ms
+11:10:12 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 54ms
+11:10:12 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 38ms
+11:10:12 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 48ms
+11:10:13 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 274ms
+11:10:53 INFO  - 开始保存聊天消息数据
+11:10:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+11:11:53 INFO  - 开始保存聊天消息数据
+11:11:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:12:53 INFO  - 开始保存聊天消息数据
+11:12:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+11:13:53 INFO  - 开始保存聊天消息数据
+11:13:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:14:53 INFO  - 开始保存聊天消息数据
+11:14:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:15:53 INFO  - 开始保存聊天消息数据
+11:15:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:16:53 INFO  - 开始保存聊天消息数据
+11:16:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+11:17:53 INFO  - 开始保存聊天消息数据
+11:17:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒21毫秒
+11:18:53 INFO  - 开始保存聊天消息数据
+11:18:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+11:19:53 INFO  - 开始保存聊天消息数据
+11:19:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒23毫秒
+11:20:53 INFO  - 开始保存聊天消息数据
+11:20:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒25毫秒
+11:21:53 INFO  - 开始保存聊天消息数据
+11:21:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:22:53 INFO  - 开始保存聊天消息数据
+11:22:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+11:23:53 INFO  - 开始保存聊天消息数据
+11:23:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:24:53 INFO  - 开始保存聊天消息数据
+11:24:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+11:25:53 INFO  - 开始保存聊天消息数据
+11:25:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+11:26:53 INFO  - 开始保存聊天消息数据
+11:26:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+11:27:53 INFO  - 开始保存聊天消息数据
+11:27:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒48毫秒
+11:28:53 INFO  - 开始保存聊天消息数据
+11:28:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒42毫秒
+11:29:53 INFO  - 开始保存聊天消息数据
+11:29:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒30毫秒
+11:30:53 INFO  - 开始保存聊天消息数据
+11:30:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+11:31:53 INFO  - 开始保存聊天消息数据
+11:31:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+11:32:53 INFO  - 开始保存聊天消息数据
+11:32:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:33:53 INFO  - 开始保存聊天消息数据
+11:33:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+11:34:53 INFO  - 开始保存聊天消息数据
+11:34:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+11:35:05 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 143ms
+11:35:07 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 26ms
+11:35:07 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 24ms
+11:35:07 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 44ms
+11:35:07 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 104ms
+11:35:07 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 108ms
+11:35:07 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 142ms
+11:35:08 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 257ms
+11:35:09 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 44ms
+11:35:11 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 47ms
+11:35:11 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 34ms
+11:35:11 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 21ms
+11:35:11 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 84ms
+11:35:11 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 33ms
+11:35:11 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 75ms
+11:35:12 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 310ms
+11:35:27 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 38ms
+11:35:27 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 43ms
+11:35:27 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 77ms
+11:35:27 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 93ms
+11:35:27 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 55ms
+11:35:27 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 53ms
+11:35:27 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 87ms
+11:35:27 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 271ms
+11:35:43 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 25ms
+11:35:44 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 41ms
+11:35:44 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 76ms
+11:35:44 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 41ms
+11:35:44 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 28ms
+11:35:44 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 52ms
+11:35:44 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 97ms
+11:35:45 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 299ms
+11:35:53 INFO  - 开始保存聊天消息数据
+11:35:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒21毫秒
+11:36:53 INFO  - 开始保存聊天消息数据
+11:36:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:37:04 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 42ms
+11:37:04 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 30ms
+11:37:04 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 25ms
+11:37:04 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 34ms
+11:37:04 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 74ms
+11:37:04 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 32ms
+11:37:04 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 63ms
+11:37:05 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 300ms
+11:37:53 INFO  - 开始保存聊天消息数据
+11:37:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+11:38:04 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 58ms
+11:38:05 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 258ms
+11:38:10 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 49ms
+11:38:10 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 252ms
+11:38:32 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 47ms
+11:38:32 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 318ms
+11:38:53 INFO  - 开始保存聊天消息数据
+11:38:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+11:39:53 INFO  - 开始保存聊天消息数据
+11:39:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:40:53 INFO  - 开始保存聊天消息数据
+11:40:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+11:41:53 INFO  - 开始保存聊天消息数据
+11:41:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+11:42:53 INFO  - 开始保存聊天消息数据
+11:42:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+11:43:53 INFO  - 开始保存聊天消息数据
+11:43:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:44:53 INFO  - 开始保存聊天消息数据
+11:44:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:45:53 INFO  - 开始保存聊天消息数据
+11:45:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:46:53 INFO  - 开始保存聊天消息数据
+11:46:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:47:53 INFO  - 开始保存聊天消息数据
+11:47:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+11:48:53 INFO  - 开始保存聊天消息数据
+11:48:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:49:01 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 121ms
+11:49:02 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 267ms
+11:49:39 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+11:49:39 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 274ms
+11:49:53 INFO  - 开始保存聊天消息数据
+11:49:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:49:59 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 45ms
+11:50:00 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 315ms
+11:50:53 INFO  - 开始保存聊天消息数据
+11:50:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:51:25 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 88ms
+11:51:25 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 315ms
+11:51:25 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 247ms
+11:51:26 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 85ms
+11:51:26 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 79ms
+11:51:26 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 438ms
+11:51:26 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 507ms
+11:51:29 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 348ms
+11:51:33 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 63ms
+11:51:34 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 284ms
+11:51:53 INFO  - 开始保存聊天消息数据
+11:51:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:52:53 INFO  - 开始保存聊天消息数据
+11:52:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+11:53:53 INFO  - 开始保存聊天消息数据
+11:53:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+11:54:53 INFO  - 开始保存聊天消息数据
+11:54:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+11:55:24 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 136ms
+11:55:24 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 154ms
+11:55:24 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 30ms
+11:55:24 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 48ms
+11:55:24 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 30ms
+11:55:25 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 74ms
+11:55:25 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 273ms
+11:55:31 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+11:55:32 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 283ms
+11:55:53 INFO  - 开始保存聊天消息数据
+11:55:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+11:56:53 INFO  - 开始保存聊天消息数据
+11:56:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+11:57:53 INFO  - 开始保存聊天消息数据
+11:57:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:58:53 INFO  - 开始保存聊天消息数据
+11:58:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:59:53 INFO  - 开始保存聊天消息数据
+11:59:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+12:00:53 INFO  - 开始保存聊天消息数据
+12:00:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:01:53 INFO  - 开始保存聊天消息数据
+12:01:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:02:53 INFO  - 开始保存聊天消息数据
+12:02:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:03:53 INFO  - 开始保存聊天消息数据
+12:03:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:04:53 INFO  - 开始保存聊天消息数据
+12:04:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+12:05:53 INFO  - 开始保存聊天消息数据
+12:05:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+12:06:53 INFO  - 开始保存聊天消息数据
+12:06:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:07:53 INFO  - 开始保存聊天消息数据
+12:07:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+12:08:53 INFO  - 开始保存聊天消息数据
+12:08:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:09:53 INFO  - 开始保存聊天消息数据
+12:09:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒27毫秒
+12:10:53 INFO  - 开始保存聊天消息数据
+12:10:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+12:11:53 INFO  - 开始保存聊天消息数据
+12:11:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:12:53 INFO  - 开始保存聊天消息数据
+12:12:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:13:53 INFO  - 开始保存聊天消息数据
+12:13:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:14:53 INFO  - 开始保存聊天消息数据
+12:14:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:15:53 INFO  - 开始保存聊天消息数据
+12:15:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+12:16:53 INFO  - 开始保存聊天消息数据
+12:16:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+12:17:53 INFO  - 开始保存聊天消息数据
+12:17:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:18:53 INFO  - 开始保存聊天消息数据
+12:18:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:19:53 INFO  - 开始保存聊天消息数据
+12:19:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+12:20:53 INFO  - 开始保存聊天消息数据
+12:20:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:21:53 INFO  - 开始保存聊天消息数据
+12:21:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:22:53 INFO  - 开始保存聊天消息数据
+12:22:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:23:53 INFO  - 开始保存聊天消息数据
+12:23:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒26毫秒
+12:24:53 INFO  - 开始保存聊天消息数据
+12:24:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+12:25:53 INFO  - 开始保存聊天消息数据
+12:25:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:26:53 INFO  - 开始保存聊天消息数据
+12:26:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:27:53 INFO  - 开始保存聊天消息数据
+12:27:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+12:28:53 INFO  - 开始保存聊天消息数据
+12:28:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:29:53 INFO  - 开始保存聊天消息数据
+12:29:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:30:53 INFO  - 开始保存聊天消息数据
+12:30:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:31:53 INFO  - 开始保存聊天消息数据
+12:31:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:32:53 INFO  - 开始保存聊天消息数据
+12:32:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:33:53 INFO  - 开始保存聊天消息数据
+12:33:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:34:53 INFO  - 开始保存聊天消息数据
+12:34:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:35:53 INFO  - 开始保存聊天消息数据
+12:35:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:36:53 INFO  - 开始保存聊天消息数据
+12:36:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒26毫秒
+12:37:53 INFO  - 开始保存聊天消息数据
+12:37:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:38:53 INFO  - 开始保存聊天消息数据
+12:38:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:39:53 INFO  - 开始保存聊天消息数据
+12:39:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+12:40:53 INFO  - 开始保存聊天消息数据
+12:40:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:41:53 INFO  - 开始保存聊天消息数据
+12:41:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:42:53 INFO  - 开始保存聊天消息数据
+12:42:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:43:53 INFO  - 开始保存聊天消息数据
+12:43:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+12:44:53 INFO  - 开始保存聊天消息数据
+12:44:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:45:53 INFO  - 开始保存聊天消息数据
+12:45:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:46:53 INFO  - 开始保存聊天消息数据
+12:46:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:47:53 INFO  - 开始保存聊天消息数据
+12:47:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:48:53 INFO  - 开始保存聊天消息数据
+12:48:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:49:53 INFO  - 开始保存聊天消息数据
+12:49:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+12:50:53 INFO  - 开始保存聊天消息数据
+12:50:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:51:53 INFO  - 开始保存聊天消息数据
+12:51:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒22毫秒
+12:52:53 INFO  - 开始保存聊天消息数据
+12:52:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+12:53:53 INFO  - 开始保存聊天消息数据
+12:53:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:54:53 INFO  - 开始保存聊天消息数据
+12:54:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:55:53 INFO  - 开始保存聊天消息数据
+12:55:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:56:53 INFO  - 开始保存聊天消息数据
+12:56:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+12:57:53 INFO  - 开始保存聊天消息数据
+12:57:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:58:53 INFO  - 开始保存聊天消息数据
+12:58:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:59:53 INFO  - 开始保存聊天消息数据
+12:59:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+13:00:53 INFO  - 开始保存聊天消息数据
+13:00:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:01:53 INFO  - 开始保存聊天消息数据
+13:01:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+13:02:53 INFO  - 开始保存聊天消息数据
+13:02:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:03:53 INFO  - 开始保存聊天消息数据
+13:03:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:04:53 INFO  - 开始保存聊天消息数据
+13:04:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:05:53 INFO  - 开始保存聊天消息数据
+13:05:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+13:06:53 INFO  - 开始保存聊天消息数据
+13:06:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+13:07:53 INFO  - 开始保存聊天消息数据
+13:07:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:08:53 INFO  - 开始保存聊天消息数据
+13:08:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:09:53 INFO  - 开始保存聊天消息数据
+13:09:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:10:53 INFO  - 开始保存聊天消息数据
+13:10:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+13:11:53 INFO  - 开始保存聊天消息数据
+13:11:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:12:53 INFO  - 开始保存聊天消息数据
+13:12:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+13:13:53 INFO  - 开始保存聊天消息数据
+13:13:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒23毫秒
+13:14:53 INFO  - 开始保存聊天消息数据
+13:14:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+13:15:53 INFO  - 开始保存聊天消息数据
+13:15:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:16:53 INFO  - 开始保存聊天消息数据
+13:16:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+13:17:53 INFO  - 开始保存聊天消息数据
+13:17:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:18:53 INFO  - 开始保存聊天消息数据
+13:18:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:19:53 INFO  - 开始保存聊天消息数据
+13:19:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+13:20:53 INFO  - 开始保存聊天消息数据
+13:20:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+13:21:53 INFO  - 开始保存聊天消息数据
+13:21:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:22:53 INFO  - 开始保存聊天消息数据
+13:22:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+13:23:53 INFO  - 开始保存聊天消息数据
+13:23:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+13:24:53 INFO  - 开始保存聊天消息数据
+13:24:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+13:25:53 INFO  - 开始保存聊天消息数据
+13:25:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+13:26:53 INFO  - 开始保存聊天消息数据
+13:26:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:27:53 INFO  - 开始保存聊天消息数据
+13:27:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+13:28:53 INFO  - 开始保存聊天消息数据
+13:28:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:29:53 INFO  - 开始保存聊天消息数据
+13:29:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+13:30:53 INFO  - 开始保存聊天消息数据
+13:30:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:31:53 INFO  - 开始保存聊天消息数据
+13:31:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:32:53 INFO  - 开始保存聊天消息数据
+13:32:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+13:33:53 INFO  - 开始保存聊天消息数据
+13:33:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+13:34:53 INFO  - 开始保存聊天消息数据
+13:34:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:35:53 INFO  - 开始保存聊天消息数据
+13:35:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+13:36:53 INFO  - 开始保存聊天消息数据
+13:36:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:37:53 INFO  - 开始保存聊天消息数据
+13:37:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:38:53 INFO  - 开始保存聊天消息数据
+13:38:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+13:39:53 INFO  - 开始保存聊天消息数据
+13:39:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:40:53 INFO  - 开始保存聊天消息数据
+13:40:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+13:41:53 INFO  - 开始保存聊天消息数据
+13:41:54 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分1秒20毫秒
+13:42:53 INFO  - 开始保存聊天消息数据
+13:42:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+13:43:53 INFO  - 开始保存聊天消息数据
+13:43:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒7毫秒
+13:44:53 INFO  - 开始保存聊天消息数据
+13:44:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+13:45:53 INFO  - 开始保存聊天消息数据
+13:45:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+13:46:53 INFO  - 开始保存聊天消息数据
+13:46:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒21毫秒
+13:47:15 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 162ms
+13:47:16 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 274ms
+13:47:19 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 106ms
+13:47:20 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 239ms
+13:47:53 INFO  - 开始保存聊天消息数据
+13:47:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+13:48:53 INFO  - 开始保存聊天消息数据
+13:48:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:49:28 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 42ms
+13:49:28 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 373ms
+13:49:53 INFO  - 开始保存聊天消息数据
+13:49:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:50:08 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 65ms
+13:50:08 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 303ms
+13:50:25 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 60ms
+13:50:27 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 280ms
+13:50:34 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 42ms
+13:50:35 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 320ms
+13:50:53 INFO  - 开始保存聊天消息数据
+13:50:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+13:51:23 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 185ms
+13:51:24 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 559ms
+13:51:28 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 38ms
+13:51:30 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 335ms
+13:51:53 INFO  - 开始保存聊天消息数据
+13:51:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+13:52:53 INFO  - 开始保存聊天消息数据
+13:52:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+13:52:58 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 38ms
+13:53:02 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 288ms
+13:53:15 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 45ms
+13:53:15 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 292ms
+13:53:32 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 52ms
+13:53:32 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 461ms
+13:53:53 INFO  - 开始保存聊天消息数据
+13:53:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒49毫秒
+13:53:53 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 97ms
+13:53:54 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 335ms
+13:54:20 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 81ms
+13:54:20 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 339ms
+13:54:52 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 83ms
+13:54:52 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 400ms
+13:54:53 INFO  - 开始保存聊天消息数据
+13:54:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+13:55:26 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 84ms
+13:55:27 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 302ms
+13:55:51 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 100ms
+13:55:52 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 291ms
+13:55:53 INFO  - 开始保存聊天消息数据
+13:55:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒20毫秒
+13:56:53 INFO  - 开始保存聊天消息数据
+13:56:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+13:57:53 INFO  - 开始保存聊天消息数据
+13:57:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+13:58:53 INFO  - 开始保存聊天消息数据
+13:58:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:59:15 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 85ms
+13:59:33 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 1738ms
+13:59:53 INFO  - 开始保存聊天消息数据
+13:59:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒23毫秒
+14:00:53 INFO  - 开始保存聊天消息数据
+14:00:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+14:01:53 INFO  - 开始保存聊天消息数据
+14:01:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+14:02:53 INFO  - 开始保存聊天消息数据
+14:02:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+14:03:53 INFO  - 开始保存聊天消息数据
+14:03:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+14:04:53 INFO  - 开始保存聊天消息数据
+14:04:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒21毫秒
+14:05:53 INFO  - 开始保存聊天消息数据
+14:05:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+14:06:13 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 258ms
+14:06:13 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 214ms
+14:06:13 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 151ms
+14:06:13 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 263ms
+14:06:13 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 451ms
+14:06:13 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 209ms
+14:06:14 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 345ms
+14:06:19 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 52ms
+14:06:20 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 317ms
+14:06:53 INFO  - 开始保存聊天消息数据
+14:06:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+14:07:53 INFO  - 开始保存聊天消息数据
+14:07:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+14:08:53 INFO  - 开始保存聊天消息数据
+14:09:53 INFO  - 开始保存聊天消息数据
+14:10:53 INFO  - 开始保存聊天消息数据
+14:16:19 INFO  - hzl 成功登录Openfire
+14:17:15 INFO  - 开始保存聊天消息数据
+15:23:19 INFO  - 开始保存聊天消息数据
+15:23:19 INFO  - hzl 成功登录Openfire
+15:23:21 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分1秒954毫秒
+15:23:26 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 625ms
+15:23:26 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 931ms
+15:23:32 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 62ms
+15:23:33 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 301ms
+15:23:49 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 92ms
+15:23:50 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 251ms
+15:23:55 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 52ms
+15:23:56 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 284ms
+15:24:05 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 55ms
+15:24:06 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 290ms
+15:24:12 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 76ms
+15:24:13 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 331ms
+15:24:19 INFO  - 开始保存聊天消息数据
+15:24:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+15:25:19 INFO  - 开始保存聊天消息数据
+15:25:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+15:26:19 INFO  - 开始保存聊天消息数据
+15:26:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+15:27:19 INFO  - 开始保存聊天消息数据
+15:27:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+15:28:19 INFO  - 开始保存聊天消息数据
+15:28:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+15:29:19 INFO  - 开始保存聊天消息数据
+15:29:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+15:30:19 INFO  - 开始保存聊天消息数据
+15:30:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+15:31:04 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 79ms
+15:31:05 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 56ms
+15:31:05 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 132ms
+15:31:05 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 71ms
+15:31:05 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 91ms
+15:31:05 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 106ms
+15:31:05 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 155ms
+15:31:05 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 77ms
+15:31:06 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 263ms
+15:31:06 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 299ms
+15:31:19 INFO  - 开始保存聊天消息数据
+15:31:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+15:31:29 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 36ms
+15:31:29 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 258ms
+15:32:12 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+15:32:13 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 372ms
+15:32:19 INFO  - 开始保存聊天消息数据
+15:32:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+15:32:54 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 36ms
+15:32:55 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 333ms
+15:33:19 INFO  - 开始保存聊天消息数据
+15:33:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+15:33:56 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 33ms
+15:33:56 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 254ms
+15:34:19 INFO  - 开始保存聊天消息数据
+15:34:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+15:35:19 INFO  - 开始保存聊天消息数据
+15:35:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+15:36:19 INFO  - 开始保存聊天消息数据
+15:36:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+15:37:05 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 27ms
+15:37:06 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 29ms
+15:37:06 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 20ms
+15:37:06 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 59ms
+15:37:06 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 29ms
+15:37:06 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 45ms
+15:37:06 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 19ms
+15:37:07 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 250ms
+15:37:19 INFO  - 开始保存聊天消息数据
+15:37:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+15:38:19 INFO  - 开始保存聊天消息数据
+15:38:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+15:39:19 INFO  - 开始保存聊天消息数据
+15:39:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒23毫秒
+15:39:19 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 41ms
+15:39:20 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 330ms
+15:40:19 INFO  - 开始保存聊天消息数据
+15:40:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+15:41:19 INFO  - 开始保存聊天消息数据
+15:41:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+15:42:19 INFO  - 开始保存聊天消息数据
+15:42:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+15:43:19 INFO  - 开始保存聊天消息数据
+15:43:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+15:43:57 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 41ms
+15:43:58 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 336ms
+15:44:18 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 60ms
+15:44:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 312ms
+15:44:19 INFO  - 开始保存聊天消息数据
+15:44:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒29毫秒
+15:45:19 INFO  - 开始保存聊天消息数据
+15:45:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+15:46:19 INFO  - 开始保存聊天消息数据
+15:46:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+15:47:19 INFO  - 开始保存聊天消息数据
+15:47:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+15:48:18 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 134ms
+15:48:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 292ms
+15:48:19 INFO  - 开始保存聊天消息数据
+15:48:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+15:49:19 INFO  - 开始保存聊天消息数据
+15:49:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+15:50:19 INFO  - 开始保存聊天消息数据
+15:50:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+15:50:50 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 53ms
+15:50:50 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 342ms
+15:51:17 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 84ms
+15:51:17 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 340ms
+15:51:19 INFO  - 开始保存聊天消息数据
+15:51:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+15:52:19 INFO  - 开始保存聊天消息数据
+15:52:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+15:52:37 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 51ms
+15:52:37 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 321ms
+15:53:19 INFO  - 开始保存聊天消息数据
+15:53:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+15:54:19 INFO  - 开始保存聊天消息数据
+15:54:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+15:55:19 INFO  - 开始保存聊天消息数据
+15:55:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+15:56:19 INFO  - 开始保存聊天消息数据
+15:56:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+15:57:19 INFO  - 开始保存聊天消息数据
+15:57:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+15:58:19 INFO  - 开始保存聊天消息数据
+15:58:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+15:59:19 INFO  - 开始保存聊天消息数据
+15:59:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:00:19 INFO  - 开始保存聊天消息数据
+16:00:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:01:19 INFO  - 开始保存聊天消息数据
+16:01:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:02:19 INFO  - 开始保存聊天消息数据
+16:02:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒25毫秒
+16:03:04 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 115ms
+16:03:04 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 32ms
+16:03:04 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 29ms
+16:03:04 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 112ms
+16:03:04 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 32ms
+16:03:04 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 74ms
+16:03:04 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 114ms
+16:03:05 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 342ms
+16:03:19 INFO  - 开始保存聊天消息数据
+16:03:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+16:04:19 INFO  - 开始保存聊天消息数据
+16:04:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+16:05:19 INFO  - 开始保存聊天消息数据
+16:05:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒23毫秒
+16:06:19 INFO  - 开始保存聊天消息数据
+16:06:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:07:19 INFO  - 开始保存聊天消息数据
+16:07:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:08:19 INFO  - 开始保存聊天消息数据
+16:08:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:08:30 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 52ms
+16:08:31 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 290ms
+16:09:19 INFO  - 开始保存聊天消息数据
+16:09:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:10:19 INFO  - 开始保存聊天消息数据
+16:10:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+16:11:19 INFO  - 开始保存聊天消息数据
+16:11:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:12:19 INFO  - 开始保存聊天消息数据
+16:12:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:12:59 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 163ms
+16:12:59 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 267ms
+16:13:19 INFO  - 开始保存聊天消息数据
+16:13:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:14:19 INFO  - 开始保存聊天消息数据
+16:14:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒31毫秒
+16:15:18 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 47ms
+16:15:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 342ms
+16:15:19 INFO  - 开始保存聊天消息数据
+16:15:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+16:16:19 INFO  - 开始保存聊天消息数据
+16:16:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:17:19 INFO  - 开始保存聊天消息数据
+16:17:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:17:33 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 61ms
+16:17:33 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 302ms
+16:17:42 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 47ms
+16:18:04 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 50ms
+16:18:05 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 337ms
+16:18:18 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 44ms
+16:18:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 352ms
+16:18:19 INFO  - 开始保存聊天消息数据
+16:18:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+16:18:27 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+16:18:28 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 241ms
+16:18:53 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 48ms
+16:18:54 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 328ms
+16:19:19 INFO  - 开始保存聊天消息数据
+16:19:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:20:19 INFO  - 开始保存聊天消息数据
+16:20:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:21:19 INFO  - 开始保存聊天消息数据
+16:21:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒22毫秒
+16:22:19 INFO  - 开始保存聊天消息数据
+16:22:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:23:19 INFO  - 开始保存聊天消息数据
+16:23:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+16:24:19 INFO  - 开始保存聊天消息数据
+16:24:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:25:19 INFO  - 开始保存聊天消息数据
+16:25:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:26:19 INFO  - 开始保存聊天消息数据
+16:26:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+16:27:19 INFO  - 开始保存聊天消息数据
+16:27:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒31毫秒
+16:28:06 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 141ms
+16:28:08 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 266ms
+16:28:19 INFO  - 开始保存聊天消息数据
+16:28:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+16:28:22 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+16:28:23 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 261ms
+16:28:38 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 51ms
+16:28:39 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 330ms
+16:29:00 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 54ms
+16:29:01 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 311ms
+16:29:16 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 48ms
+16:29:17 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 283ms
+16:29:19 INFO  - 开始保存聊天消息数据
+16:29:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+16:29:31 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 62ms
+16:29:32 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 292ms
+16:30:19 INFO  - 开始保存聊天消息数据
+16:30:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+16:31:19 INFO  - 开始保存聊天消息数据
+16:31:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+16:32:19 INFO  - 开始保存聊天消息数据
+16:32:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+16:32:26 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 51ms
+16:32:27 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 311ms
+16:32:49 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 53ms
+16:32:50 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 269ms
+16:32:58 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 67ms
+16:32:59 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 261ms
+16:33:19 INFO  - 开始保存聊天消息数据
+16:33:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:33:27 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 59ms
+16:33:28 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 287ms
+16:34:19 INFO  - 开始保存聊天消息数据
+16:34:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+16:35:15 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 47ms
+16:35:15 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 278ms
+16:35:19 INFO  - 开始保存聊天消息数据
+16:35:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+16:36:19 INFO  - 开始保存聊天消息数据
+16:36:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+16:37:19 INFO  - 开始保存聊天消息数据
+16:37:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+16:38:19 INFO  - 开始保存聊天消息数据
+16:38:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:39:19 INFO  - 开始保存聊天消息数据
+16:39:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒51毫秒
+16:40:19 INFO  - 开始保存聊天消息数据
+16:40:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:41:10 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 192ms
+16:41:11 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 313ms
+16:41:19 INFO  - 开始保存聊天消息数据
+16:41:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+16:42:19 INFO  - 开始保存聊天消息数据
+16:42:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+16:43:19 INFO  - 开始保存聊天消息数据
+16:43:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:44:19 INFO  - 开始保存聊天消息数据
+16:44:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:45:19 INFO  - 开始保存聊天消息数据
+16:45:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:46:08 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 141ms
+16:46:08 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 317ms
+16:46:19 INFO  - 开始保存聊天消息数据
+16:46:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+16:47:19 INFO  - 开始保存聊天消息数据
+16:47:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒227毫秒
+16:48:19 INFO  - 开始保存聊天消息数据
+16:48:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:49:19 INFO  - 开始保存聊天消息数据
+16:49:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+16:50:19 INFO  - 开始保存聊天消息数据
+16:50:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+16:51:19 INFO  - 开始保存聊天消息数据
+16:51:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:52:19 INFO  - 开始保存聊天消息数据
+16:52:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:53:19 INFO  - 开始保存聊天消息数据
+16:53:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:54:19 INFO  - 开始保存聊天消息数据
+16:54:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:55:19 INFO  - 开始保存聊天消息数据
+16:55:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+16:56:19 INFO  - 开始保存聊天消息数据
+16:56:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:57:19 INFO  - 开始保存聊天消息数据
+16:57:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+16:58:19 INFO  - 开始保存聊天消息数据
+16:58:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+16:59:19 INFO  - 开始保存聊天消息数据
+16:59:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒25毫秒
+17:00:19 INFO  - 开始保存聊天消息数据
+17:00:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:01:19 INFO  - 开始保存聊天消息数据
+17:01:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:02:19 INFO  - 开始保存聊天消息数据
+17:02:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:03:19 INFO  - 开始保存聊天消息数据
+17:03:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:04:19 INFO  - 开始保存聊天消息数据
+17:04:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:05:19 INFO  - 开始保存聊天消息数据
+17:05:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:06:19 INFO  - 开始保存聊天消息数据
+17:06:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+17:07:19 INFO  - 开始保存聊天消息数据
+17:07:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:08:19 INFO  - 开始保存聊天消息数据
+17:08:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:09:19 INFO  - 开始保存聊天消息数据
+17:09:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:10:19 INFO  - 开始保存聊天消息数据
+17:10:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:11:19 INFO  - 开始保存聊天消息数据
+17:11:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:11:38 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 151ms
+17:11:38 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 312ms
+17:12:01 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 76ms
+17:12:02 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 292ms
+17:12:19 INFO  - 开始保存聊天消息数据
+17:12:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:12:25 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 90ms
+17:12:26 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 325ms
+17:12:36 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 232ms
+17:12:36 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 288ms
+17:13:04 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 58ms
+17:13:05 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 302ms
+17:13:19 INFO  - 开始保存聊天消息数据
+17:13:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+17:13:26 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 129ms
+17:13:27 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 268ms
+17:14:01 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 78ms
+17:14:02 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 298ms
+17:14:19 INFO  - 开始保存聊天消息数据
+17:14:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:14:31 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 59ms
+17:14:32 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 276ms
+17:15:19 INFO  - 开始保存聊天消息数据
+17:15:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+17:16:19 INFO  - 开始保存聊天消息数据
+17:16:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒20毫秒
+17:16:32 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 149ms
+17:16:33 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 300ms
+17:17:00 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 58ms
+17:17:01 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 392ms
+17:17:19 INFO  - 开始保存聊天消息数据
+17:17:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:17:39 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 90ms
+17:17:40 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 349ms
+17:18:19 INFO  - 开始保存聊天消息数据
+17:18:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:19:07 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 57ms
+17:19:07 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 403ms
+17:19:19 INFO  - 开始保存聊天消息数据
+17:19:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+17:20:19 INFO  - 开始保存聊天消息数据
+17:20:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:20:36 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 45ms
+17:20:36 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 137ms
+17:20:36 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 59ms
+17:20:36 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 112ms
+17:20:36 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 104ms
+17:20:36 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 42ms
+17:20:37 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 316ms
+17:20:51 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 68ms
+17:20:51 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 108ms
+17:20:52 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 104ms
+17:20:52 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 195ms
+17:20:52 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 116ms
+17:20:52 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 35ms
+17:20:52 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 67ms
+17:20:52 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 383ms
+17:21:19 INFO  - 开始保存聊天消息数据
+17:21:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:22:19 INFO  - 开始保存聊天消息数据
+17:22:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:23:19 INFO  - 开始保存聊天消息数据
+17:23:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:24:19 INFO  - 开始保存聊天消息数据
+17:24:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:24:40 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 141ms
+17:24:41 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 78ms
+17:24:41 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 39ms
+17:24:41 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 45ms
+17:24:41 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 29ms
+17:24:41 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 77ms
+17:24:41 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 87ms
+17:24:41 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 377ms
+17:25:19 INFO  - 开始保存聊天消息数据
+17:25:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:26:19 INFO  - 开始保存聊天消息数据
+17:26:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+17:27:18 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 37ms
+17:27:18 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 81ms
+17:27:18 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 38ms
+17:27:18 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 28ms
+17:27:18 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 85ms
+17:27:18 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 82ms
+17:27:18 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 32ms
+17:27:19 INFO  - 开始保存聊天消息数据
+17:27:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒20毫秒
+17:27:19 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 310ms
+17:28:16 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 88ms
+17:28:17 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 62ms
+17:28:17 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 76ms
+17:28:17 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 51ms
+17:28:17 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 86ms
+17:28:17 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 117ms
+17:28:17 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 50ms
+17:28:17 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 321ms
+17:28:19 INFO  - 开始保存聊天消息数据
+17:28:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+17:28:20 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 73ms
+17:28:21 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 41ms
+17:28:21 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 51ms
+17:28:21 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 97ms
+17:28:21 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 43ms
+17:28:21 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 104ms
+17:28:21 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 108ms
+17:28:21 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 331ms
+17:28:34 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 41ms
+17:28:34 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 56ms
+17:28:34 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 37ms
+17:28:34 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 100ms
+17:28:34 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 112ms
+17:28:34 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 41ms
+17:28:34 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 29ms
+17:28:34 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 330ms
+17:29:19 INFO  - 开始保存聊天消息数据
+17:29:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:30:19 INFO  - 开始保存聊天消息数据
+17:30:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:30:22 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 76ms
+17:30:22 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 285ms
+17:30:32 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 55ms
+17:30:32 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 75ms
+17:30:32 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 336ms
+17:31:19 INFO  - 开始保存聊天消息数据
+17:31:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:31:38 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 52ms
+17:31:38 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 73ms
+17:31:39 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 316ms
+17:32:19 INFO  - 开始保存聊天消息数据
+17:32:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:33:19 INFO  - 开始保存聊天消息数据
+17:33:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒22毫秒
+17:34:19 INFO  - 开始保存聊天消息数据
+17:34:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:35:13 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 41ms
+17:35:14 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 96ms
+17:35:14 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 332ms
+17:35:19 INFO  - 开始保存聊天消息数据
+17:35:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+17:35:56 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 64ms
+17:35:56 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 98ms
+17:35:56 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 282ms
+17:35:57 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 57ms
+17:35:57 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 76ms
+17:35:58 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 256ms
+17:36:19 INFO  - 开始保存聊天消息数据
+17:36:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+17:37:19 INFO  - 开始保存聊天消息数据
+17:37:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+17:38:01 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 33ms
+17:38:01 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 89ms
+17:38:02 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 354ms
+17:38:19 INFO  - 开始保存聊天消息数据
+17:38:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:39:19 INFO  - 开始保存聊天消息数据
+17:39:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒26毫秒
+17:40:19 INFO  - 开始保存聊天消息数据
+17:40:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+17:41:19 INFO  - 开始保存聊天消息数据
+17:41:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+17:41:22 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 40ms
+17:41:22 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 98ms
+17:41:23 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 321ms
+17:42:19 INFO  - 开始保存聊天消息数据
+17:42:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:42:28 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 35ms
+17:42:28 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 84ms
+17:42:29 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 313ms
+17:42:56 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 50ms
+17:42:56 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 79ms
+17:42:56 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 346ms
+17:43:19 INFO  - 开始保存聊天消息数据
+17:43:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:43:28 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 87ms
+17:43:28 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 83ms
+17:43:29 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 283ms
+17:44:19 INFO  - 开始保存聊天消息数据
+17:44:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒20毫秒
+17:45:19 INFO  - 开始保存聊天消息数据
+17:45:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:46:19 INFO  - 开始保存聊天消息数据
+17:46:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:47:19 INFO  - 开始保存聊天消息数据
+17:47:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:47:19 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 147ms
+17:47:19 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 77ms
+17:47:20 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 298ms
+17:48:19 INFO  - 开始保存聊天消息数据
+17:48:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:49:19 INFO  - 开始保存聊天消息数据
+17:49:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:50:19 INFO  - 开始保存聊天消息数据
+17:50:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+17:51:19 INFO  - 开始保存聊天消息数据
+17:51:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:52:19 INFO  - 开始保存聊天消息数据
+17:52:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:53:19 INFO  - 开始保存聊天消息数据
+17:53:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:54:19 INFO  - 开始保存聊天消息数据
+17:54:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:55:19 INFO  - 开始保存聊天消息数据
+17:55:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:56:19 INFO  - 开始保存聊天消息数据
+17:56:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:57:19 INFO  - 开始保存聊天消息数据
+17:57:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:58:19 INFO  - 开始保存聊天消息数据
+17:58:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+17:59:19 INFO  - 开始保存聊天消息数据
+17:59:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:59:54 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 133ms
+17:59:54 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 160ms
+17:59:55 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 355ms
+18:00:19 INFO  - 开始保存聊天消息数据
+18:00:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:00:32 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 57ms
+18:00:32 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync (API) in 80ms
+18:00:32 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 281ms
+18:01:19 INFO  - 开始保存聊天消息数据
+18:01:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:02:19 INFO  - 开始保存聊天消息数据
+18:02:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+18:03:19 INFO  - 开始保存聊天消息数据
+18:03:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+18:04:19 INFO  - 开始保存聊天消息数据
+18:04:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:05:19 INFO  - 开始保存聊天消息数据
+18:05:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+18:06:19 INFO  - 开始保存聊天消息数据
+18:06:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+18:07:19 INFO  - 开始保存聊天消息数据
+18:07:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:08:19 INFO  - 开始保存聊天消息数据
+18:08:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+18:09:19 INFO  - 开始保存聊天消息数据
+18:09:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+18:10:19 INFO  - 开始保存聊天消息数据
+18:10:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:11:19 INFO  - 开始保存聊天消息数据
+18:11:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+18:12:19 INFO  - 开始保存聊天消息数据
+18:12:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:13:19 INFO  - 开始保存聊天消息数据
+18:13:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+18:14:19 INFO  - 开始保存聊天消息数据
+18:14:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+18:15:19 INFO  - 开始保存聊天消息数据
+18:15:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+18:16:19 INFO  - 开始保存聊天消息数据
+18:16:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒

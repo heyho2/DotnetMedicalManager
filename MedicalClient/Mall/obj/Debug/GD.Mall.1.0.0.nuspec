@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GD.Mall</id>
+    <version>1.0.0</version>
+    <authors>ZhouHaiyan</authors>
+    <owners>ZhouHaiyan</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>http://api.guodan.com/</projectUrl>
+    <description>商城业务模块</description>
+    <releaseNotes>商城业务模块</releaseNotes>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="GD.Dtos" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="GD.Merchant" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="GD.Module" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="GD.Models" version="1.0.0.1" exclude="Build,Analyzers" />
+        <dependency id="GD.DataAccess" version="1.0.1.7" exclude="Build,Analyzers" />
+        <dependency id="Senparc.Weixin" version="6.3.11" exclude="Build,Analyzers" />
+        <dependency id="Senparc.Weixin.MP" version="16.6.15" exclude="Build,Analyzers" />
+        <dependency id="Senparc.Weixin.TenPay" version="1.2.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Mall\bin\Debug\netcoreapp2.2\Mall.dll" target="lib\netcoreapp2.2\Mall.dll" />
+  </files>
+</package>

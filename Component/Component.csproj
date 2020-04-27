@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>GD.Component</RootNamespace>
+    <PackageId>GD.Component</PackageId>
+    <Authors>ZhouHaiyan</Authors>
+    <Product>GuoDan Cloud</Product>
+    <Company>GuoDan</Company>
+    <PackageProjectUrl>http://api.guodan.com</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GD.DataAccess" Version="1.0.1.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Models\Models.csproj" />
+    <ProjectReference Include="..\Utility\Utility.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>GD.Utility</RootNamespace>
+    <Authors>ZhouHaiyan</Authors>
+    <Company>GuoDan</Company>
+    <Product>GuoDan Cloud</Product>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>通用业务模块</Description>
+    <PackageProjectUrl>http://api.guodan.com</PackageProjectUrl>
+    <PackageId>GD.Utility</PackageId>
+    <PackageReleaseNotes>通用业务模块</PackageReleaseNotes>
+    <Version>1.0.1.9</Version>
+    <AssemblyName>Utility</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GD.DataAccess" Version="1.0.1.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MedicalClient\BizBase\BizBase.csproj" />
+    <ProjectReference Include="..\MedicalClient\Dtos\Dtos.csproj" />
+    <ProjectReference Include="..\Models\Models.csproj" />
+  </ItemGroup>
+
+</Project>

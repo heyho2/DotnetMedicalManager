@@ -1,0 +1,36 @@
+﻿18:16:13 ERROR - ::1
+18:16:13 ERROR - System.NullReferenceException: Object reference not set to an instance of an object.
+   at GD.Manager.DictionaryBiz.SetRedis(DictionaryModel model) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\DictionaryBiz.cs:line 35
+   at GD.Manager.DictionaryBiz.GetNameById(String guid) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\DictionaryBiz.cs:line 60
+   at GD.API.Controllers.Manager.RecommendController.GetRecommendDoctorListAsync(GetRecommendDoctorListRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\System\RecommendController.cs:line 60
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+18:16:34 ERROR - ::1
+18:16:34 ERROR - System.NullReferenceException: Object reference not set to an instance of an object.
+   at GD.Manager.DictionaryBiz.SetRedis(DictionaryModel model) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\DictionaryBiz.cs:line 35
+   at GD.Manager.DictionaryBiz.GetNameById(String guid) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\DictionaryBiz.cs:line 60
+   at GD.API.Controllers.Manager.RecommendController.GetRecommendDoctorListAsync(GetRecommendDoctorListRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\System\RecommendController.cs:line 60
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+18:18:10 ERROR - ::1
+18:18:10 ERROR - System.NullReferenceException: Object reference not set to an instance of an object.
+   at GD.Manager.DictionaryBiz.SetRedis(DictionaryModel model) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\DictionaryBiz.cs:line 35
+   at GD.Manager.DictionaryBiz.GetNameById(String guid) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\DictionaryBiz.cs:line 60
+   at GD.API.Controllers.Manager.RecommendController.GetRecommendDoctorListAsync(GetRecommendDoctorListRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\API\Controllers\System\RecommendController.cs:line 60
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()

@@ -1,0 +1,93 @@
+﻿14:35:07 ERROR - ::1
+14:35:07 ERROR - ::1
+14:35:07 ERROR - ::1
+14:35:07 ERROR - System.AggregateException: One or more errors occurred. (The operation has timed out.) ---> System.TimeoutException: The operation has timed out.
+   at Matrix.Network.Handlers.XmppStanzaHandler.SendAsync[T](Func`1 sendTask, Func`2 predicate, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.Network.Handlers.XmppStanzaHandler.SendIqAsync[T](Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppConnection.SendIqAsync[T](Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppClient.SendIqAsync(Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppClient.SendIqAsync(Iq iq, Int32 timeout)
+   at Matrix.XmppClient.SendIqAsync(Iq iq)
+   at GD.Communication.XMPP.Client.CreateUserAsync(String account, String password, String name)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at GD.API.Controllers.Utility.AccountController.RegisterIM(UserModel model) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Utility\AccountController.cs:line 598
+   at GD.API.Controllers.Utility.AccountController.Login(LoginRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Utility\AccountController.cs:line 346
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+---> (Inner Exception #0) System.TimeoutException: The operation has timed out.
+   at Matrix.Network.Handlers.XmppStanzaHandler.SendAsync[T](Func`1 sendTask, Func`2 predicate, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.Network.Handlers.XmppStanzaHandler.SendIqAsync[T](Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppConnection.SendIqAsync[T](Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppClient.SendIqAsync(Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppClient.SendIqAsync(Iq iq, Int32 timeout)
+   at Matrix.XmppClient.SendIqAsync(Iq iq)
+   at GD.Communication.XMPP.Client.CreateUserAsync(String account, String password, String name)<---
+
+14:35:07 ERROR - System.AggregateException: One or more errors occurred. (The operation has timed out.) ---> System.TimeoutException: The operation has timed out.
+   at Matrix.Network.Handlers.XmppStanzaHandler.SendAsync[T](Func`1 sendTask, Func`2 predicate, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.Network.Handlers.XmppStanzaHandler.SendIqAsync[T](Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppConnection.SendIqAsync[T](Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppClient.SendIqAsync(Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppClient.SendIqAsync(Iq iq, Int32 timeout)
+   at Matrix.XmppClient.SendIqAsync(Iq iq)
+   at GD.Communication.XMPP.Client.CreateUserAsync(String account, String password, String name)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at GD.API.Controllers.Utility.AccountController.RegisterIM(UserModel model) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Utility\AccountController.cs:line 598
+   at GD.API.Controllers.Utility.AccountController.Login(LoginRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Utility\AccountController.cs:line 346
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+---> (Inner Exception #0) System.TimeoutException: The operation has timed out.
+   at Matrix.Network.Handlers.XmppStanzaHandler.SendAsync[T](Func`1 sendTask, Func`2 predicate, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.Network.Handlers.XmppStanzaHandler.SendIqAsync[T](Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppConnection.SendIqAsync[T](Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppClient.SendIqAsync(Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppClient.SendIqAsync(Iq iq, Int32 timeout)
+   at Matrix.XmppClient.SendIqAsync(Iq iq)
+   at GD.Communication.XMPP.Client.CreateUserAsync(String account, String password, String name)<---
+
+14:35:07 ERROR - System.AggregateException: One or more errors occurred. (The operation has timed out.) ---> System.TimeoutException: The operation has timed out.
+   at Matrix.Network.Handlers.XmppStanzaHandler.SendAsync[T](Func`1 sendTask, Func`2 predicate, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.Network.Handlers.XmppStanzaHandler.SendIqAsync[T](Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppConnection.SendIqAsync[T](Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppClient.SendIqAsync(Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppClient.SendIqAsync(Iq iq, Int32 timeout)
+   at Matrix.XmppClient.SendIqAsync(Iq iq)
+   at GD.Communication.XMPP.Client.CreateUserAsync(String account, String password, String name)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at GD.API.Controllers.Utility.AccountController.RegisterIM(UserModel model) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Utility\AccountController.cs:line 598
+   at GD.API.Controllers.Utility.AccountController.Login(LoginRequestDto request) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Utility\AccountController.cs:line 346
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+---> (Inner Exception #0) System.TimeoutException: The operation has timed out.
+   at Matrix.Network.Handlers.XmppStanzaHandler.SendAsync[T](Func`1 sendTask, Func`2 predicate, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.Network.Handlers.XmppStanzaHandler.SendIqAsync[T](Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppConnection.SendIqAsync[T](Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppClient.SendIqAsync(Iq iq, Int32 timeout, CancellationToken cancellationToken)
+   at Matrix.XmppClient.SendIqAsync(Iq iq, Int32 timeout)
+   at Matrix.XmppClient.SendIqAsync(Iq iq)
+   at GD.Communication.XMPP.Client.CreateUserAsync(String account, String password, String name)<---
+

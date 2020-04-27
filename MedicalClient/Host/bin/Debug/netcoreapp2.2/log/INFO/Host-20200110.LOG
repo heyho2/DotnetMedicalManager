@@ -1,0 +1,415 @@
+﻿16:39:47 INFO  - admin 成功登录Openfire
+16:39:47 INFO  - 开始保存聊天消息数据
+16:39:48 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分1秒118毫秒
+16:39:49 INFO  - 问答分配悬赏金完成，共处理条 6 数据。耗时：2秒
+16:40:04 INFO  - admin 成功登录Openfire
+16:40:04 INFO  - Executed action GD.API.Controllers.Utility.AccountController.Login (API) in 353ms
+16:40:05 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorNameAndNameAsync (API) in 52ms
+16:40:05 INFO  - Executed action GD.API.Controllers.Utility.UtilityController.GetUserInfo (API) in 181ms
+16:40:05 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.CheckIsDoctorUserAsync (API) in 60ms
+16:40:05 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 28ms
+16:40:05 INFO  - Executed action GD.API.Controllers.Utility.UserController.GetUsersInfoAsync (API) in 61ms
+16:40:07 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 41ms
+16:40:07 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 139ms
+16:40:47 INFO  - 开始保存聊天消息数据
+16:40:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:41:47 INFO  - 开始保存聊天消息数据
+16:41:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:42:47 INFO  - 开始保存聊天消息数据
+16:42:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:43:47 INFO  - 开始保存聊天消息数据
+16:43:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+16:44:47 INFO  - 开始保存聊天消息数据
+16:44:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:45:47 INFO  - 开始保存聊天消息数据
+16:45:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+16:46:47 INFO  - 开始保存聊天消息数据
+16:46:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:47:47 INFO  - 开始保存聊天消息数据
+16:47:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:48:29 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 84ms
+16:48:29 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 105ms
+16:48:29 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 146ms
+16:48:47 INFO  - 开始保存聊天消息数据
+16:48:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒23毫秒
+16:49:47 INFO  - 开始保存聊天消息数据
+16:49:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+16:50:24 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 32ms
+16:50:24 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 40ms
+16:50:24 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 182ms
+16:50:47 INFO  - 开始保存聊天消息数据
+16:50:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+16:51:02 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 33ms
+16:51:02 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 31ms
+16:51:02 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 154ms
+16:51:26 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 34ms
+16:51:26 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 23ms
+16:51:26 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 79ms
+16:51:47 INFO  - 开始保存聊天消息数据
+16:51:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒35毫秒
+16:51:47 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 30ms
+16:51:47 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 28ms
+16:51:47 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 205ms
+16:52:42 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 24ms
+16:52:42 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 31ms
+16:52:42 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 76ms
+16:52:47 INFO  - 开始保存聊天消息数据
+16:52:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+16:53:29 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 30ms
+16:53:29 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 31ms
+16:53:29 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 65ms
+16:53:47 INFO  - 开始保存聊天消息数据
+16:53:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:54:47 INFO  - 开始保存聊天消息数据
+16:54:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+16:55:47 INFO  - 开始保存聊天消息数据
+16:55:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+16:56:47 INFO  - 开始保存聊天消息数据
+16:56:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:57:22 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 43ms
+16:57:22 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 51ms
+16:57:22 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 95ms
+16:57:47 INFO  - 开始保存聊天消息数据
+16:57:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:58:47 INFO  - 开始保存聊天消息数据
+16:58:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:59:47 INFO  - 开始保存聊天消息数据
+16:59:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:00:47 INFO  - 开始保存聊天消息数据
+17:00:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:00:56 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 156ms
+17:00:56 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 174ms
+17:00:56 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 23ms
+17:01:04 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 24ms
+17:01:04 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 26ms
+17:01:04 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 59ms
+17:01:47 INFO  - 开始保存聊天消息数据
+17:01:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒29毫秒
+17:02:47 INFO  - 开始保存聊天消息数据
+17:02:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:03:47 INFO  - 开始保存聊天消息数据
+17:03:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:04:29 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 28ms
+17:04:29 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 26ms
+17:04:29 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 58ms
+17:04:47 INFO  - 开始保存聊天消息数据
+17:04:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒24毫秒
+17:05:47 INFO  - 开始保存聊天消息数据
+17:05:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:06:44 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 25ms
+17:06:44 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 59ms
+17:06:44 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 82ms
+17:06:47 INFO  - 开始保存聊天消息数据
+17:06:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+17:07:22 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 32ms
+17:07:22 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 19ms
+17:07:22 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 54ms
+17:07:42 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 31ms
+17:07:42 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 32ms
+17:07:42 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 56ms
+17:07:47 INFO  - 开始保存聊天消息数据
+17:07:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+17:08:47 INFO  - 开始保存聊天消息数据
+17:08:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:09:47 INFO  - 开始保存聊天消息数据
+17:09:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:10:47 INFO  - 开始保存聊天消息数据
+17:10:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:11:45 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 65ms
+17:11:45 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 86ms
+17:11:45 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 31ms
+17:11:47 INFO  - 开始保存聊天消息数据
+17:11:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+17:12:47 INFO  - 开始保存聊天消息数据
+17:12:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:13:47 INFO  - 开始保存聊天消息数据
+17:13:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+17:14:47 INFO  - 开始保存聊天消息数据
+17:14:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:15:47 INFO  - 开始保存聊天消息数据
+17:15:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+17:16:47 INFO  - 开始保存聊天消息数据
+17:16:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:17:47 INFO  - 开始保存聊天消息数据
+17:17:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+17:18:47 INFO  - 开始保存聊天消息数据
+17:18:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:19:47 INFO  - 开始保存聊天消息数据
+17:19:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:20:47 INFO  - 开始保存聊天消息数据
+17:20:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:21:15 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 60ms
+17:21:15 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 111ms
+17:21:15 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 121ms
+17:21:47 INFO  - 开始保存聊天消息数据
+17:21:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:22:47 INFO  - 开始保存聊天消息数据
+17:22:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒44毫秒
+17:23:47 INFO  - 开始保存聊天消息数据
+17:23:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:24:39 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 27ms
+17:24:39 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 30ms
+17:24:39 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 128ms
+17:24:47 INFO  - 开始保存聊天消息数据
+17:24:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+17:25:47 INFO  - 开始保存聊天消息数据
+17:25:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒22毫秒
+17:26:47 INFO  - 开始保存聊天消息数据
+17:26:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:27:47 INFO  - 开始保存聊天消息数据
+17:27:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒65毫秒
+17:28:47 INFO  - 开始保存聊天消息数据
+17:28:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:29:47 INFO  - 开始保存聊天消息数据
+17:29:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+17:30:47 INFO  - 开始保存聊天消息数据
+17:30:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:31:47 INFO  - 开始保存聊天消息数据
+17:31:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:32:47 INFO  - 开始保存聊天消息数据
+17:32:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:33:47 INFO  - 开始保存聊天消息数据
+17:33:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+17:34:11 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 86ms
+17:34:11 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 92ms
+17:34:11 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 127ms
+17:34:47 INFO  - 开始保存聊天消息数据
+17:34:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:35:37 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 67ms
+17:35:37 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 22ms
+17:35:37 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 20ms
+17:35:47 INFO  - 开始保存聊天消息数据
+17:35:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+17:36:47 INFO  - 开始保存聊天消息数据
+17:36:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:37:47 INFO  - 开始保存聊天消息数据
+17:37:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:38:47 INFO  - 开始保存聊天消息数据
+17:38:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:39:47 INFO  - 开始保存聊天消息数据
+17:39:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:40:38 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 106ms
+17:40:38 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 138ms
+17:40:38 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 127ms
+17:40:47 INFO  - 开始保存聊天消息数据
+17:40:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+17:41:08 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 21ms
+17:41:08 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 35ms
+17:41:08 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 60ms
+17:41:47 INFO  - 开始保存聊天消息数据
+17:41:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:42:47 INFO  - 开始保存聊天消息数据
+17:42:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:43:47 INFO  - 开始保存聊天消息数据
+17:43:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+17:44:47 INFO  - 开始保存聊天消息数据
+17:44:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:45:47 INFO  - 开始保存聊天消息数据
+17:45:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:46:21 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 87ms
+17:46:21 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 142ms
+17:46:21 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 114ms
+17:46:47 INFO  - 开始保存聊天消息数据
+17:46:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:47:47 INFO  - 开始保存聊天消息数据
+17:47:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:48:47 INFO  - 开始保存聊天消息数据
+17:48:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:49:47 INFO  - 开始保存聊天消息数据
+17:49:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:50:47 INFO  - 开始保存聊天消息数据
+17:50:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:51:47 INFO  - 开始保存聊天消息数据
+17:51:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:52:47 INFO  - 开始保存聊天消息数据
+17:52:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+17:53:47 INFO  - 开始保存聊天消息数据
+17:53:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:54:47 INFO  - 开始保存聊天消息数据
+17:54:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒21毫秒
+17:55:47 INFO  - 开始保存聊天消息数据
+17:55:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:56:47 INFO  - 开始保存聊天消息数据
+17:56:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:57:47 INFO  - 开始保存聊天消息数据
+17:57:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:58:17 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 84ms
+17:58:17 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 137ms
+17:58:17 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 112ms
+17:58:47 INFO  - 开始保存聊天消息数据
+17:58:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:59:47 INFO  - 开始保存聊天消息数据
+17:59:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+18:00:13 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 46ms
+18:00:13 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 51ms
+18:00:13 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 72ms
+18:00:46 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 33ms
+18:00:46 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 26ms
+18:00:46 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 82ms
+18:00:47 INFO  - 开始保存聊天消息数据
+18:00:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+18:01:17 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 34ms
+18:01:17 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 47ms
+18:01:17 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 94ms
+18:01:47 INFO  - 开始保存聊天消息数据
+18:01:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:02:47 INFO  - 开始保存聊天消息数据
+18:02:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:02:57 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 116ms
+18:02:57 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 122ms
+18:02:57 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 172ms
+18:03:47 INFO  - 开始保存聊天消息数据
+18:03:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:04:47 INFO  - 开始保存聊天消息数据
+18:04:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:05:47 INFO  - 开始保存聊天消息数据
+18:05:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+18:06:47 INFO  - 开始保存聊天消息数据
+18:06:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:07:47 INFO  - 开始保存聊天消息数据
+18:07:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+18:08:47 INFO  - 开始保存聊天消息数据
+18:08:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒20毫秒
+18:09:47 INFO  - 开始保存聊天消息数据
+18:09:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+18:10:47 INFO  - 开始保存聊天消息数据
+18:10:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+18:11:47 INFO  - 开始保存聊天消息数据
+18:11:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:12:43 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 82ms
+18:12:43 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 112ms
+18:12:43 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 107ms
+18:12:47 INFO  - 开始保存聊天消息数据
+18:12:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+18:13:47 INFO  - 开始保存聊天消息数据
+18:13:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:14:17 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 46ms
+18:14:17 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 77ms
+18:14:17 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 69ms
+18:14:47 INFO  - 开始保存聊天消息数据
+18:14:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:15:31 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 25ms
+18:15:31 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 33ms
+18:15:31 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 50ms
+18:15:47 INFO  - 开始保存聊天消息数据
+18:15:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+18:15:58 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 25ms
+18:15:58 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 39ms
+18:15:58 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 49ms
+18:16:38 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 23ms
+18:16:38 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 70ms
+18:16:38 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 42ms
+18:16:47 INFO  - 开始保存聊天消息数据
+18:16:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+18:17:47 INFO  - 开始保存聊天消息数据
+18:17:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:18:47 INFO  - 开始保存聊天消息数据
+18:18:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒25毫秒
+18:19:47 INFO  - 开始保存聊天消息数据
+18:19:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+18:20:47 INFO  - 开始保存聊天消息数据
+18:20:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+18:21:47 INFO  - 开始保存聊天消息数据
+18:21:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:22:47 INFO  - 开始保存聊天消息数据
+18:22:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒28毫秒
+18:23:00 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 107ms
+18:23:00 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 166ms
+18:23:00 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 158ms
+18:23:02 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 36ms
+18:23:02 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 37ms
+18:23:02 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 143ms
+18:23:21 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 33ms
+18:23:21 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 27ms
+18:23:21 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 79ms
+18:23:47 INFO  - 开始保存聊天消息数据
+18:23:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+18:24:47 INFO  - 开始保存聊天消息数据
+18:24:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:25:47 INFO  - 开始保存聊天消息数据
+18:25:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:26:47 INFO  - 开始保存聊天消息数据
+18:26:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+18:27:47 INFO  - 开始保存聊天消息数据
+18:27:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+18:28:47 INFO  - 开始保存聊天消息数据
+18:28:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+18:29:47 INFO  - 开始保存聊天消息数据
+18:29:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+18:30:47 INFO  - 开始保存聊天消息数据
+18:30:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+18:31:35 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 129ms
+18:31:36 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 107ms
+18:31:36 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 166ms
+18:31:47 INFO  - 开始保存聊天消息数据
+18:31:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+18:32:47 INFO  - 开始保存聊天消息数据
+18:32:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+18:33:47 INFO  - 开始保存聊天消息数据
+18:33:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+18:34:47 INFO  - 开始保存聊天消息数据
+18:34:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+18:34:49 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 54ms
+18:34:49 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 55ms
+18:34:49 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 72ms
+18:35:47 INFO  - 开始保存聊天消息数据
+18:35:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+18:35:58 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 39ms
+18:35:58 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 39ms
+18:35:58 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 84ms
+18:36:23 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 38ms
+18:36:23 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 48ms
+18:36:23 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 103ms
+18:36:47 INFO  - 开始保存聊天消息数据
+18:36:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+18:37:47 INFO  - 开始保存聊天消息数据
+18:37:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:38:47 INFO  - 开始保存聊天消息数据
+18:38:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+18:39:47 INFO  - 开始保存聊天消息数据
+18:39:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒37毫秒
+18:40:47 INFO  - 开始保存聊天消息数据
+18:40:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:41:26 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 24ms
+18:41:26 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 26ms
+18:41:26 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 111ms
+18:41:35 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 25ms
+18:41:35 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 22ms
+18:41:35 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 55ms
+18:41:47 INFO  - 开始保存聊天消息数据
+18:41:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+18:42:30 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 26ms
+18:42:30 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 25ms
+18:42:31 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 59ms
+18:42:47 INFO  - 开始保存聊天消息数据
+18:42:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:42:54 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 29ms
+18:42:54 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 27ms
+18:42:54 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 54ms
+18:43:47 INFO  - 开始保存聊天消息数据
+18:43:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+18:44:15 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 56ms
+18:44:15 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 68ms
+18:44:15 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 128ms
+18:44:32 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 162ms
+18:44:32 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 180ms
+18:44:32 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 33ms
+18:44:47 INFO  - 开始保存聊天消息数据
+18:44:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+18:45:47 INFO  - 开始保存聊天消息数据
+18:45:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+18:46:47 INFO  - 开始保存聊天消息数据
+18:46:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+18:47:47 INFO  - 开始保存聊天消息数据
+18:47:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:48:47 INFO  - 开始保存聊天消息数据
+18:48:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+18:49:47 INFO  - 开始保存聊天消息数据
+18:49:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+18:49:48 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 115ms
+18:49:48 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListTodayAsync (API) in 121ms
+18:49:48 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 46ms
+18:50:47 INFO  - 开始保存聊天消息数据
+18:50:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:51:47 INFO  - 开始保存聊天消息数据
+18:51:47 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒

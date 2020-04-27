@@ -1,0 +1,9 @@
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Expert\bin\Release\netcoreapp2.2\Expert.deps.json
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Expert\bin\Release\netcoreapp2.2\Expert.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Expert\bin\Release\netcoreapp2.2\Expert.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Expert\obj\Release\netcoreapp2.2\Expert.csprojAssemblyReference.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Expert\obj\Release\netcoreapp2.2\Expert.csproj.CoreCompileInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Expert\obj\Release\netcoreapp2.2\Expert.AssemblyInfoInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Expert\obj\Release\netcoreapp2.2\Expert.AssemblyInfo.cs
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Expert\obj\Release\netcoreapp2.2\Expert.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Expert\obj\Release\netcoreapp2.2\Expert.pdb

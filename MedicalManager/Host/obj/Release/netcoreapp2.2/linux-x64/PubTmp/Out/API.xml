@@ -1,0 +1,1492 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="T:GD.API.Code.Converter">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:GD.API.Code.Converter.ToModel``1(GD.Common.Base.BaseDto)">
+            <summary>
+            Dto2Model
+            </summary>
+            <typeparam name="TModel"></typeparam>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Code.Converter.ToDto``1(GD.Common.Base.BaseModel)">
+            <summary>
+            Model2Dto
+            </summary>
+            <typeparam name="TDto"></typeparam>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Code.Converter.GetTree``2(System.Collections.Generic.IEnumerable{``1},System.String,System.Func{``1,System.String},System.Func{``1,System.String},System.Func{``1,``0})">
+            <summary>
+            tree
+            </summary>
+            <typeparam name="ResultT"></typeparam>
+            <typeparam name="ModelT"></typeparam>
+            <param name="models"></param>
+            <param name="pid"></param>
+            <param name="pidFunc"></param>
+            <param name="idFunc"></param>
+            <param name="select"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Code.Converter.GetValues``1(``0)">
+            <summary>
+            获取结构所有结果
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="aa"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Consumer.AdviseController">
+            <summary>
+            用户反馈
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Consumer.AdviseController.GetAdvisePageAsync(GD.Dtos.Advise.GetAdvisePageRequestDto)">
+            <summary>
+            用户反馈列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Consumer.ConsumerBaseController">
+            <summary>
+            消费者模块控制器基类
+            </summary>
+        </member>
+        <member name="T:GD.API.Controllers.Doctor.DoctorBaseController">
+            <summary>
+            医生模块控制器基类
+            </summary>
+        </member>
+        <member name="T:GD.API.Controllers.Doctor.DoctorController">
+            <summary>
+            医生控制器
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.SearchDoctorAsync(GD.Dtos.Doctor.Doctor.SearchDoctorRequestDto)">
+            <summary>
+            搜索医生
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.GetReviewDoctorPageAsync(GD.Dtos.Doctor.GetReviewDoctorPageRequestDto)">
+            <summary>
+            审核医生列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.ReviewRejectDoctorAsync(GD.Dtos.Doctor.ReviewRejectDoctorRequestDto)">
+            <summary>
+            审核驳回
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.ReviewApprovedDoctorAsync(GD.Dtos.Doctor.ReviewApprovedDoctorRequestDto)">
+            <summary>
+            审核通过
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.GetDoctorPageAsync(GD.Dtos.Doctor.GetDoctorPageRequestDto)">
+            <summary>
+            获取医生列表（医生管理）
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.DisableEnableDoctorAsync(GD.Dtos.Common.DisableEnableRequestDto)">
+            <summary>
+            禁用医生
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.RecommendDoctorAsync(GD.Dtos.Doctor.RecommendDoctorRequestDto)">
+            <summary>
+            推荐医生
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.GetDoctorTopicAsync(GD.Dtos.Doctor.GetDoctorTopicRequestDto)">
+            <summary>
+            获取消息对话列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.TopicMessageAsync(GD.Dtos.Doctor.TopicMessageRequestDto)">
+            <summary>
+            对话消息列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.GetDoctorInfoAsync(GD.Dtos.Doctor.GetDoctorInfoRequestDto)">
+            <summary>
+            获取医生信息
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.UpdateDoctorInfoAsync(GD.Dtos.Doctor.UpdateDoctorInfoRequestDto)">
+            <summary>
+            修改医生数据
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.ResetPasswordAsync(GD.Dtos.Doctor.ResetPasswordResponseDto)">
+            <summary>
+            重置密码
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.AddDoctorInfoAsync(GD.Dtos.Doctor.AddDoctorInfoRequestDto)">
+            <summary>
+            添加医生
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.GetDoctorJobTitlesAsync">
+            <summary>
+            获取医生职称列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync(System.String)">
+            <summary>
+            获取医生注册资料配置项明细（所有配置项+配置项对应的值）
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.SaveDoctorCertificateDetailAsync(GD.Dtos.Doctor.SaveDoctorCertificateDetailRequestDto)">
+            <summary>
+            保存证书
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.GetDoctorIntegralPageAsync(GD.Dtos.Doctor.GetDoctorIntegralPageRequestDto)">
+            <summary>
+            医生积分列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.GetIntegralInfoPageAsync(GD.Dtos.Score.GetIntegralInfoPageRequestDto)">
+            <summary>
+            积分详细
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.ExportDoctorIntegralAsync(GD.Dtos.Doctor.ExportDoctorIntegralRequestDto)">
+            <summary>
+            导出医生积分
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.DoctorController.ExportIntegralInfoAsync(GD.Dtos.Score.ExportIntegralInfoRequestDto)">
+            <summary>
+            导出用户积分
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Doctor.HospitalController">
+            <summary>
+            医院控制器
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.GetHospitalPageAsync(GD.Dtos.Hospital.GetHospitalPageRequestDto)">
+            <summary>
+            获取医院 列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.GetHospitalInfoAsync(GD.Dtos.Hospital.GetHospitalInfomRequestDto)">
+            <summary>
+            医院详细
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.GetHospitalLevel">
+            <summary>
+            医院级别
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.AddHospitalAsync(GD.Dtos.Hospital.AddHospitalRequestDto)">
+            <summary>
+            添加医院
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.UpdateHospitalAsync(GD.Dtos.Hospital.UpdateHospitalRequestDto)">
+            <summary>
+            修改医院
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.ResetPasswordAsync(GD.Dtos.Hospital.ResetPasswordResponseDto)">
+            <summary>
+            重置密码
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.DisableEnableHospitalAsync(GD.Dtos.Hospital.DisableEnableHospitalRequestDto)">
+            <summary>
+            禁用医院
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.SearchHospitalAsync(GD.Dtos.Doctor.Hospital.SearchHospitalRequestDto)">
+            <summary>
+            搜索医院
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.DeleteHospitalAsync(System.String)">
+            <summary>
+            删除医院
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.GetOfficeListAsync(GD.Dtos.Hospital.GetOfficeListRequestDto)">
+            <summary>
+            获取科室列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.AddOfficeAsync(GD.Dtos.Hospital.AddOfficeRequestDto)">
+            <summary>
+            添加科室
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.UpdataOfficeAsync(GD.Dtos.Hospital.UpdataOfficeRequestDto)">
+            <summary>
+            修改科室
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.SearchOfficeAsync(GD.Dtos.Hospital.SearchOfficeRequestDto)">
+            <summary>
+            搜索科室
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.DisableEnableOfficeAsync(GD.Dtos.Hospital.DisableEnableOfficeRequestDto)">
+            <summary>
+            启动禁用科室
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.GetFirstOfficeListAsync">
+            <summary>
+            获取一级科室(名称)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.GetHospitalAllSelectAsync">
+            <summary>
+            获取全部医院（下拉框）
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Doctor.HospitalController.GetHospitalOfficeSelectAsync(System.String)">
+            <summary>
+            获取科室
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Faqs.FaqsBaseController">
+            <summary>
+            医生模块控制器基类
+            </summary>
+        </member>
+        <member name="T:GD.API.Controllers.Faqs.FaqsController">
+            <summary>
+            问答
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(GD.Dtos.Faqs.SearchFaqsQuestionRequestDto)">
+            <summary>
+            搜索问题
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Faqs.FaqsController.DisableEnableFaqsQuestionAsync(GD.Dtos.Common.DisableEnableRequestDto)">
+            <summary>
+            禁用问题
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Faqs.FaqsController.DeleteFaqsQuestionAsync(GD.Dtos.Common.DeleteRequestDto)">
+            <summary>
+            删除问题
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Faqs.FaqsController.SetFaqsSettingStatusAsync(GD.Dtos.Faqs.SetFaqsSettingStatusAsyncRequestDto)">
+            <summary>
+            设置状态
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Mall.MallBaseController">
+            <summary>
+            商城模块控制器基类
+            </summary>
+        </member>
+        <member name="T:GD.API.Controllers.Mall.MemberController">
+            <summary>
+            会员控制器
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Mall.MemberController.GetMemberPageAsync(GD.Dtos.Member.GetMemberPageRequestDto)">
+            <summary>
+            会员列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Mall.MemberController.GetMemberInfoAsync(System.String)">
+            <summary>
+            获取会员信息
+            </summary>
+            <param name="userGuid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Mall.MemberController.GetMemberOrderPageAsync(GD.Dtos.Member.GetMemberOrderPageRequestDto)">
+            <summary>
+            用户订单信息
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Mall.MemberController.GetOrderDetailPageAsync(GD.Dtos.Member.GetOrderDetailPageRequestDto)">
+            <summary>
+            订单详细列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Mall.MemberController.GetOrderInfoAsync(System.String)">
+            <summary>
+            订单信息（详细信息）
+            </summary>
+            <param name="orderGuid"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Mall.ProductController">
+            <summary>
+            商品控制器
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Mall.ProductController.SearchProductAsync(GD.Dtos.Mall.Mall.SearchProductRequestDto)">
+            <summary>
+            搜索商品
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Merchant.MerchantBaseController">
+            <summary>
+            商家模块控制器基类
+            </summary>
+        </member>
+        <member name="T:GD.API.Controllers.Merchant.MerchantController">
+            <summary>
+            商户控制器
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.GetReviewMerchantPageAsync(GD.Dtos.Merchant.GetReviewMerchantPageRequestDto)">
+            <summary>
+            商户列表（审核）
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.GetReviewMerchantInfoAsync(GD.Dtos.Merchant.GetReviewMerchantInfoRequestDto)">
+            <summary>
+            商家详细（审核）
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.GetMerchantInfoAsync(GD.Dtos.Merchant.GetMerchantInfoRequestDto)">
+            <summary>
+            获取商户信息（用于编辑）
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.ReviewRejectMerchantAsync(GD.Dtos.Merchant.ReviewRejectMerchantRequestDto)">
+            <summary>
+            审核驳回
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.ReviewApprovedMerchantAsync(GD.Dtos.Merchant.ReviewApprovedMerchantRequestDto)">
+            <summary>
+            审核通过
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.GetMerchantPageAsync(GD.Dtos.Merchant.GetMerchantPageRequestDto)">
+            <summary>
+            商户列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.DisableEnableMerchantAsync(GD.Dtos.Merchant.DisableEnableMerchantRequestDto)">
+            <summary>
+            禁用商家
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.GetBusinessScopeListAsync">
+            <summary>
+            获取经范围
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.GetBusinessScopeLicenseListAsync(System.String)">
+            <summary>
+            获取经营范围许可证
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.DeleteBusinessScopeAsync(System.String)">
+            <summary>
+            获取经营范围许可证
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.GetMerchantOrderDetailPageAsync(GD.Dtos.Merchant.GetMerchantOrderDetailPageRequestDto)">
+            <summary>
+            订单详细数据
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.GetUserShopCountAsync(System.String,System.String)">
+            <summary>
+            获取用户商品购买次数
+            </summary>
+            <param name="userGuid">userGuid</param>
+            <param name="productGuid">productGuid</param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.RegisterMerchantAsync(GD.Dtos.Merchant.RegisterMerchantRequestDto)">
+            <summary>
+            注册商户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.UpdateMerchantAsync(GD.Dtos.Merchant.UpdateMerchantRequestDto)">
+            <summary>
+            修改商户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.GetMerchantSelectAsync">
+            <summary>
+            商户(下拉框)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.GetHospitalSelectAsync">
+            <summary>
+            医院列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Merchant.MerchantController.GetMerchantCertificateAsync(System.String)">
+            <summary>
+            获取证书
+            </summary>
+            <param name="merchantGuid"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Report.CommonReportController">
+            <summary>
+            通用报表
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Report.CommonReportController.CreateReport(GD.Dtos.Report.CommonReport.CreateReportRequest)">
+            <summary>
+            新增报表
+            </summary>
+            <param name="requestDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Report.CommonReportController.GetReportListAsync(GD.Dtos.Report.CommonReport.GetReportListAsyncRequestDto)">
+            <summary>
+            分页-报表列表
+            </summary>
+            <param name="requestDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Report.CommonReportController.GetEnumType">
+             <summary>
+            获取类型列表
+             </summary>
+             <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Report.CommonReportController.GetConditionListByIDAsync(GD.Dtos.Report.CommonReport.GetConditionOrColumnListByIDAsyncRequest)">
+            <summary>
+            条件/列名 List-ByThemeGuid
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Report.CommonReportController.GetOneReport(GD.Dtos.Report.CommonReport.GetOneReportRequest)">
+            <summary>
+            获取单条报表记录
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Report.CommonReportController.UpdateOneReport(GD.Dtos.Report.CommonReport.UpdateOneReportRequest)">
+            <summary>
+            编辑报表
+            </summary>
+            <param name="requestDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Report.CommonReportController.PublishOneReport(GD.Dtos.Report.CommonReport.PublishOneReportRequest)">
+            <summary>
+            发布记录
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Report.CommonReportController.PreviewResultInSqlStr(GD.Dtos.Report.CommonReport.PreviewResultInSqlStrRequest)">
+            <summary>
+            执行sql执行结果-预览
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Report.CommonReportController.IsRightPreviewSQLStr(System.String)">
+            <summary>
+            检查SQL是否正确
+            </summary>
+            <param name="sqlStr"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Report.ReportBaseController">
+            <summary>
+            问答模块控制器基类
+            </summary>
+        </member>
+        <member name="T:GD.API.Controllers.System.AccessoryController">
+            <summary>
+            用户
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.System.AccessoryController.GetAcessoryUrlAsync(System.String)">
+            <summary>
+            获取附件信息
+            </summary>
+            <param name="accessoryGuid">附件guid</param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.System.BannerController">
+            <summary>
+            banner
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.System.BannerController.GetBannerPageAsync(GD.Dtos.Banner.GetBannerPageRequestDto)">
+            <summary>
+            获取banner 列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.BannerController.GetBannerType1">
+            <summary>
+            获取智慧云医banner
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.BannerController.AddBannerAsync(GD.Dtos.Banner.AddBannerRequestDto)">
+            <summary>
+            添加banner
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.BannerController.UpdateBannerAsync(GD.Dtos.Banner.UpdateBannerRequestDto)">
+            <summary>
+            修改banner
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.BannerController.DisableEnableBannerAsync(GD.Dtos.Banner.DisableEnableBannerRequestDto)">
+            <summary>
+            禁用banner
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.System.ButtonController">
+            <summary>
+            按钮
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.System.ButtonController.GetButtonListAsync(System.String)">
+            <summary>
+            按钮列表
+            </summary>
+            <param name="menuGuid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.ButtonController.AddButtonAsync(GD.Dtos.Button.AddButtonRequestDto)">
+            <summary>
+            添加按钮
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.ButtonController.UpdateButtonAsync(GD.Dtos.Button.UpdateButtonRequestDto)">
+            <summary>
+            修改按钮
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.ButtonController.DisableEnableButtonAsync(GD.Dtos.Common.DisableEnableRequestDto)">
+            <summary>
+            禁用启用按钮
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.ButtonController.DeleteButtonAsync(GD.Dtos.Common.DeleteRequestDto)">
+            <summary>
+            删除按钮
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.System.CertificateController">
+            <summary>
+            证书控制器
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.System.CertificateController.GetCertificateListAsync(GD.Dtos.Certificate.GetCertificateListRequestDto)">
+            <summary>
+            获取证书列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.System.DictionaryController">
+            <summary>
+            字典控制器
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.GetDictionaryPageAsync(GD.Dtos.Dictionary.GetDictionaryPageRequestDto)">
+            <summary>
+            字典列表
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.GetDictionaryTreeAsync(GD.Dtos.Dictionary.GetDictionaryTreeRequestDto)">
+            <summary>
+            字典树
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.GetDictionaryMatedata(GD.Dtos.Dictionary.GetDictionaryTreeRequestDto)">
+            <summary>
+            元数据
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.GetDictionaryAsync(System.String)">
+            <summary>
+            获取子字典结果集
+            </summary>
+            <param name="dictionaryGuid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.GetMerchantDictionaryAsync">
+            <summary>
+            获取商户证书
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.AddDictionaryAsync(GD.Dtos.Dictionary.AddDictionaryRequestDto)">
+            <summary>
+            添加Dictionary
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.UpdateDictionaryAsync(GD.Dtos.Dictionary.UpdateDictionaryRequestDto)">
+            <summary>
+            修改Dictionary
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.DisableEnableDictionaryAsync(GD.Dtos.Dictionary.DisableEnableDictionaryRequestDto)">
+            <summary>
+            禁用Dictionary
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.DeleteDictionaryAsync(GD.Dtos.Dictionary.DeleteDictionaryRequestDto)">
+            <summary>
+            删除字典
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.GetBusinessScopePageAsync(GD.Dtos.Dictionary.GetDictionaryTreeRequestDto)">
+            <summary>
+            经营范围字典列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.UpdateBusinessScopeAsync(GD.Dtos.Dictionary.UpdateDictionaryRequestDto)">
+            <summary>
+            修改经营范围Dictionary
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.AddBusinessScopeAsync(GD.Dtos.Dictionary.AddDictionaryRequestDto)">
+            <summary>
+            添加经营范围Dictionary
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.GetBusinessScopeTypeAsync">
+            <summary>
+            经营范围类型
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.GetDictionaryTreeTypeAsync">
+            <summary>
+            字典下拉框
+            /// </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.GetFaqsSettingTypeAsync">
+            <summary>
+            问答设置数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.SaveFaqsSettingAsync(GD.Dtos.Dictionary.SaveFaqsSettingRequestDto[])">
+            <summary>
+            保存问答设置
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2(System.String,System.String,System.String,System.String)">
+            <summary>
+            ceshi
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.System.HeadlineController">
+            <summary>
+            头条
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.System.HeadlineController.GetHeadlinePageAsync(GD.Dtos.Headline.GetHeadlinePageRequestDto)">
+            <summary>
+            头条列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.HeadlineController.AddHeadlineAsync(GD.Dtos.Headline.AddHeadlineRequestDto)">
+            <summary>
+            添加头条
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.HeadlineController.UpdateHeadlineAsync(GD.Dtos.Headline.UpdateHeadlineRequestDto)">
+            <summary>
+            修改头条
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.HeadlineController.DisableEnableHeadlineAsync(GD.Dtos.Headline.DisableEnableHeadlineRequestDto)">
+            <summary>
+            禁用头条
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.HeadlineController.DeleteHeadlineAsync(GD.Dtos.Headline.DeleteHeadlineRequestDto)">
+            <summary>
+            删除头条
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.System.HomeController">
+            <summary>
+            首页相关接口
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.System.HomeController.GetUserQtyAsync">
+            <summary>
+            获取用户数量
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.HomeController.GetDoctorsQtyAsync">
+            <summary>
+            获取医生数量
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.HomeController.GetMerchantQtyAsync">
+            <summary>
+            获取商户数量
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.HomeController.GetOrderQtyAsync">
+            <summary>
+            获取订单数量
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.System.MenuController">
+            <summary>
+            菜单
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.System.MenuController.GetMenuTreeAsync(GD.Dtos.Menu.GetMenuListRequestDto)">
+            <summary>
+            菜单树
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.MenuController.GetMenuTree2Async(GD.Dtos.Menu.GetMenuListRequestDto)">
+            <summary>
+            菜单数，包括按钮
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.MenuController.AddMenuAsync(GD.Dtos.Menu.AddMenuRequestDto)">
+            <summary>
+            添加菜单
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.MenuController.UpdateMenuAsync(GD.Dtos.Menu.UpdateMenuRequestDto)">
+            <summary>
+            修改菜单
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.MenuController.DisableEnableMenuAsync(GD.Dtos.Common.DisableEnableRequestDto)">
+            <summary>
+            禁用启用菜单
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.MenuController.DeleteMenuAsync(GD.Dtos.Common.DeleteRequestDto)">
+            <summary>
+            删除菜单
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.MenuController.SaveRoleMenuAsync(GD.Dtos.Menu.AddRoleMenuRequestDto)">
+            <summary>
+            保存权限
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.MenuController.GetRoleMenuAsync(GD.Dtos.Menu.GetRoleMenuRequestDto)">
+            <summary>
+            获取权限
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.System.ReviewRecordController">
+            <summary>
+            审核记录制器
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.System.ReviewRecordController.GetReviewRecordPageAsync(GD.Dtos.ReviewRecord.GetReviewRecordPageRequestDto)">
+            <summary>
+            审核记录
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.System.SystemBaseController">
+            <summary>
+            系统模块控制器基类
+            </summary>
+        </member>
+        <member name="T:GD.API.Controllers.System.UserController">
+            <summary>
+            用户
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.GetLoginUserInfoAsync">
+            <summary>
+            获取当前登陆人信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.GetAccountInfoAsync(GD.Dtos.User.GetAccountInfoRequestDto)">
+            <summary>
+            获取用户信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.GetAccountListAsync(GD.Dtos.User.GetGetAccountListRequestDto)">
+            <summary>
+            获取用户信息列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.AddAccountAsync(GD.Dtos.User.AddAccountRequestDto)">
+            <summary>
+            添加账号
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.UpdateAccountAsync(GD.Dtos.User.UpdateAccountRequestDto)">
+            <summary>
+            修改账号
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.DisableEnableAccountAsync(GD.Dtos.User.DisableEnableAccountRequestDto)">
+            <summary>
+            禁用账号
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.UpdateAccountPasswordAsync(GD.Dtos.User.UpdateAccountPasswordRequestDto)">
+            <summary>
+            修改密码
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.GetOrganizationTreeAsync(GD.Dtos.User.GetOrganizationTreeRequestDto)">
+            <summary>
+            组织架构列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.GetOrganizationTree(System.String,System.Collections.Generic.IEnumerable{GD.Models.Manager.OrganizationModel})">
+            <summary>
+            获取组织架构树
+            </summary>
+            <param name="pid"></param>
+            <param name="models"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.AddOrganizationAsync(GD.Dtos.User.AddOrganizationRequestDto)">
+            <summary>
+            添加组织架构
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.UpdateOrganizationAsync(GD.Dtos.User.UpdateOrganizationRequestDto)">
+            <summary>
+            修改组织架构
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.DisableEnableOrganizationAsync(GD.Dtos.User.DisableEnableOrganizationRequestDto)">
+            <summary>
+            禁用组织架构
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.GetOrganizationSubset(System.Collections.Generic.IEnumerable{GD.Models.Manager.OrganizationModel},System.String)">
+            <summary>
+            获取子集
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.DeleteOrganizationAsync(GD.Dtos.User.DeleteOrganizationRequestDto)">
+            <summary>
+            删除组织架构
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.GetRoleListAsync(GD.Dtos.User.GetRoleListRequestDto)">
+            <summary>
+            角色列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.AddRoleAsync(GD.Dtos.User.AddRoleRequestDto)">
+            <summary>
+            添加角色
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.UpdateRoleAsync(GD.Dtos.User.UpdateRoleRequestDto)">
+            <summary>
+            修改角色
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.DisableEnableRoleAsync(GD.Dtos.User.DisableEnableRoleRequestDto)">
+            <summary>
+            禁用启用角色
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.System.UserController.DeleteRoleAsync(GD.Dtos.Common.DeleteRequestDto)">
+            <summary>
+            删除角色
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Manager.RecommendController">
+            <summary>
+            推荐控制器
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.GetRecommendPageAsync(GD.Dtos.Recommend.GetRecommendPageRequestDto)">
+            <summary>
+            推荐列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.GetRecommendTypes">
+            <summary>
+            获取推荐类型
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.GetRecommendDoctorListAsync(GD.Dtos.Recommend.GetRecommendDoctorListRequestDto)">
+            <summary>
+            获取医生推荐列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.GetRecommendHospitalListAsync(GD.Dtos.Recommend.GetRecommendHospitalListRequestDto)">
+            <summary>
+            获取医院推荐列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.GetRecommendOfficeListAsync(GD.Dtos.Recommend.GetRecommendOfficeListAsyncRequestDto)">
+            <summary>
+            获取科室推荐列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.GetRecommendArticleListAsync(GD.Dtos.Recommend.GetRecommendArticleListRequestDto)">
+            <summary>
+            获取文章推荐列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.GetRecommendProductListAsync(GD.Dtos.Recommend.GetRecommendProductListRequestDto)">
+            <summary>
+            获取商品推荐列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.AddRecommendAsync(GD.Dtos.Recommend.AddRecommendRequestDto)">
+            <summary>
+            新增推荐
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.DeleteRecommendAsync(GD.Dtos.Recommend.DeleteRecommendRequestDto)">
+            <summary>
+            删除推荐
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.UpdateRecommendAsync(GD.Dtos.Recommend.UpdateRecommendRequestDto)">
+            <summary>
+            修改推荐
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.AddRecommendDetailAsync(GD.Dtos.Recommend.AddRecommendDetailRequestDto)">
+            <summary>
+            新增推荐详细
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.DeleteRecommendDetailAsync(GD.Dtos.Recommend.DeleteRecommendDetailRequestDto)">
+            <summary>
+            删除推荐详细
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.DeleteRecommendDetail2Async(GD.Dtos.Recommend.DeleteRecommendDetail2RequestDto)">
+            <summary>
+            删除推荐详细
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.DisableEnableRecommendAsync(GD.Dtos.Recommend.DisableEnableRecommendRequestDto)">
+            <summary>
+            启用禁用
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.GetRecommendCourseListAsync(GD.Dtos.Recommend.GetRecommendCourseListRequestDto)">
+            <summary>
+            获取课程推荐
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.GetOwnerGuidsAsync(System.String)">
+            <summary>
+            获取 推荐集合
+            </summary>
+            <param name="guid">guid</param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Manager.RecommendController.SaveRecommendDetailAllAsync(GD.Dtos.Recommend.AddRecommendDetailRequestDto)">
+            <summary>
+            新增推荐详细
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Utility.AccountController">
+            <summary>
+            账号控制器，提供登录，用机验证码等功能
+            </summary>
+        </member>
+        <member name="F:GD.API.Controllers.Utility.AccountController.VerificationExpires">
+            <summary>
+            手机验证码有效期分钟数
+            默认为1分钟
+            </summary>
+        </member>
+        <member name="F:GD.API.Controllers.Utility.AccountController.enableXmpp">
+            <summary>
+            是否启用XMPP注册
+            </summary>
+        </member>
+        <member name="F:GD.API.Controllers.Utility.AccountController.httpBind">
+            <summary>
+            提供给前端连接OpenFire服务器的连接
+            </summary>
+        </member>
+        <member name="F:GD.API.Controllers.Utility.AccountController.domain">
+            <summary>
+            提供给前端连接OpenFire服务器的域名
+            </summary>
+        </member>
+        <member name="F:GD.API.Controllers.Utility.AccountController.VerificationTemplate">
+            <summary>
+            验证码短信模板ID
+            </summary>
+        </member>
+        <member name="F:GD.API.Controllers.Utility.AccountController.weChatClientAppId">
+            <summary>
+            用户端微信公众号ID
+            </summary>
+        </member>
+        <member name="F:GD.API.Controllers.Utility.AccountController.weChatClientSecret">
+            <summary>
+            用户端微信公众号密钥
+            </summary>
+        </member>
+        <member name="F:GD.API.Controllers.Utility.AccountController.rabbitMQws">
+            <summary>
+            RabbitMQ连接串，JS使用
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.AccountController.LoginAdmin(GD.Dtos.Account.LoginAdminRequestDto)">
+            <summary>
+            登录管理后台
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.AccountController.SSO">
+            <summary>
+            单点登录，验证Token有效性，供外部系统调用验证
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Utility.ArticleController">
+            <summary>
+            文章表模型
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.ArticleController.GetArticleListAsync(GD.Dtos.Article.GetArticleListRequestDto)">
+            <summary>
+            获取文章列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.ArticleController.GetArticleTypeAsync">
+            <summary>
+            获取类型
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.ArticleController.AddArticleAsync(GD.Dtos.Article.AddArticleRequestDto)">
+            <summary>
+            添加文章
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.ArticleController.UpdateArticleAsync(GD.Dtos.Article.UpdateArticleRequestDto)">
+            <summary>
+            修改文章
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.ArticleController.GetArticleInfoAsync(GD.Dtos.Article.GetArticleInfoRequestDto)">
+            <summary>
+            获取文章信息
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.ArticleController.SetArticleVisibleAsync(GD.Dtos.Article.SetArticleVisibleRequestDto)">
+            <summary>
+            是否可阅读
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.ArticleController.SearchArticleAsync(GD.Dtos.Article.SearchArticleRequestDto)">
+            <summary>
+            搜索文章
+            </summary>
+            <param name="requestDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.ArticleController.DeleteArticleAsync(GD.Dtos.Common.DeleteRequestDto)">
+            <summary>
+            删除文章
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.ArticleController.DisableEnableArticleAsync(GD.Dtos.Common.DisableEnableRequestDto)">
+            <summary>
+            禁用文章
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Utility.CourseController">
+            <summary>
+            课程控制器
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.CourseController.GetCourseListAsync(GD.Dtos.Course.GetCourseListRequestDto)">
+            <summary>
+            获取课程列表
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.CourseController.AddCourseAsync(GD.Dtos.Course.AddCourseRequestDto)">
+            <summary>
+            添加课程
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.CourseController.UpdateCourseAsync(GD.Dtos.Course.UpdateCourseRequestDto)">
+            <summary>
+            修改课程
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.CourseController.GetCourseInfoAsync(GD.Dtos.Course.GetCourseInfoRequestDto)">
+            <summary>
+            获取课程信息
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.CourseController.SetCourseVisibleAsync(GD.Dtos.Course.SetCourseVisibleRequestDto)">
+            <summary>
+            是否可阅读
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.CourseController.SearchCourseAsync(GD.Dtos.Course.SearchCourseRequestDto)">
+            <summary>
+            搜索课程
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.CourseController.DisableEnableCourseAsync(GD.Dtos.Course.DisableEnableCourseRequestDto)">
+            <summary>
+            禁用课程
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.CourseController.DeleteCourseAsync(System.String)">
+            <summary>
+            删除课程
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Utility.ExecuteSqlController">
+            <summary>
+            执行sql
+            </summary>
+        </member>
+        <member name="T:GD.API.Controllers.Utility.HelpController">
+            <summary>
+            常见问题
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.HelpController.GetHelpPageAsync(GD.Dtos.Help.GetHelpPageRequestDto)">
+            <summary>
+            常见问题
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.HelpController.AddHelpAsync(GD.Dtos.Help.AddHelpRequestDto)">
+            <summary>
+            添加Help
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.HelpController.UpdateHelpAsync(GD.Dtos.Help.UpdateHelpRequestDto)">
+            <summary>
+            修改Help
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.HelpController.DisableEnableHelpAsync(GD.Dtos.Question.DisableEnableHelpRequestDto)">
+            <summary>
+            禁用Help
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Utility.TestController">
+            <summary>
+            测试服务
+            </summary>
+        </member>
+        <member name="F:GD.API.Controllers.Utility.TestController.xmppClient">
+            <summary>
+            xmpp Client
+            </summary>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.TestController.Db">
+            <summary>
+            测试数据库服务
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.TestController.Xmpp">
+            <summary>
+            XMPP服务测试
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GD.API.Controllers.Utility.TestController.Upload(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            上传文件
+            </summary>
+            <param name="fileData"></param>
+            <returns></returns>
+        </member>
+        <member name="T:GD.API.Controllers.Utility.UtilityBaseController">
+            <summary>
+            系统模块控制器基类
+            </summary>
+        </member>
+    </members>
+</doc>

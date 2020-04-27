@@ -1,0 +1,15 @@
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\bin\Release\netcoreapp2.2\Dtos.xml
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\bin\Release\netcoreapp2.2\Manager.deps.json
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\bin\Release\netcoreapp2.2\Manager.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\bin\Release\netcoreapp2.2\Manager.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\bin\Release\netcoreapp2.2\Dtos.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\bin\Release\netcoreapp2.2\Models.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\bin\Release\netcoreapp2.2\Models.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\bin\Release\netcoreapp2.2\Dtos.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\obj\Release\netcoreapp2.2\Manager.csprojAssemblyReference.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\obj\Release\netcoreapp2.2\Manager.csproj.CoreCompileInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\obj\Release\netcoreapp2.2\Manager.AssemblyInfoInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\obj\Release\netcoreapp2.2\Manager.AssemblyInfo.cs
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\obj\Release\netcoreapp2.2\Manager.csproj.CopyComplete
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\obj\Release\netcoreapp2.2\Manager.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Manager\obj\Release\netcoreapp2.2\Manager.pdb

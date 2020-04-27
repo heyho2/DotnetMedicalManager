@@ -1,0 +1,75 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>GD.Dtos</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>GD.Dtos</PackageId>
+    <Authors>ZhouHaiyan</Authors>
+    <Company>GuoDan</Company>
+    <Product>GuoDan Cloud</Product>
+    <Description>数据传输对象</Description>
+    <PackageReleaseNotes>数据传输对象</PackageReleaseNotes>
+    <PackageProjectUrl>http://api.guodan.com</PackageProjectUrl>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>Dtos.xml</DocumentationFile>
+    <NoWarn>1701;1702;1591</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>Dtos.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Consumer\Like\**" />
+    <Compile Remove="CrossModule\Out\**" />
+    <Compile Remove="Doctor\Out\**" />
+    <Compile Remove="DtoResponse\**" />
+    <Compile Remove="Mall\In\**" />
+    <Compile Remove="Mall\Out\**" />
+    <Compile Remove="Manager\Out\**" />
+    <Compile Remove="Merchant\Out\**" />
+    <EmbeddedResource Remove="Consumer\Like\**" />
+    <EmbeddedResource Remove="CrossModule\Out\**" />
+    <EmbeddedResource Remove="Doctor\Out\**" />
+    <EmbeddedResource Remove="DtoResponse\**" />
+    <EmbeddedResource Remove="Mall\In\**" />
+    <EmbeddedResource Remove="Mall\Out\**" />
+    <EmbeddedResource Remove="Manager\Out\**" />
+    <EmbeddedResource Remove="Merchant\Out\**" />
+    <None Remove="Consumer\Like\**" />
+    <None Remove="CrossModule\Out\**" />
+    <None Remove="Doctor\Out\**" />
+    <None Remove="DtoResponse\**" />
+    <None Remove="Mall\In\**" />
+    <None Remove="Mall\Out\**" />
+    <None Remove="Manager\Out\**" />
+    <None Remove="Merchant\Out\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Dtos.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Dtos.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Consultant\" />
+    <Folder Include="CrossModule\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GD.Common" Version="1.0.1.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Models\Models.csproj" />
+  </ItemGroup>
+
+</Project>

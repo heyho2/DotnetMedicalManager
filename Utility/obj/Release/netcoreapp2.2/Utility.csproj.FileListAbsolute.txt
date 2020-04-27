@@ -1,0 +1,13 @@
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Utility\bin\Release\netcoreapp2.2\Models.xml
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Utility\bin\Release\netcoreapp2.2\Utility.deps.json
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Utility\bin\Release\netcoreapp2.2\Utility.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Utility\bin\Release\netcoreapp2.2\Utility.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Utility\bin\Release\netcoreapp2.2\Models.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Utility\bin\Release\netcoreapp2.2\Models.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Utility\obj\Release\netcoreapp2.2\Utility.csprojAssemblyReference.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Utility\obj\Release\netcoreapp2.2\Utility.csproj.CoreCompileInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Utility\obj\Release\netcoreapp2.2\Utility.AssemblyInfoInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Utility\obj\Release\netcoreapp2.2\Utility.AssemblyInfo.cs
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Utility\obj\Release\netcoreapp2.2\Utility.csproj.CopyComplete
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Utility\obj\Release\netcoreapp2.2\Utility.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Utility\obj\Release\netcoreapp2.2\Utility.pdb

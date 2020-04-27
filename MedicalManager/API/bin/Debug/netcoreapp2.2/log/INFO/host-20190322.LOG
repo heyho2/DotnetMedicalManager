@@ -1,0 +1,14 @@
+﻿11:00:50 INFO  - Executed action GD.API.Controllers.System.DictionaryController.GetBusinessScopeType (API) in 7492ms
+11:00:50 INFO  - Executed action GD.API.Controllers.System.DictionaryController.GetBusinessScopePageAsync (API) in 7229ms
+11:01:08 INFO  - Executed action GD.API.Controllers.System.DictionaryController.GetBusinessScopeType (API) in 90ms
+11:01:08 INFO  - Executed action GD.API.Controllers.System.DictionaryController.GetBusinessScopePageAsync (API) in 276ms
+11:01:34 INFO  - Executed action GD.API.Controllers.System.AccessoryController.GetAcessoryUrlAsync (API) in 69ms
+11:01:43 INFO  - Executed action GD.API.Controllers.System.DictionaryController.GetBusinessScopeType (API) in 32ms
+11:01:43 INFO  - Executed action GD.API.Controllers.System.DictionaryController.GetBusinessScopePageAsync (API) in 49ms
+11:34:26 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalAllSelectAsync (API) in 138ms
+11:34:26 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorJobTitlesAsync (API) in 151ms
+11:34:26 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalAllSelectAsync (API) in 37ms
+11:34:26 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorPageAsync (API) in 216ms
+11:34:31 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorCertificateDetailAsync (API) in 29ms
+11:34:31 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorInfoAsync (API) in 130ms
+11:34:31 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalOfficeSelectAsync (API) in 40ms

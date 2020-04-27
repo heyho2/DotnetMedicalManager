@@ -1,0 +1,10 @@
+﻿10:34:19 INFO  - Executed action GD.API.Controllers.System.UserController.GetLoginUserInfoAsync (API) in 287ms
+10:34:20 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnairePageListAsync (API) in 77ms
+11:39:25 INFO  - Executed action GD.API.Controllers.System.UserController.GetLoginUserInfoAsync (API) in 284ms
+11:39:25 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnairePageListAsync (API) in 72ms
+11:39:52 INFO  - Executed action GD.API.Controllers.System.UserController.GetLoginUserInfoAsync (API) in 223ms
+11:39:53 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnairePageListAsync (API) in 73ms
+11:40:50 INFO  - Executed action GD.API.Controllers.System.UserController.GetLoginUserInfoAsync (API) in 197ms
+11:40:51 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnairePageListAsync (API) in 72ms
+11:41:41 INFO  - Executed action GD.API.Controllers.System.UserController.GetLoginUserInfoAsync (API) in 214ms
+11:41:42 INFO  - Executed action GD.API.Controllers.Questionnaire.QuestionnaireController.GetQuestionnairePageListAsync (API) in 66ms

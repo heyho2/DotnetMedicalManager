@@ -1,0 +1,307 @@
+﻿15:49:40 ERROR - ::1
+15:49:40 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:49:48 ERROR - ::1
+15:49:48 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:50:32 ERROR - ::1
+15:50:32 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:51:10 ERROR - ::1
+15:51:10 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:51:39 ERROR - ::1
+15:51:39 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:51:42 ERROR - ::1
+15:51:42 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:51:44 ERROR - ::1
+15:51:44 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:51:46 ERROR - ::1
+15:51:46 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:51:48 ERROR - ::1
+15:51:48 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:51:49 ERROR - ::1
+15:51:49 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:52:09 ERROR - ::1
+15:52:09 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:52:20 ERROR - ::1
+15:52:20 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:52:22 ERROR - ::1
+15:52:22 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:52:24 ERROR - ::1
+15:52:24 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:52:37 ERROR - ::1
+15:52:37 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:53:47 ERROR - ::1
+15:53:47 ERROR - System.Data.DataException: Error parsing column 6 (attachment_guid_list=["0010a40ac42547d090424ccdc5658b7d", "00134298338f4e62982e98c2dd3f92cd", "0043fc132e4a4c25b98dea3d6f5e816b"] - String) ---> System.InvalidCastException: Invalid cast from 'System.String' to 'System.String[]'.
+   at System.Convert.DefaultToType(IConvertible value, Type targetType, IFormatProvider provider)
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserializeb2976f6e-a18d-408a-ad1f-c876999bcd74(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+15:54:25 ERROR - ::1
+15:54:25 ERROR - System.Data.DataException: Error parsing column 7 (creation_date=2019/6/14 15:36:36 - DateTime) ---> System.InvalidCastException: Invalid cast from 'DateTime' to 'Boolean'.
+   at System.DateTime.System.IConvertible.ToBoolean(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at Deserialize833e7763-4c30-4cf6-bd15-6522fa0ff065(IDataReader )
+   --- End of inner exception stack trace ---
+   at Dapper.SqlMapper.ThrowDataException(Exception ex, Int32 index, IDataReader reader, Object value) in C:\projects\dapper\Dapper\SqlMapper.cs:line 3609
+   at Deserialize833e7763-4c30-4cf6-bd15-6522fa0ff065(IDataReader )
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command)
+   at GD.DataAccess.MySqlHelper.QueryByPageAsync[TRequest,TResponse,TDto](String sql, TRequest request)
+   at GD.Manager.Faqs.FaqsQuestionBiz.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync(SearchFaqsQuestionRequestDto request)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()

@@ -1,0 +1,10 @@
+﻿14:05:56 INFO  - Executed action GD.API.Controllers.Utility.AccountController.LoginAdmin (API) in 99ms
+14:05:56 INFO  - Executed action GD.API.Controllers.System.UserController.GetLoginUserInfoAsync (API) in 137ms
+14:05:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleListAsync (API) in 102ms
+14:06:01 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleListAsync (API) in 253ms
+14:09:40 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorPageAsync (API) in 55ms
+14:09:40 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalAllSelectAsync (API) in 66ms
+14:09:40 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorJobTitlesAsync (API) in 78ms
+15:37:37 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorIntegralPageAsync (API) in 232ms
+15:37:40 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorPageAsync (API) in 75ms
+15:37:40 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetDoctorJobTitlesAsync (API) in 148ms

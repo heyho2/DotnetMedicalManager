@@ -1,0 +1,1757 @@
+﻿09:13:29 INFO  - 开始保存聊天消息数据
+10:18:19 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 110ms
+10:18:19 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 102ms
+10:18:19 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 21ms
+10:18:19 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 71ms
+10:18:19 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 21ms
+10:18:19 INFO  - hzl 成功登录Openfire
+10:18:19 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 54ms
+10:18:20 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 288ms
+10:18:20 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 29ms
+10:18:27 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 32ms
+10:18:27 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 51ms
+10:18:27 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 31ms
+10:18:27 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 73ms
+10:18:27 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 63ms
+10:18:27 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 77ms
+10:18:27 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 42ms
+10:18:27 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 46ms
+10:19:19 INFO  - 开始保存聊天消息数据
+10:19:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:20:19 INFO  - 开始保存聊天消息数据
+10:20:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+10:21:19 INFO  - 开始保存聊天消息数据
+10:21:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒25毫秒
+10:21:41 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetFirstClassifyList (API) in 109ms
+10:21:41 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetSubClassifyList (API) in 123ms
+10:21:42 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+10:21:44 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 14ms
+10:21:44 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 20ms
+10:21:46 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetFirstClassifyList (API) in 31ms
+10:21:46 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetSubClassifyList (API) in 38ms
+10:21:47 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+10:21:48 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 30ms
+10:21:48 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 30ms
+10:21:48 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 49ms
+10:21:48 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 56ms
+10:21:48 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 74ms
+10:21:48 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 95ms
+10:21:48 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+10:21:49 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetFirstClassifyList (API) in 21ms
+10:21:49 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetSubClassifyList (API) in 26ms
+10:21:49 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 18ms
+10:21:51 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+10:21:52 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 52ms
+10:21:52 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 91ms
+10:21:52 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 79ms
+10:21:52 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 59ms
+10:21:52 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+10:22:19 INFO  - 开始保存聊天消息数据
+10:22:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+10:23:19 INFO  - 开始保存聊天消息数据
+10:23:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+10:24:19 INFO  - 开始保存聊天消息数据
+10:24:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+10:25:19 INFO  - 开始保存聊天消息数据
+10:25:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+10:26:19 INFO  - 开始保存聊天消息数据
+10:26:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+10:27:19 INFO  - 开始保存聊天消息数据
+10:27:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+10:28:19 INFO  - 开始保存聊天消息数据
+10:28:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+10:29:19 INFO  - 开始保存聊天消息数据
+10:29:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+10:30:19 INFO  - 开始保存聊天消息数据
+10:30:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+10:31:19 INFO  - 开始保存聊天消息数据
+10:31:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+10:32:19 INFO  - 开始保存聊天消息数据
+10:32:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+10:33:19 INFO  - 开始保存聊天消息数据
+10:33:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒23毫秒
+10:34:19 INFO  - 开始保存聊天消息数据
+10:34:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+10:35:19 INFO  - 开始保存聊天消息数据
+10:35:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+10:36:19 INFO  - 开始保存聊天消息数据
+10:36:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+10:37:19 INFO  - 开始保存聊天消息数据
+10:37:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒20毫秒
+10:38:19 INFO  - 开始保存聊天消息数据
+10:38:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+10:39:19 INFO  - 开始保存聊天消息数据
+10:39:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+10:40:19 INFO  - 开始保存聊天消息数据
+10:40:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+10:41:19 INFO  - 开始保存聊天消息数据
+10:41:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+10:42:19 INFO  - 开始保存聊天消息数据
+10:42:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+10:43:19 INFO  - 开始保存聊天消息数据
+10:43:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+10:44:19 INFO  - 开始保存聊天消息数据
+10:44:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+10:45:19 INFO  - 开始保存聊天消息数据
+10:45:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+10:46:19 INFO  - 开始保存聊天消息数据
+10:46:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+10:47:19 INFO  - 开始保存聊天消息数据
+10:47:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+10:48:19 INFO  - 开始保存聊天消息数据
+10:48:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒25毫秒
+10:49:19 INFO  - 开始保存聊天消息数据
+10:49:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒44毫秒
+10:50:19 INFO  - 开始保存聊天消息数据
+10:50:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+10:51:19 INFO  - 开始保存聊天消息数据
+10:51:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒27毫秒
+10:52:19 INFO  - 开始保存聊天消息数据
+10:52:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+10:53:19 INFO  - 开始保存聊天消息数据
+10:53:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+10:54:19 INFO  - 开始保存聊天消息数据
+10:54:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒98毫秒
+10:55:19 INFO  - 开始保存聊天消息数据
+10:55:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒78毫秒
+10:56:19 INFO  - 开始保存聊天消息数据
+10:56:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+10:57:19 INFO  - 开始保存聊天消息数据
+10:57:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+10:58:19 INFO  - 开始保存聊天消息数据
+10:58:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒149毫秒
+10:59:19 INFO  - 开始保存聊天消息数据
+10:59:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+11:00:19 INFO  - 开始保存聊天消息数据
+11:00:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:01:19 INFO  - 开始保存聊天消息数据
+11:01:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+11:01:30 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 126ms
+11:01:30 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:01:30 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+11:01:31 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 74ms
+11:01:31 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 75ms
+11:01:31 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 57ms
+11:01:31 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 61ms
+11:01:31 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 18ms
+11:01:31 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:01:39 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+11:01:40 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 46ms
+11:01:41 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 29ms
+11:01:41 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:01:41 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 24ms
+11:01:41 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 71ms
+11:01:42 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 147ms
+11:01:42 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 58ms
+11:01:42 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 74ms
+11:02:19 INFO  - 开始保存聊天消息数据
+11:02:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+11:03:19 INFO  - 开始保存聊天消息数据
+11:03:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+11:04:18 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 47ms
+11:04:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 19ms
+11:04:18 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 29ms
+11:04:18 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 30ms
+11:04:18 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 68ms
+11:04:19 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 67ms
+11:04:19 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 61ms
+11:04:19 INFO  - 开始保存聊天消息数据
+11:04:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+11:04:19 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 18ms
+11:04:19 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:05:19 INFO  - 开始保存聊天消息数据
+11:05:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:05:27 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 84ms
+11:05:27 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 116ms
+11:05:27 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 127ms
+11:05:27 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 31ms
+11:05:27 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 119ms
+11:05:27 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+11:06:19 INFO  - 开始保存聊天消息数据
+11:06:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+11:06:42 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 62ms
+11:06:42 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 72ms
+11:06:42 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 30ms
+11:06:42 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 90ms
+11:06:42 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 18ms
+11:06:42 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 67ms
+11:06:42 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 45ms
+11:06:42 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:06:43 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+11:06:47 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+11:06:47 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 108ms
+11:06:47 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 82ms
+11:06:47 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 33ms
+11:06:47 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 86ms
+11:06:47 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 20ms
+11:06:48 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 40ms
+11:06:48 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:06:48 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:06:59 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+11:07:00 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 17ms
+11:07:01 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 47ms
+11:07:01 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 102ms
+11:07:01 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 85ms
+11:07:01 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 65ms
+11:07:01 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 113ms
+11:07:02 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 19ms
+11:07:02 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:07:19 INFO  - 开始保存聊天消息数据
+11:07:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+11:08:15 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 83ms
+11:08:15 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 43ms
+11:08:15 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 130ms
+11:08:15 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 132ms
+11:08:15 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 86ms
+11:08:15 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 66ms
+11:08:16 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 40ms
+11:08:17 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:08:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 17ms
+11:08:19 INFO  - 开始保存聊天消息数据
+11:08:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+11:08:23 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 132ms
+11:08:23 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 79ms
+11:08:23 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 87ms
+11:08:23 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 41ms
+11:08:23 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 27ms
+11:08:23 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 60ms
+11:08:23 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 39ms
+11:08:23 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 16ms
+11:08:24 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:08:43 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 40ms
+11:08:44 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 136ms
+11:08:44 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 247ms
+11:08:44 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 40ms
+11:08:44 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 87ms
+11:08:44 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 74ms
+11:08:45 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 48ms
+11:08:46 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 16ms
+11:08:47 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:08:50 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 87ms
+11:08:50 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 105ms
+11:08:50 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 58ms
+11:08:50 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 123ms
+11:08:50 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 93ms
+11:08:50 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 193ms
+11:08:50 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 51ms
+11:08:51 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 15ms
+11:08:51 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:08:56 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 45ms
+11:08:56 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 86ms
+11:08:56 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 26ms
+11:08:56 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 107ms
+11:08:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 71ms
+11:08:57 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 129ms
+11:08:57 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+11:08:57 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 14ms
+11:08:58 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:09:19 INFO  - 开始保存聊天消息数据
+11:09:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+11:09:36 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 60ms
+11:09:36 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 24ms
+11:09:36 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 215ms
+11:09:36 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 190ms
+11:09:36 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 21ms
+11:09:36 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 77ms
+11:09:37 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 28ms
+11:09:37 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:09:38 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 24ms
+11:09:44 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 52ms
+11:09:45 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 76ms
+11:09:45 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 35ms
+11:09:45 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 82ms
+11:09:45 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 77ms
+11:09:45 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:09:45 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 29ms
+11:09:45 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:09:46 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:09:51 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 74ms
+11:09:51 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 62ms
+11:09:51 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 109ms
+11:09:51 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 34ms
+11:09:51 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 156ms
+11:09:52 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:09:52 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 27ms
+11:09:52 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 15ms
+11:09:53 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 11ms
+11:09:55 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 82ms
+11:09:56 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 80ms
+11:09:56 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 121ms
+11:09:56 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 132ms
+11:09:56 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 88ms
+11:09:56 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:09:59 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 48ms
+11:09:59 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 80ms
+11:09:59 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 155ms
+11:10:00 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 151ms
+11:10:00 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 145ms
+11:10:00 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 36ms
+11:10:00 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 49ms
+11:10:00 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 12ms
+11:10:01 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+11:10:06 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 52ms
+11:10:06 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 103ms
+11:10:06 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 44ms
+11:10:06 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 85ms
+11:10:06 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 93ms
+11:10:06 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 18ms
+11:10:07 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 44ms
+11:10:07 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 14ms
+11:10:07 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 27ms
+11:10:12 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 41ms
+11:10:12 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 113ms
+11:10:12 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 121ms
+11:10:12 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 38ms
+11:10:12 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 92ms
+11:10:12 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 80ms
+11:10:13 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 45ms
+11:10:13 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 12ms
+11:10:14 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:10:19 INFO  - 开始保存聊天消息数据
+11:10:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+11:10:23 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 34ms
+11:10:24 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 38ms
+11:10:26 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 101ms
+11:10:26 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 99ms
+11:10:26 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 83ms
+11:10:26 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 74ms
+11:10:26 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 20ms
+11:10:27 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 17ms
+11:10:27 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 20ms
+11:10:32 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 43ms
+11:10:32 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 96ms
+11:10:32 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 94ms
+11:10:32 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 70ms
+11:10:32 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 89ms
+11:10:32 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 57ms
+11:10:33 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 41ms
+11:10:33 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 16ms
+11:10:34 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:10:42 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 27ms
+11:10:42 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 147ms
+11:10:42 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 148ms
+11:10:42 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 145ms
+11:10:43 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 98ms
+11:10:43 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 101ms
+11:10:43 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 29ms
+11:10:43 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:10:44 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+11:10:50 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 31ms
+11:10:50 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 69ms
+11:10:50 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 104ms
+11:10:50 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 131ms
+11:10:50 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 111ms
+11:10:50 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:10:57 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 51ms
+11:10:57 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 29ms
+11:10:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 85ms
+11:10:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 71ms
+11:10:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 65ms
+11:10:57 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 23ms
+11:10:59 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 58ms
+11:11:14 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 39ms
+11:11:15 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 88ms
+11:11:15 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 75ms
+11:11:15 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 72ms
+11:11:15 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 43ms
+11:11:19 INFO  - 开始保存聊天消息数据
+11:11:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+11:11:36 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 31ms
+11:11:37 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 30ms
+11:11:37 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 106ms
+11:11:38 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 131ms
+11:11:38 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 21ms
+11:11:38 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 76ms
+11:11:38 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 29ms
+11:11:38 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:11:39 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:11:57 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 57ms
+11:11:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 183ms
+11:11:57 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 72ms
+11:11:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 196ms
+11:11:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 125ms
+11:11:58 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 39ms
+11:11:58 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 33ms
+11:12:00 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:12:01 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 60ms
+11:12:01 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 26ms
+11:12:01 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 95ms
+11:12:01 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 83ms
+11:12:01 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 71ms
+11:12:01 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+11:12:01 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+11:12:19 INFO  - 开始保存聊天消息数据
+11:12:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+11:12:44 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 55ms
+11:12:44 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 38ms
+11:12:44 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 83ms
+11:12:44 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 73ms
+11:12:44 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 80ms
+11:12:45 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 36ms
+11:12:45 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 49ms
+11:12:45 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 15ms
+11:12:46 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:13:11 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 68ms
+11:13:11 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 55ms
+11:13:12 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 78ms
+11:13:12 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 63ms
+11:13:12 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 95ms
+11:13:12 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 38ms
+11:13:12 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+11:13:12 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 17ms
+11:13:13 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+11:13:19 INFO  - 开始保存聊天消息数据
+11:13:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+11:14:19 INFO  - 开始保存聊天消息数据
+11:14:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:14:21 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 64ms
+11:14:22 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 28ms
+11:14:24 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 30ms
+11:14:24 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 109ms
+11:14:24 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 100ms
+11:14:24 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 122ms
+11:14:24 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 96ms
+11:14:24 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 20ms
+11:14:25 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+11:14:31 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 140ms
+11:14:31 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 48ms
+11:14:33 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 31ms
+11:14:33 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 83ms
+11:14:33 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 78ms
+11:14:33 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 71ms
+11:14:33 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 74ms
+11:14:33 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 16ms
+11:14:34 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:14:36 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 47ms
+11:14:36 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 82ms
+11:14:36 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 61ms
+11:14:37 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 218ms
+11:14:37 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 20ms
+11:14:37 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 65ms
+11:14:37 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 49ms
+11:14:37 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 21ms
+11:14:38 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 44ms
+11:14:45 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 33ms
+11:14:47 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 83ms
+11:14:47 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 106ms
+11:14:47 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 37ms
+11:14:47 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 91ms
+11:14:47 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:14:48 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 31ms
+11:14:48 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:14:48 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+11:14:58 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 44ms
+11:14:58 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 78ms
+11:14:58 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 28ms
+11:14:58 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 111ms
+11:14:58 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 103ms
+11:14:59 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:14:59 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 27ms
+11:14:59 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:15:00 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:15:02 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 99ms
+11:15:03 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 20ms
+11:15:03 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 94ms
+11:15:03 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 96ms
+11:15:03 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 68ms
+11:15:03 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:15:19 INFO  - 开始保存聊天消息数据
+11:15:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+11:15:50 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 33ms
+11:15:50 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 89ms
+11:15:50 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 78ms
+11:15:50 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 62ms
+11:15:50 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 73ms
+11:15:50 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:15:50 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 30ms
+11:15:51 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 24ms
+11:15:51 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:16:09 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 58ms
+11:16:12 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 116ms
+11:16:12 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 142ms
+11:16:12 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 107ms
+11:16:12 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 70ms
+11:16:13 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 126ms
+11:16:13 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 37ms
+11:16:19 INFO  - 开始保存聊天消息数据
+11:16:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+11:17:19 INFO  - 开始保存聊天消息数据
+11:17:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒45毫秒
+11:18:17 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 120ms
+11:18:17 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 112ms
+11:18:17 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 154ms
+11:18:18 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 60ms
+11:18:18 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 116ms
+11:18:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 93ms
+11:18:19 INFO  - 开始保存聊天消息数据
+11:18:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+11:18:35 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 76ms
+11:19:19 INFO  - 开始保存聊天消息数据
+11:19:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:19:46 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 45ms
+11:19:47 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 86ms
+11:19:47 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 33ms
+11:19:47 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 121ms
+11:19:47 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 19ms
+11:19:47 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 70ms
+11:19:47 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 31ms
+11:19:47 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 81ms
+11:19:48 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 22ms
+11:20:19 INFO  - 开始保存聊天消息数据
+11:20:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+11:21:19 INFO  - 开始保存聊天消息数据
+11:21:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+11:22:19 INFO  - 开始保存聊天消息数据
+11:22:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:23:19 INFO  - 开始保存聊天消息数据
+11:23:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+11:23:57 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 54ms
+11:23:57 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:23:57 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+11:24:01 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 34ms
+11:24:01 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:24:02 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:24:13 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 33ms
+11:24:13 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 15ms
+11:24:14 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:24:16 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 60ms
+11:24:16 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 106ms
+11:24:16 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 95ms
+11:24:17 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 87ms
+11:24:17 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 77ms
+11:24:17 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:24:19 INFO  - 开始保存聊天消息数据
+11:24:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+11:24:27 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 336ms
+11:24:27 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 17ms
+11:25:19 INFO  - 开始保存聊天消息数据
+11:25:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:26:19 INFO  - 开始保存聊天消息数据
+11:26:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+11:27:19 INFO  - 开始保存聊天消息数据
+11:27:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+11:28:19 INFO  - 开始保存聊天消息数据
+11:28:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+11:29:19 INFO  - 开始保存聊天消息数据
+11:29:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:30:19 INFO  - 开始保存聊天消息数据
+11:30:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:31:19 INFO  - 开始保存聊天消息数据
+11:31:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+11:32:19 INFO  - 开始保存聊天消息数据
+11:32:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:32:53 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 87ms
+11:32:53 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 292ms
+11:32:53 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 42ms
+11:32:53 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 31ms
+11:32:54 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 12ms
+11:32:54 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+11:33:08 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 121ms
+11:33:08 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 338ms
+11:33:08 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 33ms
+11:33:08 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 56ms
+11:33:08 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 136ms
+11:33:09 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:33:19 INFO  - 开始保存聊天消息数据
+11:33:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+11:34:19 INFO  - 开始保存聊天消息数据
+11:34:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:34:57 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 70ms
+11:34:57 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 21ms
+11:34:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 199ms
+11:34:57 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 30ms
+11:34:59 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:34:59 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 18ms
+11:35:04 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 45ms
+11:35:05 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 166ms
+11:35:06 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+11:35:06 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 41ms
+11:35:06 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 12ms
+11:35:07 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:35:19 INFO  - 开始保存聊天消息数据
+11:35:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+11:35:37 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 96ms
+11:35:37 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 186ms
+11:35:37 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 30ms
+11:35:37 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 25ms
+11:35:37 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:35:38 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:35:50 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 60ms
+11:35:52 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 31ms
+11:35:53 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 31ms
+11:35:53 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 24ms
+11:35:53 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 223ms
+11:35:53 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 19ms
+11:36:00 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 32ms
+11:36:00 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 200ms
+11:36:01 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 23ms
+11:36:01 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 22ms
+11:36:03 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 14ms
+11:36:04 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:36:08 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 43ms
+11:36:10 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 166ms
+11:36:10 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:36:13 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+11:36:14 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 27ms
+11:36:15 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 45ms
+11:36:17 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 118ms
+11:36:17 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 44ms
+11:36:18 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 168ms
+11:36:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 20ms
+11:36:18 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 41ms
+11:36:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:36:19 INFO  - 开始保存聊天消息数据
+11:36:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒7毫秒
+11:36:19 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:36:28 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 25ms
+11:36:28 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 190ms
+11:36:28 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+11:36:28 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 26ms
+11:36:28 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 13ms
+11:36:29 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+11:37:19 INFO  - 开始保存聊天消息数据
+11:37:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+11:37:41 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 75ms
+11:37:41 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 170ms
+11:37:41 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 17ms
+11:38:19 INFO  - 开始保存聊天消息数据
+11:38:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+11:39:19 INFO  - 开始保存聊天消息数据
+11:39:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:40:19 INFO  - 开始保存聊天消息数据
+11:40:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:41:19 INFO  - 开始保存聊天消息数据
+11:41:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:41:45 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 43ms
+11:41:47 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 15ms
+11:41:48 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:41:50 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 23ms
+11:41:50 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 12ms
+11:41:50 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 17ms
+11:41:51 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 51ms
+11:41:51 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 183ms
+11:41:52 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:42:19 INFO  - 开始保存聊天消息数据
+11:42:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+11:42:31 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 36ms
+11:42:32 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 192ms
+11:42:32 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:42:32 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 25ms
+11:42:32 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 12ms
+11:42:33 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:42:48 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+11:42:48 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 171ms
+11:42:48 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:42:49 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 22ms
+11:42:49 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 17ms
+11:42:49 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+11:43:19 INFO  - 开始保存聊天消息数据
+11:43:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+11:44:19 INFO  - 开始保存聊天消息数据
+11:44:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:45:19 INFO  - 开始保存聊天消息数据
+11:45:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:46:19 INFO  - 开始保存聊天消息数据
+11:46:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+11:47:19 INFO  - 开始保存聊天消息数据
+11:47:19 INFO  - 聊天消息数据保存完成，共处理条 1 数据。耗时：0时0分0秒46毫秒
+11:47:51 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 53ms
+11:47:52 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 146ms
+11:47:52 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:48:19 INFO  - 开始保存聊天消息数据
+11:48:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:48:27 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 95ms
+11:48:28 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 167ms
+11:48:28 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 26ms
+11:49:19 INFO  - 开始保存聊天消息数据
+11:49:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+11:50:19 INFO  - 开始保存聊天消息数据
+11:50:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+11:51:19 INFO  - 开始保存聊天消息数据
+11:51:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+11:52:07 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 82ms
+11:52:07 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 183ms
+11:52:07 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:52:19 INFO  - 开始保存聊天消息数据
+11:52:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+11:52:24 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 119ms
+11:52:24 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 254ms
+11:52:24 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:53:19 INFO  - 开始保存聊天消息数据
+11:53:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+11:53:28 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 108ms
+11:53:28 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 160ms
+11:53:28 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+11:54:19 INFO  - 开始保存聊天消息数据
+11:54:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+11:55:19 INFO  - 开始保存聊天消息数据
+11:55:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+11:56:09 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 43ms
+11:56:10 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 12ms
+11:56:10 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+11:56:16 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 22ms
+11:56:16 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 12ms
+11:56:17 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+11:56:19 INFO  - 开始保存聊天消息数据
+11:56:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒7毫秒
+11:56:22 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 45ms
+11:56:23 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 14ms
+11:56:24 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 58ms
+11:56:28 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 25ms
+11:56:28 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 12ms
+11:56:28 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 35ms
+11:56:31 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 63ms
+11:56:31 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 228ms
+11:56:31 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+11:57:19 INFO  - 开始保存聊天消息数据
+11:57:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+11:58:19 INFO  - 开始保存聊天消息数据
+11:58:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+11:59:19 INFO  - 开始保存聊天消息数据
+11:59:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+12:00:19 INFO  - 开始保存聊天消息数据
+12:00:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:01:19 INFO  - 开始保存聊天消息数据
+12:01:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+12:02:19 INFO  - 开始保存聊天消息数据
+12:02:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+12:03:19 INFO  - 开始保存聊天消息数据
+12:03:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:04:19 INFO  - 开始保存聊天消息数据
+12:04:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+12:05:19 INFO  - 开始保存聊天消息数据
+12:05:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:06:19 INFO  - 开始保存聊天消息数据
+12:06:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒7毫秒
+12:07:19 INFO  - 开始保存聊天消息数据
+12:07:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:08:19 INFO  - 开始保存聊天消息数据
+12:08:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:09:19 INFO  - 开始保存聊天消息数据
+12:09:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:10:19 INFO  - 开始保存聊天消息数据
+12:10:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+12:11:19 INFO  - 开始保存聊天消息数据
+12:11:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+12:12:19 INFO  - 开始保存聊天消息数据
+12:12:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:13:19 INFO  - 开始保存聊天消息数据
+12:13:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:14:19 INFO  - 开始保存聊天消息数据
+12:14:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:15:19 INFO  - 开始保存聊天消息数据
+12:15:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:16:19 INFO  - 开始保存聊天消息数据
+12:16:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:17:19 INFO  - 开始保存聊天消息数据
+12:17:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+12:18:19 INFO  - 开始保存聊天消息数据
+12:18:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:19:19 INFO  - 开始保存聊天消息数据
+12:19:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:20:19 INFO  - 开始保存聊天消息数据
+12:20:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:21:19 INFO  - 开始保存聊天消息数据
+12:21:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:22:19 INFO  - 开始保存聊天消息数据
+12:22:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:23:19 INFO  - 开始保存聊天消息数据
+12:23:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:24:19 INFO  - 开始保存聊天消息数据
+12:24:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+12:25:19 INFO  - 开始保存聊天消息数据
+12:25:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:26:19 INFO  - 开始保存聊天消息数据
+12:26:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:27:19 INFO  - 开始保存聊天消息数据
+12:27:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+12:28:19 INFO  - 开始保存聊天消息数据
+12:28:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:29:19 INFO  - 开始保存聊天消息数据
+12:29:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+12:30:19 INFO  - 开始保存聊天消息数据
+12:30:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+12:31:19 INFO  - 开始保存聊天消息数据
+12:31:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+12:32:19 INFO  - 开始保存聊天消息数据
+12:32:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:33:19 INFO  - 开始保存聊天消息数据
+12:33:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+12:34:19 INFO  - 开始保存聊天消息数据
+12:34:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:35:19 INFO  - 开始保存聊天消息数据
+12:35:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:36:19 INFO  - 开始保存聊天消息数据
+12:36:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:37:19 INFO  - 开始保存聊天消息数据
+12:37:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+12:38:19 INFO  - 开始保存聊天消息数据
+12:38:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:39:19 INFO  - 开始保存聊天消息数据
+12:39:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:40:19 INFO  - 开始保存聊天消息数据
+12:40:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:41:19 INFO  - 开始保存聊天消息数据
+12:41:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:42:19 INFO  - 开始保存聊天消息数据
+12:42:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:43:19 INFO  - 开始保存聊天消息数据
+12:43:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:44:19 INFO  - 开始保存聊天消息数据
+12:44:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+12:45:19 INFO  - 开始保存聊天消息数据
+12:45:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:46:19 INFO  - 开始保存聊天消息数据
+12:46:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:47:19 INFO  - 开始保存聊天消息数据
+12:47:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒21毫秒
+12:48:19 INFO  - 开始保存聊天消息数据
+12:48:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:49:19 INFO  - 开始保存聊天消息数据
+12:49:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+12:50:19 INFO  - 开始保存聊天消息数据
+12:50:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:51:19 INFO  - 开始保存聊天消息数据
+12:51:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+12:52:19 INFO  - 开始保存聊天消息数据
+12:52:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:53:19 INFO  - 开始保存聊天消息数据
+12:53:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒22毫秒
+12:54:19 INFO  - 开始保存聊天消息数据
+12:54:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒23毫秒
+12:55:19 INFO  - 开始保存聊天消息数据
+12:55:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+12:56:19 INFO  - 开始保存聊天消息数据
+12:56:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+12:57:19 INFO  - 开始保存聊天消息数据
+12:57:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:58:19 INFO  - 开始保存聊天消息数据
+12:58:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+12:59:19 INFO  - 开始保存聊天消息数据
+12:59:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+13:00:19 INFO  - 开始保存聊天消息数据
+13:00:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:01:19 INFO  - 开始保存聊天消息数据
+13:01:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+13:02:19 INFO  - 开始保存聊天消息数据
+13:02:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒208毫秒
+13:03:19 INFO  - 开始保存聊天消息数据
+13:03:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+13:04:19 INFO  - 开始保存聊天消息数据
+13:04:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:05:19 INFO  - 开始保存聊天消息数据
+13:05:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:06:19 INFO  - 开始保存聊天消息数据
+13:06:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+13:07:19 INFO  - 开始保存聊天消息数据
+13:07:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:08:19 INFO  - 开始保存聊天消息数据
+13:08:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒26毫秒
+13:09:19 INFO  - 开始保存聊天消息数据
+13:09:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+13:10:19 INFO  - 开始保存聊天消息数据
+13:10:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+13:11:19 INFO  - 开始保存聊天消息数据
+13:11:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒7毫秒
+13:12:19 INFO  - 开始保存聊天消息数据
+13:12:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:13:19 INFO  - 开始保存聊天消息数据
+13:13:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+13:14:19 INFO  - 开始保存聊天消息数据
+13:14:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+13:15:19 INFO  - 开始保存聊天消息数据
+13:15:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:16:19 INFO  - 开始保存聊天消息数据
+13:16:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:17:19 INFO  - 开始保存聊天消息数据
+13:17:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:18:19 INFO  - 开始保存聊天消息数据
+13:18:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒114毫秒
+13:19:19 INFO  - 开始保存聊天消息数据
+13:19:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+13:20:19 INFO  - 开始保存聊天消息数据
+13:20:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+13:21:19 INFO  - 开始保存聊天消息数据
+13:21:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+13:22:19 INFO  - 开始保存聊天消息数据
+13:22:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+13:23:19 INFO  - 开始保存聊天消息数据
+13:23:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+13:24:19 INFO  - 开始保存聊天消息数据
+13:24:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+13:25:19 INFO  - 开始保存聊天消息数据
+13:25:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:26:19 INFO  - 开始保存聊天消息数据
+13:26:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+13:27:19 INFO  - 开始保存聊天消息数据
+13:27:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+13:28:19 INFO  - 开始保存聊天消息数据
+13:28:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+13:29:19 INFO  - 开始保存聊天消息数据
+13:29:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+13:30:19 INFO  - 开始保存聊天消息数据
+13:30:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:31:19 INFO  - 开始保存聊天消息数据
+13:31:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+13:32:19 INFO  - 开始保存聊天消息数据
+13:32:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+13:33:19 INFO  - 开始保存聊天消息数据
+13:33:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:34:19 INFO  - 开始保存聊天消息数据
+13:34:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+13:35:19 INFO  - 开始保存聊天消息数据
+13:35:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+13:36:19 INFO  - 开始保存聊天消息数据
+13:36:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+13:37:19 INFO  - 开始保存聊天消息数据
+13:37:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+13:38:19 INFO  - 开始保存聊天消息数据
+13:38:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:39:19 INFO  - 开始保存聊天消息数据
+13:39:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:40:19 INFO  - 开始保存聊天消息数据
+13:40:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+13:41:19 INFO  - 开始保存聊天消息数据
+13:41:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:42:19 INFO  - 开始保存聊天消息数据
+13:42:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+13:43:19 INFO  - 开始保存聊天消息数据
+13:43:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒7毫秒
+13:44:19 INFO  - 开始保存聊天消息数据
+13:44:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+13:45:19 INFO  - 开始保存聊天消息数据
+13:45:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+13:46:19 INFO  - 开始保存聊天消息数据
+13:46:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+13:47:19 INFO  - 开始保存聊天消息数据
+13:47:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒7毫秒
+13:48:19 INFO  - 开始保存聊天消息数据
+13:48:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:49:19 INFO  - 开始保存聊天消息数据
+13:49:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+13:50:19 INFO  - 开始保存聊天消息数据
+13:50:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:51:19 INFO  - 开始保存聊天消息数据
+13:51:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+13:51:37 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 113ms
+13:51:37 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 138ms
+13:51:37 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 146ms
+13:51:38 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 74ms
+13:51:38 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+13:51:40 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 54ms
+13:52:19 INFO  - 开始保存聊天消息数据
+13:52:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:53:19 INFO  - 开始保存聊天消息数据
+13:53:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+13:54:19 INFO  - 开始保存聊天消息数据
+13:54:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:54:33 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 84ms
+13:54:33 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 74ms
+13:54:33 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 131ms
+13:54:34 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 18ms
+13:54:34 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 59ms
+13:54:34 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 100ms
+13:55:19 INFO  - 开始保存聊天消息数据
+13:55:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+13:56:19 INFO  - 开始保存聊天消息数据
+13:56:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+13:57:19 INFO  - 开始保存聊天消息数据
+13:57:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:58:19 INFO  - 开始保存聊天消息数据
+13:58:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+13:59:19 INFO  - 开始保存聊天消息数据
+13:59:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+14:00:19 INFO  - 开始保存聊天消息数据
+14:00:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+14:01:19 INFO  - 开始保存聊天消息数据
+14:01:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒35毫秒
+14:01:20 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 93ms
+14:01:20 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 121ms
+14:01:20 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 147ms
+14:01:20 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 110ms
+14:01:20 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 81ms
+14:01:20 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 41ms
+14:02:19 INFO  - 开始保存聊天消息数据
+14:02:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+14:03:19 INFO  - 开始保存聊天消息数据
+14:03:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒7毫秒
+14:04:18 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 54ms
+14:04:18 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 100ms
+14:04:18 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 83ms
+14:04:18 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 61ms
+14:04:18 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 173ms
+14:04:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+14:04:19 INFO  - 开始保存聊天消息数据
+14:04:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+14:05:19 INFO  - 开始保存聊天消息数据
+14:05:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+14:06:19 INFO  - 开始保存聊天消息数据
+14:06:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+14:07:19 INFO  - 开始保存聊天消息数据
+14:07:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+14:08:19 INFO  - 开始保存聊天消息数据
+14:08:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒25毫秒
+14:09:19 INFO  - 开始保存聊天消息数据
+14:09:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒29毫秒
+14:10:19 INFO  - 开始保存聊天消息数据
+14:10:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+14:11:19 INFO  - 开始保存聊天消息数据
+14:11:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒23毫秒
+14:12:19 INFO  - 开始保存聊天消息数据
+14:12:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+14:13:19 INFO  - 开始保存聊天消息数据
+14:13:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+14:13:58 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 72ms
+14:13:59 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 59ms
+14:13:59 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 100ms
+14:13:59 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 141ms
+14:13:59 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+14:13:59 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 77ms
+14:14:04 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 116ms
+14:14:04 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 77ms
+14:14:04 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 122ms
+14:14:04 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 93ms
+14:14:04 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 90ms
+14:14:04 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 26ms
+14:14:19 INFO  - 开始保存聊天消息数据
+14:14:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒7毫秒
+14:14:23 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 56ms
+14:14:23 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 57ms
+14:14:23 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 113ms
+14:14:23 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 138ms
+14:14:24 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 147ms
+14:14:24 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 67ms
+14:15:19 INFO  - 开始保存聊天消息数据
+14:15:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+14:15:50 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 184ms
+14:15:50 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+14:15:52 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 34ms
+14:15:52 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 77ms
+14:15:52 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 68ms
+14:15:52 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 57ms
+14:15:53 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 17ms
+14:15:54 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 66ms
+14:15:54 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 39ms
+14:15:54 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 55ms
+14:15:54 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 87ms
+14:15:54 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 171ms
+14:15:55 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+14:16:19 INFO  - 开始保存聊天消息数据
+14:16:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+14:17:19 INFO  - 开始保存聊天消息数据
+14:17:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+14:17:30 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 28ms
+14:17:30 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 36ms
+14:17:30 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 105ms
+14:17:31 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 107ms
+14:17:31 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 110ms
+14:17:31 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 140ms
+14:18:01 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 35ms
+14:18:01 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 32ms
+14:18:01 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 95ms
+14:18:01 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 135ms
+14:18:02 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 77ms
+14:18:02 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 40ms
+14:18:19 INFO  - 开始保存聊天消息数据
+14:18:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+14:18:30 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 22ms
+14:18:30 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 82ms
+14:18:30 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 106ms
+14:18:31 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 52ms
+14:18:31 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 67ms
+14:18:31 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 36ms
+14:19:19 INFO  - 开始保存聊天消息数据
+14:19:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+14:19:20 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 31ms
+14:19:20 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 47ms
+14:19:20 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 101ms
+14:19:21 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 91ms
+14:19:21 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 57ms
+14:19:21 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 23ms
+14:19:30 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 60ms
+14:19:30 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 33ms
+14:19:30 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 120ms
+14:19:30 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 73ms
+14:19:30 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 46ms
+14:19:31 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+14:19:58 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 73ms
+14:19:58 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 39ms
+14:19:58 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 75ms
+14:19:58 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 33ms
+14:19:58 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 51ms
+14:19:58 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+14:20:19 INFO  - 开始保存聊天消息数据
+14:20:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+14:20:28 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 55ms
+14:20:28 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 103ms
+14:20:28 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 41ms
+14:20:28 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 112ms
+14:20:28 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 86ms
+14:20:28 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+14:20:45 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 38ms
+14:20:46 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 71ms
+14:20:46 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 33ms
+14:20:46 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 85ms
+14:20:46 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 72ms
+14:20:46 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 18ms
+14:21:19 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 43ms
+14:21:19 INFO  - 开始保存聊天消息数据
+14:21:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒22毫秒
+14:21:19 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 30ms
+14:21:19 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 64ms
+14:21:19 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 151ms
+14:21:19 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 86ms
+14:21:20 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 22ms
+14:22:19 INFO  - 开始保存聊天消息数据
+14:22:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+14:22:41 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 48ms
+14:22:41 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 59ms
+14:22:41 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 145ms
+14:22:41 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+14:22:41 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 84ms
+14:22:41 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 69ms
+14:23:19 INFO  - 开始保存聊天消息数据
+14:23:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+14:24:19 INFO  - 开始保存聊天消息数据
+14:24:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+14:25:19 INFO  - 开始保存聊天消息数据
+14:25:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+14:26:19 INFO  - 开始保存聊天消息数据
+14:26:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+14:27:19 INFO  - 开始保存聊天消息数据
+14:27:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒7毫秒
+14:28:19 INFO  - 开始保存聊天消息数据
+14:28:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+14:29:19 INFO  - 开始保存聊天消息数据
+14:29:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+14:30:19 INFO  - 开始保存聊天消息数据
+14:30:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+14:31:19 INFO  - 开始保存聊天消息数据
+14:31:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+14:32:19 INFO  - 开始保存聊天消息数据
+14:32:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+14:33:19 INFO  - 开始保存聊天消息数据
+14:33:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+14:34:19 INFO  - 开始保存聊天消息数据
+14:34:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+14:35:19 INFO  - 开始保存聊天消息数据
+14:35:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+14:36:19 INFO  - 开始保存聊天消息数据
+14:36:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+14:37:19 INFO  - 开始保存聊天消息数据
+14:37:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+14:38:19 INFO  - 开始保存聊天消息数据
+14:38:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+14:38:55 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 118ms
+14:38:55 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 36ms
+14:38:55 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 185ms
+14:38:55 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 207ms
+14:38:55 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 121ms
+14:38:55 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 57ms
+14:39:19 INFO  - 开始保存聊天消息数据
+14:39:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+14:40:01 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 85ms
+14:40:01 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 35ms
+14:40:01 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 139ms
+14:40:01 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 86ms
+14:40:01 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 18ms
+14:40:01 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 79ms
+14:40:19 INFO  - 开始保存聊天消息数据
+14:40:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+14:40:23 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 119ms
+14:40:23 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 119ms
+14:40:23 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 147ms
+14:40:23 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 97ms
+14:40:24 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 77ms
+14:40:24 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 48ms
+14:40:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 153ms
+14:40:57 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 31ms
+14:40:57 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 66ms
+14:40:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 165ms
+14:40:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 131ms
+14:40:57 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+14:41:14 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 125ms
+14:41:14 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 65ms
+14:41:14 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 135ms
+14:41:14 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 86ms
+14:41:14 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 41ms
+14:41:14 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 77ms
+14:41:19 INFO  - 开始保存聊天消息数据
+14:41:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+14:42:03 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 66ms
+14:42:03 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 34ms
+14:42:03 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 114ms
+14:42:03 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 115ms
+14:42:03 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 23ms
+14:42:03 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 76ms
+14:42:19 INFO  - 开始保存聊天消息数据
+14:42:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+14:43:16 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 69ms
+14:43:16 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 44ms
+14:43:16 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 100ms
+14:43:16 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 156ms
+14:43:16 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+14:43:16 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 69ms
+14:43:19 INFO  - 开始保存聊天消息数据
+14:43:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+14:44:18 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 78ms
+14:44:18 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 113ms
+14:44:19 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 44ms
+14:44:19 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 116ms
+14:44:19 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 102ms
+14:44:19 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 25ms
+14:44:19 INFO  - 开始保存聊天消息数据
+14:44:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+14:45:08 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 140ms
+14:45:09 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 38ms
+14:45:09 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 84ms
+14:45:09 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 86ms
+14:45:09 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 123ms
+14:45:09 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+14:45:19 INFO  - 开始保存聊天消息数据
+14:45:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+14:46:19 INFO  - 开始保存聊天消息数据
+14:46:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+14:47:19 INFO  - 开始保存聊天消息数据
+14:47:19 INFO  - 聊天消息数据保存完成，共处理条 3 数据。耗时：0时0分0秒86毫秒
+14:48:19 INFO  - 开始保存聊天消息数据
+14:48:19 INFO  - 聊天消息数据保存完成，共处理条 1 数据。耗时：0时0分0秒72毫秒
+14:49:19 INFO  - 开始保存聊天消息数据
+14:49:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+14:50:19 INFO  - 开始保存聊天消息数据
+14:50:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+14:50:47 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 87ms
+14:50:47 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 109ms
+14:50:47 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 138ms
+14:50:47 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 130ms
+14:50:47 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 88ms
+14:50:47 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+14:50:57 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 32ms
+14:50:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 85ms
+14:50:57 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 57ms
+14:50:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 83ms
+14:50:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 72ms
+14:50:57 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+14:51:19 INFO  - 开始保存聊天消息数据
+14:51:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+14:52:19 INFO  - 开始保存聊天消息数据
+14:52:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+14:52:55 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 55ms
+14:53:19 INFO  - 开始保存聊天消息数据
+14:53:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+14:54:19 INFO  - 开始保存聊天消息数据
+14:54:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+14:55:19 INFO  - 开始保存聊天消息数据
+14:55:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+14:56:19 INFO  - 开始保存聊天消息数据
+14:56:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+14:57:19 INFO  - 开始保存聊天消息数据
+14:57:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+14:58:19 INFO  - 开始保存聊天消息数据
+14:58:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒116毫秒
+14:59:03 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 107ms
+14:59:03 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 146ms
+14:59:03 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 190ms
+14:59:03 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 19ms
+14:59:03 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 101ms
+14:59:03 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 85ms
+14:59:19 INFO  - 开始保存聊天消息数据
+14:59:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒39毫秒
+14:59:36 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 57ms
+14:59:36 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 50ms
+14:59:36 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 84ms
+14:59:36 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 204ms
+14:59:36 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+14:59:36 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 65ms
+15:00:19 INFO  - 开始保存聊天消息数据
+15:00:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+15:01:19 INFO  - 开始保存聊天消息数据
+15:01:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+15:01:22 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 40ms
+15:01:22 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 90ms
+15:01:22 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 36ms
+15:01:22 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 85ms
+15:01:22 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 85ms
+15:01:22 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+15:02:19 INFO  - 开始保存聊天消息数据
+15:02:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+15:03:19 INFO  - 开始保存聊天消息数据
+15:03:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+15:04:19 INFO  - 开始保存聊天消息数据
+15:04:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+15:05:19 INFO  - 开始保存聊天消息数据
+15:05:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+15:05:51 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 131ms
+15:05:51 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 101ms
+15:05:51 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 56ms
+15:05:51 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 43ms
+15:05:51 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 63ms
+15:05:51 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 68ms
+15:06:19 INFO  - 开始保存聊天消息数据
+15:06:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+15:06:34 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 93ms
+15:06:34 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 84ms
+15:06:34 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 52ms
+15:06:34 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 183ms
+15:06:34 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 69ms
+15:06:34 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 35ms
+15:07:19 INFO  - 开始保存聊天消息数据
+15:08:19 INFO  - 开始保存聊天消息数据
+15:10:16 INFO  - 开始保存聊天消息数据
+15:10:16 INFO  - hzl 成功登录Openfire
+15:11:16 INFO  - 开始保存聊天消息数据
+15:12:16 INFO  - 开始保存聊天消息数据
+15:13:16 INFO  - 开始保存聊天消息数据
+16:07:19 INFO  - hzl 成功登录Openfire
+16:07:19 INFO  - 开始保存聊天消息数据
+16:07:20 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒710毫秒
+16:08:19 INFO  - 开始保存聊天消息数据
+16:08:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+16:09:08 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 304ms
+16:09:08 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 380ms
+16:09:08 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 45ms
+16:09:08 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 196ms
+16:09:10 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 2263ms
+16:09:10 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 63ms
+16:09:19 INFO  - 开始保存聊天消息数据
+16:09:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+16:10:10 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 38ms
+16:10:10 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 32ms
+16:10:10 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 81ms
+16:10:10 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 86ms
+16:10:10 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 70ms
+16:10:10 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 71ms
+16:10:19 INFO  - 开始保存聊天消息数据
+16:10:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+16:11:19 INFO  - 开始保存聊天消息数据
+16:11:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+16:11:40 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 37ms
+16:11:40 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 31ms
+16:11:40 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 100ms
+16:11:40 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+16:11:40 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 61ms
+16:11:40 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 99ms
+16:12:11 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 36ms
+16:12:12 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 32ms
+16:12:12 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 81ms
+16:12:12 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 62ms
+16:12:12 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 58ms
+16:12:12 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 129ms
+16:12:19 INFO  - 开始保存聊天消息数据
+16:12:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒4毫秒
+16:12:40 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 186ms
+16:12:40 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 69ms
+16:12:40 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 45ms
+16:12:40 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 149ms
+16:12:40 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 34ms
+16:12:40 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 72ms
+16:13:19 INFO  - 开始保存聊天消息数据
+16:13:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+16:14:09 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 139ms
+16:14:09 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 51ms
+16:14:09 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 109ms
+16:14:09 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 50ms
+16:14:10 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 101ms
+16:14:10 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 40ms
+16:14:19 INFO  - 开始保存聊天消息数据
+16:14:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+16:14:43 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 44ms
+16:14:43 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 69ms
+16:14:43 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 77ms
+16:14:43 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 51ms
+16:14:43 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 91ms
+16:14:44 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 24ms
+16:14:52 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 63ms
+16:14:52 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 82ms
+16:14:52 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 69ms
+16:14:52 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 41ms
+16:14:52 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 94ms
+16:14:52 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+16:15:07 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 190ms
+16:15:07 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 63ms
+16:15:07 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 63ms
+16:15:07 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 38ms
+16:15:07 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 91ms
+16:15:07 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+16:15:16 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 291ms
+16:15:16 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+16:15:19 INFO  - 开始保存聊天消息数据
+16:15:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+16:15:59 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 49ms
+16:16:00 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 257ms
+16:16:00 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 18ms
+16:16:19 INFO  - 开始保存聊天消息数据
+16:16:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+16:17:19 INFO  - 开始保存聊天消息数据
+16:17:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:18:19 INFO  - 开始保存聊天消息数据
+16:18:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+16:18:31 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 148ms
+16:18:31 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 668ms
+16:18:31 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 160ms
+16:18:52 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 51ms
+16:18:53 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 188ms
+16:18:53 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+16:19:13 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 51ms
+16:19:13 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 196ms
+16:19:13 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 27ms
+16:19:19 INFO  - 开始保存聊天消息数据
+16:19:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒7毫秒
+16:19:41 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+16:19:41 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 207ms
+16:19:42 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+16:19:56 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 67ms
+16:19:56 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 310ms
+16:19:57 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 28ms
+16:20:19 INFO  - 开始保存聊天消息数据
+16:20:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+16:20:22 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 146ms
+16:20:22 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 47ms
+16:20:22 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 644ms
+16:20:41 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 52ms
+16:20:41 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 192ms
+16:20:41 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 20ms
+16:20:52 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 47ms
+16:20:52 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 268ms
+16:20:52 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+16:21:10 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 28ms
+16:21:11 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 257ms
+16:21:11 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+16:21:19 INFO  - 开始保存聊天消息数据
+16:21:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+16:22:19 INFO  - 开始保存聊天消息数据
+16:22:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:23:19 INFO  - 开始保存聊天消息数据
+16:23:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+16:23:34 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 65ms
+16:23:34 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 217ms
+16:23:34 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 25ms
+16:23:46 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 46ms
+16:23:46 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 190ms
+16:23:47 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 17ms
+16:24:19 INFO  - 开始保存聊天消息数据
+16:24:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+16:24:24 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 54ms
+16:24:24 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 286ms
+16:24:25 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 56ms
+16:24:27 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 58ms
+16:24:27 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 198ms
+16:24:27 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 11ms
+16:24:28 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 67ms
+16:24:29 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 212ms
+16:24:29 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 11ms
+16:25:19 INFO  - 开始保存聊天消息数据
+16:25:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+16:26:19 INFO  - 开始保存聊天消息数据
+16:26:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+16:27:19 INFO  - 开始保存聊天消息数据
+16:27:19 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+16:28:30 INFO  - hzl 成功登录Openfire
+16:28:30 INFO  - 开始保存聊天消息数据
+16:28:30 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒755毫秒
+16:29:17 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 171ms
+16:29:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 62ms
+16:29:18 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 681ms
+16:29:30 INFO  - 开始保存聊天消息数据
+16:29:30 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+16:30:22 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 105ms
+16:30:22 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 218ms
+16:30:22 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+16:30:30 INFO  - 开始保存聊天消息数据
+16:30:30 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+16:31:09 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 51ms
+16:31:09 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 225ms
+16:31:10 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+16:31:30 INFO  - 开始保存聊天消息数据
+16:31:30 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+16:32:30 INFO  - 开始保存聊天消息数据
+16:32:30 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+16:33:30 INFO  - 开始保存聊天消息数据
+16:33:30 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+16:51:55 INFO  - 开始保存聊天消息数据
+16:51:56 INFO  - 聊天消息数据保存完成，共处理条 2 数据。耗时：0时0分0秒839毫秒
+16:52:04 INFO  - hzl 成功登录Openfire
+16:52:55 INFO  - 开始保存聊天消息数据
+16:52:55 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+16:53:55 INFO  - 开始保存聊天消息数据
+16:53:55 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+16:54:55 INFO  - 开始保存聊天消息数据
+16:54:55 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+16:55:55 INFO  - 开始保存聊天消息数据
+16:55:55 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+16:56:55 INFO  - 开始保存聊天消息数据
+16:56:55 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒20毫秒
+16:57:55 INFO  - 开始保存聊天消息数据
+16:57:55 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+16:58:55 INFO  - 开始保存聊天消息数据
+16:58:55 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+16:59:14 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 183ms
+16:59:14 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 48ms
+16:59:14 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 341ms
+16:59:15 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 43ms
+16:59:17 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetSearchHotWordListAsync (API) in 26ms
+16:59:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+16:59:55 INFO  - 开始保存聊天消息数据
+16:59:55 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+17:00:55 INFO  - 开始保存聊天消息数据
+17:00:55 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒5毫秒
+17:01:55 INFO  - 开始保存聊天消息数据
+17:01:55 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+17:02:55 INFO  - 开始保存聊天消息数据
+17:02:55 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+17:18:40 INFO  - 开始保存聊天消息数据
+17:18:40 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+17:18:40 INFO  - 开始保存聊天消息数据
+17:18:40 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:18:42 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 17ms
+17:18:42 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 28ms
+17:18:42 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 27ms
+17:18:42 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 121ms
+17:18:43 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticleDetailAsync (API) in 255ms
+17:18:43 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 141ms
+17:18:43 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 109ms
+17:18:45 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 2262ms
+17:18:45 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 64ms
+17:18:45 INFO  - hzl 成功登录Openfire
+17:18:49 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+17:18:53 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 23ms
+17:18:53 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 76ms
+17:18:53 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 72ms
+17:18:53 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 55ms
+17:18:53 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+17:18:54 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 53ms
+17:18:54 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 113ms
+17:18:54 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 157ms
+17:18:55 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 160ms
+17:18:55 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 63ms
+17:18:55 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 29ms
+17:19:17 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 60ms
+17:19:17 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 30ms
+17:19:17 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 75ms
+17:19:17 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 83ms
+17:19:17 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 122ms
+17:19:17 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 129ms
+17:19:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+17:19:20 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 33ms
+17:19:20 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 84ms
+17:19:20 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 72ms
+17:19:20 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 67ms
+17:19:21 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+17:19:31 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+17:19:40 INFO  - 开始保存聊天消息数据
+17:19:40 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+17:19:57 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetAskedDoctorHotBanner (API) in 33ms
+17:19:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetArticleType (API) in 53ms
+17:19:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 82ms
+17:19:57 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientArticlePageListAsync (API) in 56ms
+17:19:57 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+17:20:07 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+17:20:16 INFO  - hzl 成功登录Openfire
+17:20:17 INFO  - Executed action GD.API.Controllers.Utility.AccountController.Login (API) in 282ms
+17:20:17 INFO  - Executed action GD.API.Controllers.Utility.UtilityController.LoadHomePage (API) in 84ms
+17:20:18 INFO  - Executed action GD.API.Controllers.Utility.UserController.GetUserWeChatQRCodeAsync (API) in 416ms
+17:20:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 27ms
+17:20:23 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 82ms
+17:20:23 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 143ms
+17:20:23 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 56ms
+17:20:23 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 94ms
+17:20:23 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 77ms
+17:20:24 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 35ms
+17:20:24 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+17:20:26 INFO  - Executed action GD.API.Controllers.Utility.UtilityController.LoadHomePage (API) in 60ms
+17:20:26 INFO  - Executed action GD.API.Controllers.Utility.UserController.GetUserWeChatQRCodeAsync (API) in 151ms
+17:20:26 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+17:20:38 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.MissConsumptionAutomaticAsync (API) in 44ms
+17:20:38 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetMyBookedItemListOfCosmetologyAsync (API) in 75ms
+17:20:38 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+17:20:40 INFO  - 开始保存聊天消息数据
+17:20:40 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+17:21:04 INFO  - Executed action GD.API.Controllers.Utility.UtilityController.LoadHomePage (API) in 70ms
+17:21:04 INFO  - Executed action GD.API.Controllers.Utility.UserController.GetUserWeChatQRCodeAsync (API) in 186ms
+17:21:05 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+17:21:32 INFO  - Executed action GD.API.Controllers.Mall.MallController.ShowMyShoppingCartListOfCosmetologyAsync (API) in 52ms
+17:21:33 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 19ms
+17:21:40 INFO  - 开始保存聊天消息数据
+17:21:40 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+17:21:42 INFO  - Executed action GD.API.Controllers.Utility.UtilityController.LoadHomePage (API) in 65ms
+17:21:42 INFO  - Executed action GD.API.Controllers.Utility.UserController.GetUserWeChatQRCodeAsync (API) in 191ms
+17:21:42 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 27ms
+17:21:49 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+17:21:51 INFO  - Executed action GD.API.Controllers.Utility.UtilityController.LoadHomePage (API) in 84ms
+17:21:51 INFO  - Executed action GD.API.Controllers.Utility.UserController.GetUserWeChatQRCodeAsync (API) in 177ms
+17:21:52 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 22ms
+17:22:10 INFO  - Executed action GD.API.Controllers.Mall.MallController.ShowMyShoppingCartListOfCosmetologyAsync (API) in 28ms
+17:22:10 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+17:22:12 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.MissConsumptionAutomaticAsync (API) in 27ms
+17:22:12 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetMyBookedItemListOfCosmetologyAsync (API) in 71ms
+17:22:12 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 12ms
+17:22:13 INFO  - Executed action GD.API.Controllers.Utility.UtilityController.LoadHomePage (API) in 69ms
+17:22:13 INFO  - Executed action GD.API.Controllers.Utility.UserController.GetUserWeChatQRCodeAsync (API) in 150ms
+17:22:14 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 14ms
+17:22:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.MissConsumptionAutomaticAsync (API) in 32ms
+17:22:18 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetMyBookedItemListOfCosmetologyAsync (API) in 66ms
+17:22:19 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+17:22:40 INFO  - 开始保存聊天消息数据
+17:22:40 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:23:07 INFO  - Executed action GD.API.Controllers.Utility.UtilityController.LoadHomePage (API) in 72ms
+17:23:07 INFO  - Executed action GD.API.Controllers.Utility.UserController.GetUserWeChatQRCodeAsync (API) in 166ms
+17:23:07 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 15ms
+17:23:12 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.MissConsumptionAutomaticAsync (API) in 33ms
+17:23:12 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetMyBookedItemListOfCosmetologyAsync (API) in 51ms
+17:23:13 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 13ms
+17:23:24 INFO  - Executed action GD.API.Controllers.Utility.UtilityController.LoadHomePage (API) in 84ms
+17:23:24 INFO  - Executed action GD.API.Controllers.Utility.UserController.GetUserWeChatQRCodeAsync (API) in 132ms
+17:23:24 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+17:23:40 INFO  - 开始保存聊天消息数据
+17:23:40 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+17:24:40 INFO  - 开始保存聊天消息数据
+17:24:40 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+17:24:55 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 58ms
+17:24:55 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 105ms
+17:24:55 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 83ms
+17:24:55 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 46ms
+17:24:55 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 83ms
+17:24:55 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 57ms
+17:24:55 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 57ms
+17:24:55 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 16ms
+17:25:40 INFO  - 开始保存聊天消息数据
+17:25:40 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+17:27:24 INFO  - 开始保存聊天消息数据
+17:27:24 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+17:27:33 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 99ms
+17:27:33 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 97ms
+17:27:33 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 47ms
+17:27:33 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 72ms
+17:27:33 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 80ms
+17:27:33 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 102ms
+17:27:33 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 79ms
+17:27:34 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 480ms
+17:27:40 INFO  - 开始保存聊天消息数据
+17:27:40 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒6毫秒
+17:36:44 INFO  - 开始保存聊天消息数据
+17:36:44 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:36:53 INFO  - 开始保存聊天消息数据
+17:36:53 INFO  - hzl 成功登录Openfire
+17:36:53 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒840毫秒
+17:37:52 INFO  - 开始保存聊天消息数据
+17:37:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:38:52 INFO  - 开始保存聊天消息数据
+17:38:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+17:39:52 INFO  - 开始保存聊天消息数据
+17:39:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:40:52 INFO  - 开始保存聊天消息数据
+17:40:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:41:52 INFO  - 开始保存聊天消息数据
+17:41:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+17:42:52 INFO  - 开始保存聊天消息数据
+17:42:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:43:52 INFO  - 开始保存聊天消息数据
+17:43:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+17:44:52 INFO  - 开始保存聊天消息数据
+17:44:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:45:36 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 317ms
+17:45:36 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 316ms
+17:45:36 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 162ms
+17:45:36 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 164ms
+17:45:37 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 202ms
+17:45:37 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 60ms
+17:45:37 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 256ms
+17:45:37 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 159ms
+17:45:52 INFO  - 开始保存聊天消息数据
+17:45:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:45:56 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 44ms
+17:45:56 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 74ms
+17:45:56 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 26ms
+17:45:56 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 26ms
+17:45:56 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 66ms
+17:45:56 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 124ms
+17:45:56 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 30ms
+17:45:56 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 35ms
+17:46:19 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 27ms
+17:46:19 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 39ms
+17:46:19 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 80ms
+17:46:19 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 84ms
+17:46:19 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 131ms
+17:46:19 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 71ms
+17:46:19 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 24ms
+17:46:19 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 25ms
+17:46:52 INFO  - 开始保存聊天消息数据
+17:46:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+17:47:52 INFO  - 开始保存聊天消息数据
+17:47:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:48:32 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 199ms
+17:48:32 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 36ms
+17:48:32 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 30ms
+17:48:32 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 50ms
+17:48:32 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 68ms
+17:48:33 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 101ms
+17:48:33 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 23ms
+17:48:33 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 43ms
+17:48:36 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 65ms
+17:48:36 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 60ms
+17:48:37 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 127ms
+17:48:37 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 129ms
+17:48:37 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 192ms
+17:48:37 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 60ms
+17:48:37 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 61ms
+17:48:37 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 20ms
+17:48:52 INFO  - 开始保存聊天消息数据
+17:48:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:49:52 INFO  - 开始保存聊天消息数据
+17:49:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:50:33 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 129ms
+17:50:33 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 92ms
+17:50:33 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 93ms
+17:50:33 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 31ms
+17:50:34 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 23ms
+17:50:34 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 53ms
+17:50:34 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 38ms
+17:50:34 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 71ms
+17:50:52 INFO  - 开始保存聊天消息数据
+17:50:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+17:51:52 INFO  - 开始保存聊天消息数据
+17:51:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+17:52:52 INFO  - 开始保存聊天消息数据
+17:52:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+17:53:22 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 32ms
+17:53:22 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 28ms
+17:53:22 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 42ms
+17:53:22 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 56ms
+17:53:22 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 99ms
+17:53:23 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 23ms
+17:53:23 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 19ms
+17:53:23 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 51ms
+17:53:52 INFO  - 开始保存聊天消息数据
+17:53:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+17:54:52 INFO  - 开始保存聊天消息数据
+17:54:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:55:52 INFO  - 开始保存聊天消息数据
+17:55:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:56:52 INFO  - 开始保存聊天消息数据
+17:56:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+17:57:24 INFO  - Executed action GD.API.Controllers.Mall.MallController.GetMyShoppingCarTotal (API) in 42ms
+17:57:24 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetClientRecommandArticleListAsync (API) in 105ms
+17:57:24 INFO  - Executed action GD.API.Controllers.Manager.BannerController.GetHomeBannerAsync (API) in 58ms
+17:57:24 INFO  - Executed action GD.API.Controllers.FAQs.FAQsClientController.GetFAQsTrendsAsync (API) in 28ms
+17:57:24 INFO  - Executed action GD.API.Controllers.Doctor.HospitalController.GetHospitalPageListAsync (API) in 111ms
+17:57:24 INFO  - Executed action GD.API.Controllers.Utility.ArticleController.GetHomeHeadlineAsync (API) in 29ms
+17:57:25 INFO  - Executed action GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync (API) in 29ms
+17:57:25 INFO  - Executed action GD.API.Controllers.Manager.RecommendController.GetHomeRecommendAsync (API) in 40ms
+17:57:52 INFO  - 开始保存聊天消息数据
+17:57:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:58:52 INFO  - 开始保存聊天消息数据
+17:58:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒20毫秒
+17:59:52 INFO  - 开始保存聊天消息数据
+17:59:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:00:52 INFO  - 开始保存聊天消息数据
+18:00:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+18:01:52 INFO  - 开始保存聊天消息数据
+18:01:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+18:02:52 INFO  - 开始保存聊天消息数据
+18:02:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+18:03:52 INFO  - 开始保存聊天消息数据
+18:03:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:04:52 INFO  - 开始保存聊天消息数据
+18:04:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:05:52 INFO  - 开始保存聊天消息数据
+18:05:52 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒

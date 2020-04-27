@@ -1,0 +1,14 @@
+﻿11:27:58 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2Async (API) in 175ms
+11:28:12 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2Async (API) in 5014ms
+11:28:28 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2Async (API) in 4347ms
+11:29:19 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2Async (API) in 4418ms
+11:46:41 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2 (API) in 59833ms
+12:44:41 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2 (API) in 65212ms
+12:50:21 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2 (API) in 87130ms
+12:50:31 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2 (API) in 12465ms
+12:52:10 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2 (API) in 23820ms
+12:54:18 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2 (API) in 35645ms
+13:44:46 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2 (API) in 4339ms
+13:45:18 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2 (API) in 20637ms
+13:46:00 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2 (API) in 2038ms
+13:46:42 INFO  - Executed action GD.API.Controllers.System.DictionaryController.SaveFaqsSetting2 (API) in 23538ms

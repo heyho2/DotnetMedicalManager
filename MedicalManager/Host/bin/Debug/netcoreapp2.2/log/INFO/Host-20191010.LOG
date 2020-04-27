@@ -1,0 +1,13 @@
+﻿09:30:10 INFO  - Executed action GD.API.Controllers.System.UserController.GetLoginUserInfoAsync (API) in 1321ms
+09:30:11 INFO  - Executed action GD.API.Controllers.System.HomeController.GetOrderQtyAsync (API) in 79ms
+09:30:11 INFO  - Executed action GD.API.Controllers.System.HomeController.GetMerchantQtyAsync (API) in 37ms
+09:30:11 INFO  - Executed action GD.API.Controllers.System.HomeController.GetDoctorsQtyAsync (API) in 107ms
+09:30:11 INFO  - Executed action GD.API.Controllers.System.HomeController.GetUserQtyAsync (API) in 190ms
+16:03:56 INFO  - Executed action GD.API.Controllers.System.UserController.GetLoginUserInfoAsync (API) in 234ms
+16:03:57 INFO  - Executed action GD.API.Controllers.Merchant.MerchantController.GetHospitalSelectAsync (API) in 39ms
+16:03:57 INFO  - Executed action GD.API.Controllers.Merchant.MerchantController.GetMerchantPageAsync (API) in 86ms
+16:04:01 INFO  - Executed action GD.API.Controllers.Merchant.MerchantController.GetBusinessScopeListAsync (API) in 4119ms
+16:04:01 INFO  - Executed action GD.API.Controllers.System.DictionaryController.GetMerchantDictionaryAsync (API) in 4215ms
+16:04:09 INFO  - Executed action GD.API.Controllers.System.DictionaryController.GetFaqsSettingTypeAsync (API) in 27ms
+16:04:09 INFO  - Executed action GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync (API) in 129ms
+16:08:13 INFO  - Executed action GD.API.Controllers.System.DictionaryController.GetFaqsSettingTypeAsync (API) in 29ms

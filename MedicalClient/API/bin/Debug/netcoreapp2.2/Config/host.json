@@ -1,0 +1,52 @@
+{
+  "AllowCors": [ "*" ],
+  "ConnectionString": {
+    "RabbitMQws": "ws://39.108.118.44:15674/ws/",
+	"MySql": "server=39.108.118.44;database=Guodan_zero;uid=admin;pwd=passwd;charset=utf8;SslMode=none;",
+    "RabbitMQ": "host=39.108.118.44;username=guodan;password=GD@123456",
+    "Redis": "39.108.118.44:6379,password=passwd"
+  },
+  "Debug": true, // 是否启用调试功能
+  "EMaySMS": {
+    "AppID": "EUCP-EMY-SMS0-JCSRN",
+    "SecretKey": "DC53E8263F4EFF28",
+    "Sign": "希思美颜", // 短信签名
+    "URL": "http://mtn.b2m.cn/inter/sendBatchOnlySMS"
+  },
+  "MaxTokenExpires": 999, // Token默认最大有效天数
+  "ServerUrls": "http://*:8080",
+  "TencentSMS": {
+    "AppID": 1400106085,
+    "AppKey": "1c8c11b643f87cd17caa80d90f77291c",
+    "Sign": "希思美颜", // 短信签名
+    "URL": "https://yun.tim.qq.com/v5/tlssmssvr/sendsms",
+    "VerificationTemplate": 295699 // 验证码短信模板ID
+  },
+  "TokenKey": "^Goudan'CloudDoctor#",
+  "VerificationExpires": 1, // 验证码有效期分钟
+  "WeChat": {
+    "Client": {
+      "AppId": "wx805e49616e3c0451", // 用户端微信公众号ID
+      "AppSecret": "28ad4a33ad5f47156ee97b300f107e1c", // 用户端微信公众号密钥
+      "CallBack": "http://sm-api.ghysjt.com/api/v1/asdfasdf", // 微信支付回调
+      "MerchantAccount": "1502484441", // 微信商户号ID
+      "MerchantSecret": "087567639e6346b0a6c6af41d676ce88" // 微信商户号密钥
+    },
+    "Therapist": {
+      "AppId": "wx805e49616e3c0451", // 美疗师微信公众号ID
+      "AppSecret": "28ad4a33ad5f47156ee97b300f107e1c", // 美疗师微信公众号密钥
+      "BindUrl": "http://api.gd-comestic.com", // 美疗师绑定链接
+      "LoginUrl": "http://api.gd-comestic.com", // 美疗师登录链接
+      "Token": "asdfasdfasdf"
+    }
+  },
+  "XMPP": {
+    "domain": "gd",
+    "enable": true, // 是否启用XMPP
+    "httpBind": "ws://39.108.118.44:7070/ws/",
+    "key": "QtgUewKGdDf6aqys",
+    "manage": "http://39.108.118.44:9090/plugins/restapi/v1/users",
+    "port": 5222,
+    "presence": "http://39.108.118.44:9090/plugins/presence/status" // 用户在线状态探测
+  }
+}

@@ -1,0 +1,9 @@
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Models\bin\Release\netcoreapp2.2\Models.deps.json
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Models\bin\Release\netcoreapp2.2\Models.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Models\bin\Release\netcoreapp2.2\Models.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Models\obj\Release\netcoreapp2.2\Models.csprojAssemblyReference.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Models\obj\Release\netcoreapp2.2\Models.csproj.CoreCompileInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Models\obj\Release\netcoreapp2.2\Models.AssemblyInfoInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Models\obj\Release\netcoreapp2.2\Models.AssemblyInfo.cs
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Models\obj\Release\netcoreapp2.2\Models.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\Models\obj\Release\netcoreapp2.2\Models.pdb

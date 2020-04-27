@@ -1,0 +1,15 @@
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\bin\Debug\netcoreapp2.2\Decoration.deps.json
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\bin\Debug\netcoreapp2.2\Decoration.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\bin\Debug\netcoreapp2.2\Decoration.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\bin\Debug\netcoreapp2.2\BizBase.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\bin\Debug\netcoreapp2.2\Models.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\bin\Debug\netcoreapp2.2\Models.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\bin\Debug\netcoreapp2.2\Models.xml
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\bin\Debug\netcoreapp2.2\BizBase.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\obj\Debug\netcoreapp2.2\Decoration.csprojAssemblyReference.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\obj\Debug\netcoreapp2.2\Decoration.csproj.CoreCompileInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\obj\Debug\netcoreapp2.2\Decoration.AssemblyInfoInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\obj\Debug\netcoreapp2.2\Decoration.AssemblyInfo.cs
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\obj\Debug\netcoreapp2.2\Decoration.csproj.CopyComplete
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\obj\Debug\netcoreapp2.2\Decoration.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Decoration\obj\Debug\netcoreapp2.2\Decoration.pdb

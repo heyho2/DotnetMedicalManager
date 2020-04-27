@@ -1,0 +1,8 @@
+﻿16:25:33 INFO  - Executed action GD.API.Controllers.Merchant.MerchantController.GetMerchantPageAsync (API) in 625ms
+16:25:37 INFO  - Executed action GD.API.Controllers.Merchant.MerchantController.GetBusinessScopeList (API) in 4510ms
+17:45:03 INFO  - Executed action GD.Host.Controllers.AccountController.LoginAdmin (PAPI) in 296ms
+17:45:03 INFO  - Executed action GD.API.Controllers.Merchant.MerchantController.GetBusinessScopeList (API) in 36ms
+17:45:03 INFO  - Executed action GD.API.Controllers.Merchant.MerchantController.GetMerchantPageAsync (API) in 205ms
+17:45:06 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetReviewDoctorPageAsync (API) in 119ms
+17:45:13 INFO  - Executed action GD.API.Controllers.Merchant.MerchantController.GetReviewMerchantPageAsync (API) in 102ms
+17:45:14 INFO  - Executed action GD.API.Controllers.Doctor.DoctorController.GetReviewDoctorPageAsync (API) in 100ms

@@ -1,0 +1,9 @@
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Scheduler\bin\Release\netcoreapp2.2\Scheduler.deps.json
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Scheduler\bin\Release\netcoreapp2.2\Scheduler.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Scheduler\bin\Release\netcoreapp2.2\Scheduler.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Scheduler\obj\Release\netcoreapp2.2\Scheduler.csprojAssemblyReference.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Scheduler\obj\Release\netcoreapp2.2\Scheduler.csproj.CoreCompileInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Scheduler\obj\Release\netcoreapp2.2\Scheduler.AssemblyInfoInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Scheduler\obj\Release\netcoreapp2.2\Scheduler.AssemblyInfo.cs
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Scheduler\obj\Release\netcoreapp2.2\Scheduler.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Scheduler\obj\Release\netcoreapp2.2\Scheduler.pdb

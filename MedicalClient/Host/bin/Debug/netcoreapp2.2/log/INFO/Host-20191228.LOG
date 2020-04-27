@@ -1,0 +1,156 @@
+﻿16:48:22 INFO  - 开始保存聊天消息数据
+16:48:22 INFO  - admin 成功登录Openfire
+16:48:23 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分1秒100毫秒
+16:48:24 INFO  - 问答分配悬赏金完成，共处理条 6 数据。耗时：2秒
+16:49:21 INFO  - 开始保存聊天消息数据
+16:49:21 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:50:21 INFO  - 开始保存聊天消息数据
+16:50:21 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒23毫秒
+16:51:21 INFO  - 开始保存聊天消息数据
+16:51:21 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:52:21 INFO  - 开始保存聊天消息数据
+16:52:21 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+16:53:21 INFO  - 开始保存聊天消息数据
+16:53:21 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+16:54:21 INFO  - 开始保存聊天消息数据
+16:54:21 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+16:55:21 INFO  - 开始保存聊天消息数据
+16:55:21 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+16:56:21 INFO  - 开始保存聊天消息数据
+16:56:21 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+16:57:21 INFO  - 开始保存聊天消息数据
+16:57:21 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+16:58:21 INFO  - 开始保存聊天消息数据
+16:58:21 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+16:59:21 INFO  - 开始保存聊天消息数据
+16:59:21 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+17:00:21 INFO  - 开始保存聊天消息数据
+17:00:21 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒19毫秒
+17:15:45 INFO  - admin 成功登录Openfire
+17:15:45 INFO  - 开始保存聊天消息数据
+17:15:45 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒726毫秒
+17:15:47 INFO  - 问答分配悬赏金完成，共处理条 6 数据。耗时：2秒
+17:16:44 INFO  - 开始保存聊天消息数据
+17:16:44 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒22毫秒
+17:17:37 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 69ms
+17:17:37 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListAsync (API) in 168ms
+17:17:44 INFO  - 开始保存聊天消息数据
+17:17:44 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+17:18:23 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 58ms
+17:18:23 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListAsync (API) in 179ms
+17:18:25 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 39ms
+17:18:25 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListAsync (API) in 116ms
+17:18:44 INFO  - 开始保存聊天消息数据
+17:18:44 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:19:44 INFO  - 开始保存聊天消息数据
+17:19:44 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:20:44 INFO  - 开始保存聊天消息数据
+17:20:44 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒48毫秒
+17:21:44 INFO  - 开始保存聊天消息数据
+17:21:44 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒24毫秒
+17:22:01 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 97ms
+17:22:01 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListAsync (API) in 109ms
+17:22:41 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 18ms
+17:22:41 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListAsync (API) in 70ms
+17:22:44 INFO  - 开始保存聊天消息数据
+17:22:44 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+17:22:48 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 30ms
+17:22:49 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListAsync (API) in 46ms
+17:22:54 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetDoctorSelectListAsync (API) in 43ms
+17:23:44 INFO  - 开始保存聊天消息数据
+17:23:44 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒9毫秒
+17:24:44 INFO  - 开始保存聊天消息数据
+17:24:44 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:25:44 INFO  - 开始保存聊天消息数据
+17:25:44 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+17:27:15 INFO  - admin 成功登录Openfire
+17:27:15 INFO  - 开始保存聊天消息数据
+17:27:16 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分1秒158毫秒
+17:27:17 INFO  - 问答分配悬赏金完成，共处理条 6 数据。耗时：2秒
+17:28:15 INFO  - 开始保存聊天消息数据
+17:28:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:29:15 INFO  - 开始保存聊天消息数据
+17:29:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:30:15 INFO  - 开始保存聊天消息数据
+17:30:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:31:15 INFO  - 开始保存聊天消息数据
+17:31:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:32:15 INFO  - 开始保存聊天消息数据
+17:32:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:33:15 INFO  - 开始保存聊天消息数据
+17:33:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:34:15 INFO  - 开始保存聊天消息数据
+17:34:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:35:15 INFO  - 开始保存聊天消息数据
+17:35:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒37毫秒
+17:36:15 INFO  - 开始保存聊天消息数据
+17:36:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:37:15 INFO  - 开始保存聊天消息数据
+17:37:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:38:15 INFO  - 开始保存聊天消息数据
+17:38:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:39:15 INFO  - 开始保存聊天消息数据
+17:39:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:40:15 INFO  - 开始保存聊天消息数据
+17:40:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:41:15 INFO  - 开始保存聊天消息数据
+17:41:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒10毫秒
+17:42:15 INFO  - 开始保存聊天消息数据
+17:42:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+17:43:15 INFO  - 开始保存聊天消息数据
+17:43:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+17:44:15 INFO  - 开始保存聊天消息数据
+17:44:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:45:15 INFO  - 开始保存聊天消息数据
+17:45:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:46:13 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetDoctorSelectListAsync (API) in 95ms
+17:46:15 INFO  - 开始保存聊天消息数据
+17:46:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+17:47:15 INFO  - 开始保存聊天消息数据
+17:47:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+17:47:17 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 56ms
+17:47:17 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListAsync (API) in 152ms
+17:47:24 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetDoctorSelectListAsync (API) in 24ms
+17:47:30 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListAsync (API) in 43ms
+17:47:30 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 72ms
+17:47:34 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetOfficeSelectListWithDoctorOfHospitalAsync (API) in 90ms
+17:47:34 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetAppointmentPageListAsync (API) in 101ms
+17:47:42 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetDoctorSelectListAsync (API) in 26ms
+17:47:43 INFO  - Executed action GD.API.Controllers.Doctor.HospitalManagerController.GetDoctorScheduleByDateIntervalAsync (API) in 183ms
+17:48:15 INFO  - 开始保存聊天消息数据
+17:48:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:49:15 INFO  - 开始保存聊天消息数据
+17:49:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+17:50:15 INFO  - 开始保存聊天消息数据
+17:50:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:51:15 INFO  - 开始保存聊天消息数据
+17:51:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒17毫秒
+17:52:15 INFO  - 开始保存聊天消息数据
+17:52:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+17:53:15 INFO  - 开始保存聊天消息数据
+17:53:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:54:15 INFO  - 开始保存聊天消息数据
+17:54:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒18毫秒
+17:55:15 INFO  - 开始保存聊天消息数据
+17:55:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒11毫秒
+17:56:15 INFO  - 开始保存聊天消息数据
+17:56:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+17:57:15 INFO  - 开始保存聊天消息数据
+17:57:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+17:58:15 INFO  - 开始保存聊天消息数据
+17:58:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒12毫秒
+17:59:15 INFO  - 开始保存聊天消息数据
+17:59:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+18:00:15 INFO  - 开始保存聊天消息数据
+18:00:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒14毫秒
+18:01:15 INFO  - 开始保存聊天消息数据
+18:01:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:02:15 INFO  - 开始保存聊天消息数据
+18:02:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:03:15 INFO  - 开始保存聊天消息数据
+18:03:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+18:04:15 INFO  - 开始保存聊天消息数据
+18:04:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒25毫秒
+18:05:15 INFO  - 开始保存聊天消息数据
+18:05:15 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒
+18:06:15 INFO  - 开始保存聊天消息数据

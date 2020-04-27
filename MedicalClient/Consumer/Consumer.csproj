@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>GD.Consumer</RootNamespace>
+    <Authors>ZhouHaiyan</Authors>
+    <Product>GuoDan Cloud</Product>
+    <Company>GuoDan</Company>
+    <PackageId>GD.Consumer</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>http://api.guodan.com</PackageProjectUrl>
+    <Description>消费者业务模块</Description>
+    <PackageReleaseNotes>消费者业务模块</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Cosmetology\**" />
+    <Compile Remove="Medical\**" />
+    <EmbeddedResource Remove="Cosmetology\**" />
+    <EmbeddedResource Remove="Medical\**" />
+    <None Remove="Cosmetology\**" />
+    <None Remove="Medical\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GD.DataAccess" Version="1.0.1.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Component\Component.csproj" />
+    <ProjectReference Include="..\..\Models\Models.csproj" />
+    <ProjectReference Include="..\..\Utility\Utility.csproj" />
+    <ProjectReference Include="..\BizBase\BizBase.csproj" />
+    <ProjectReference Include="..\Dtos\Dtos.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\BizBase\bin\Debug\netcoreapp2.2\BizBase.deps.json
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\BizBase\bin\Debug\netcoreapp2.2\BizBase.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\BizBase\bin\Debug\netcoreapp2.2\BizBase.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\BizBase\obj\Debug\netcoreapp2.2\BizBase.csprojAssemblyReference.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\BizBase\obj\Debug\netcoreapp2.2\BizBase.csproj.CoreCompileInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\BizBase\obj\Debug\netcoreapp2.2\BizBase.AssemblyInfoInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\BizBase\obj\Debug\netcoreapp2.2\BizBase.AssemblyInfo.cs
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\BizBase\obj\Debug\netcoreapp2.2\BizBase.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\BizBase\obj\Debug\netcoreapp2.2\BizBase.pdb

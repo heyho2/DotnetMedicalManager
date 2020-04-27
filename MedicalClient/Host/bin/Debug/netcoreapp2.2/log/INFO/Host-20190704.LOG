@@ -1,0 +1,17 @@
+﻿15:22:13 INFO  - 开始保存聊天消息数据
+15:22:14 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分1秒162毫秒
+15:23:13 INFO  - 开始保存聊天消息数据
+15:23:13 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒13毫秒
+15:23:32 INFO  - Executed action GD.API.Controllers.FAQs.FAQsDoctorClientController.GetOwnedQuestionsPageListAsync (API) in 658ms
+15:24:11 INFO  - Executed action GD.API.Controllers.FAQs.FAQsDoctorClientController.GetFaqsQuestionPageAsync (API) in 203ms
+15:24:13 INFO  - 开始保存聊天消息数据
+15:24:13 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒8毫秒
+15:24:55 INFO  - Executed action GD.API.Controllers.FAQs.FAQsDoctorClientController.GetFaqsQuestionPageAsync (API) in 11899ms
+15:25:13 INFO  - 开始保存聊天消息数据
+15:25:13 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒29毫秒
+15:31:04 INFO  - 开始保存聊天消息数据
+15:31:05 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒738毫秒
+15:32:04 INFO  - 开始保存聊天消息数据
+15:32:04 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒16毫秒
+15:33:04 INFO  - 开始保存聊天消息数据
+15:33:04 INFO  - 聊天消息数据保存完成，共处理条 0 数据。耗时：0时0分0秒15毫秒

@@ -1,0 +1,9 @@
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Module\bin\Debug\netcoreapp2.2\Module.deps.json
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Module\bin\Debug\netcoreapp2.2\Module.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Module\bin\Debug\netcoreapp2.2\Module.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Module\obj\Debug\netcoreapp2.2\Module.csproj.CoreCompileInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Module\obj\Debug\netcoreapp2.2\Module.AssemblyInfoInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Module\obj\Debug\netcoreapp2.2\Module.AssemblyInfo.cs
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Module\obj\Debug\netcoreapp2.2\Module.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Module\obj\Debug\netcoreapp2.2\Module.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Module\obj\Debug\netcoreapp2.2\Module.csprojAssemblyReference.cache

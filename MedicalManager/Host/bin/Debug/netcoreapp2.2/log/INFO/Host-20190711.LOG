@@ -1,0 +1,7 @@
+﻿17:20:37 INFO  - Executed action GD.API.Controllers.Utility.AccountController.LoginAdmin (API) in 874ms
+17:20:38 INFO  - Executed action GD.API.Controllers.System.UserController.GetLoginUserInfoAsync (API) in 603ms
+17:20:38 INFO  - Executed action GD.API.Controllers.System.HomeController.GetUserQtyAsync (API) in 27ms
+17:20:38 INFO  - Executed action GD.API.Controllers.System.HomeController.GetOrderQtyAsync (API) in 124ms
+17:20:38 INFO  - Executed action GD.API.Controllers.System.HomeController.GetDoctorsQtyAsync (API) in 142ms
+17:20:39 INFO  - Executed action GD.API.Controllers.System.HomeController.GetMerchantQtyAsync (API) in 186ms
+17:30:21 INFO  - Executed action GD.API.Controllers.Faqs.FaqsController.SearchFaqsQuestionAsync (API) in 836ms

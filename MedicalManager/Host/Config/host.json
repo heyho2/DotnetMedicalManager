@@ -1,0 +1,57 @@
+﻿{
+  "AllowCors": [ "*" ],
+  "Dependencies": [ "Scheduler.dll", "PAPI.dll", "API.dll" ],
+  "ConnectionString": {
+    "MySql": "server=139.9.213.135;database=Guodan;uid=admin;pwd=ITpasswd123.;charset=utf8;SslMode=none;",
+    "MySqlReport": "server=192.168.5.11;database=Guodan;uid=report;pwd=passwd;charset=utf8;SslMode=none;",
+    "RabbitMQ": "host=192.168.5.101;username=guodan;password=GD@123456",
+    "RabbitMQws": "ws://192.168.5.101:15674/ws/",
+    "Redis": "139.9.213.135:6379,password=passwd"
+  },
+  "Swagger": true, // 是否启用Swagger
+  "Debug": true, // 是否启用调试功能
+  "EMaySMS": {
+    "AppID": "EUCP-EMY-SMS0-JCSRN",
+    "SecretKey": "DC53E8263F4EFF28",
+    "Sign": "希思美颜", // 短信签名
+    "URL": "http://mtn.b2m.cn/inter/sendBatchOnlySMS"
+  },
+  "MaxTokenExpires": 999, // Token默认最大有效天数
+  "ServerUrls": "http://*:8080",
+  "TencentSMS": {
+    "AppID": 1400106085,
+    "AppKey": "1c8c11b643f87cd17caa80d90f77291c",
+    "Sign": "希思美颜", // 短信签名
+    "URL": "https://yun.tim.qq.com/v5/tlssmssvr/sendsms",
+    "VerificationTemplate": 295699 // 验证码短信模板ID
+  },
+  "TokenKey": "^Goudan'CloudDoctor#",
+  "VerificationExpires": 1, // 验证码有效期分钟
+  "WeChat": {
+    "Client": {
+      "AppId": "wx805e49616e3c0451", // 用户端微信公众号ID
+      "AppSecret": "28ad4a33ad5f47156ee97b300f107e1c", // 用户端微信公众号密钥
+      "CallBack": "http://sm-api.ghysjt.com/api/v1/asdfasdf", // 微信支付回调
+      "MerchantAccount": "1502484441", // 微信商户号ID
+      "MerchantSecret": "087567639e6346b0a6c6af41d676ce88" // 微信商户号密钥
+    }
+  },
+  "XMPP": {
+    "domain": "192.168.5.101",
+    "enable": false, // 是否启用XMPP
+    "httpBind": "ws://192.168.5.101:7070/ws/",
+    "key": "QtgUewKGdDf6aqys",
+    "manage": "http://192.168.5.101:9090/plugins/restapi/v1/users",
+    "port": 5222,
+    "presence": "http://192.168.5.101:9090/plugins/presence/status" // 用户在线状态探测
+  },
+  "WeatherForecast": {
+    "Url": "https://tianqiapi.com/api?version=v6&appid=81265516&appsecret=5retxxqc",
+    "ShenZhen": "101280601"
+  },
+  "EnterpriseWeChat": {
+    "Appid": "ww2b3a557a5153e919", //企业微信Id
+    "PlatformAgentid": "1000015", //平台应用Id
+    "PlatformSecret": "92Uf7CsTI8OXpAlg_1Kj7XM7_V9IfkSh2aqaNDHcRY4" //平台应用sc
+  }
+}

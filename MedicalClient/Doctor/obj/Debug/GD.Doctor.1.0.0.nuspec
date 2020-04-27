@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GD.Doctor</id>
+    <version>1.0.0</version>
+    <authors>ZhouHaiyan</authors>
+    <owners>ZhouHaiyan</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>http://api.guodan.com/</projectUrl>
+    <description>医生业务模块</description>
+    <releaseNotes>医生业务模块</releaseNotes>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="GD.Dtos" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="GD.Models" version="1.0.0.1" exclude="Build,Analyzers" />
+        <dependency id="GD.Utility" version="1.0.1.9" exclude="Build,Analyzers" />
+        <dependency id="GD.DataAccess" version="1.0.1.7" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Doctor\bin\Debug\netcoreapp2.2\Doctor.dll" target="lib\netcoreapp2.2\Doctor.dll" />
+  </files>
+</package>

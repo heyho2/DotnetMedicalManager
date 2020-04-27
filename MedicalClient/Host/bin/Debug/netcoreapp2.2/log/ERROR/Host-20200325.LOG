@@ -1,0 +1,86 @@
+﻿11:21:01 ERROR - ::1
+11:21:01 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'evaliation_tag' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Dapper.SimpleCRUD.GetAsync[T](IDbConnection connection, Object id, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.BizBase.BaseBiz`1.GetAsync(String id) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\BizBase\BaseBiz.cs:line 23
+   at GD.API.Controllers.Doctor.HospitalController.GetEvaluvationAsync(String evaluationGuid) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Doctor\HospitalController.cs:line 249
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+11:22:44 ERROR - ::1
+11:22:44 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'evaliation_tag' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Dapper.SimpleCRUD.GetAsync[T](IDbConnection connection, Object id, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.BizBase.BaseBiz`1.GetAsync(String id) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\BizBase\BaseBiz.cs:line 23
+   at GD.API.Controllers.Doctor.HospitalController.GetEvaluvationAsync(String evaluationGuid) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Doctor\HospitalController.cs:line 249
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+11:22:56 ERROR - ::1
+11:22:56 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'evaliation_tag' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Dapper.SimpleCRUD.GetAsync[T](IDbConnection connection, Object id, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.BizBase.BaseBiz`1.GetAsync(String id) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\BizBase\BaseBiz.cs:line 23
+   at GD.API.Controllers.Doctor.HospitalController.GetEvaluvationAsync(String evaluationGuid) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Doctor\HospitalController.cs:line 249
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+11:23:20 ERROR - ::1
+11:23:20 ERROR - MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'evaliation_tag' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location where exception was thrown ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in C:\projects\dapper\Dapper\SqlMapper.Async.cs:line 419
+   at Dapper.SimpleCRUD.GetAsync[T](IDbConnection connection, Object id, IDbTransaction transaction, Nullable`1 commandTimeout)
+   at GD.BizBase.BaseBiz`1.GetAsync(String id) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\BizBase\BaseBiz.cs:line 23
+   at GD.API.Controllers.Doctor.HospitalController.GetEvaluvationAsync(String evaluationGuid) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Doctor\HospitalController.cs:line 249
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+11:43:51 ERROR - userGuid:d9cceb7807694360a8a048d805ee464e   rulesType:Login   message:Sequence contains no elements
+11:44:06 ERROR - 获取网页授权token和openid失败 https://api.weixin.qq.com/sns/oauth2/access_token?appid=wxa083ef693af4d8a5&secret=4bdab45c1f536c0f6aa9f5f02d18ff28&code=&grant_type=authorization_code：missing code, hints: [ req_id: VfmbL8yFe-Grl6vA ] 
+ at GD.Module.WeChat.WeChartApi+<Oauth2AccessTokenAsync>d__7.MoveNext:
+11:56:30 ERROR - userGuid:d9cceb7807694360a8a048d805ee464e   rulesType:Login   message:Sequence contains no elements
+11:56:39 ERROR - 获取网页授权token和openid失败 https://api.weixin.qq.com/sns/oauth2/access_token?appid=wxa083ef693af4d8a5&secret=4bdab45c1f536c0f6aa9f5f02d18ff28&code=&grant_type=authorization_code：missing code, hints: [ req_id: 3fmbdzXBe-5yy3bA ] 
+ at GD.Module.WeChat.WeChartApi+<Oauth2AccessTokenAsync>d__7.MoveNext:

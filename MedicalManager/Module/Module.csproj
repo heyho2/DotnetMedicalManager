@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>GD.Module</RootNamespace>
+    <PackageId>GD.Module</PackageId>
+    <Authors>ZhouHaiyan</Authors>
+    <Company>GuoDan</Company>
+    <Product>GuoDan Cloud</Product>
+    <Description>通用业务模块</Description>
+    <PackageProjectUrl>http://api.guodan.com</PackageProjectUrl>
+    <PackageReleaseNotes>通用业务模块</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>

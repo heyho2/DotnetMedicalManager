@@ -1,0 +1,14 @@
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\bin\Debug\netcoreapp2.2\Dtos.deps.json
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\bin\Debug\netcoreapp2.2\Dtos.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\bin\Debug\netcoreapp2.2\Dtos.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\bin\Debug\netcoreapp2.2\Dtos.xml
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\obj\Debug\netcoreapp2.2\Dtos.csproj.CoreCompileInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\obj\Debug\netcoreapp2.2\Dtos.AssemblyInfoInputs.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\obj\Debug\netcoreapp2.2\Dtos.AssemblyInfo.cs
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\obj\Debug\netcoreapp2.2\Dtos.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\obj\Debug\netcoreapp2.2\Dtos.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\obj\Debug\netcoreapp2.2\Dtos.csprojAssemblyReference.cache
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\bin\Debug\netcoreapp2.2\Models.dll
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\bin\Debug\netcoreapp2.2\Models.pdb
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\bin\Debug\netcoreapp2.2\Models.xml
+D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalManager\Dtos\obj\Debug\netcoreapp2.2\Dtos.csproj.CopyComplete

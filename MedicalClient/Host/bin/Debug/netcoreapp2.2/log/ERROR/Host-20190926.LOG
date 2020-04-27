@@ -1,0 +1,841 @@
+﻿09:03:25 ERROR - 运营IM账号登录失败，本轮医生出席定时任务取消执行 at DoctorPresent.Run
+10:00:24 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [N.Obxa02242067] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:00:24 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [TcWF8a02258011!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:00:24 ERROR - ::1
+10:00:24 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:00:24 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [b40PbA0225e535] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:00:24 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [wsg.1a0225z115!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:00:24 ERROR - ::1
+10:00:24 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:03:08 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [GKSvFa03894731] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:03:08 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [d92QHA03898879!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:03:08 ERROR - ::1
+10:03:08 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:03:26 ERROR - 运营IM账号登录失败，本轮医生出席定时任务取消执行 at DoctorPresent.Run
+10:04:42 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [Rd9JBA04832067] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:04:43 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [zap9CA0483z183!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:04:43 ERROR - ::1
+10:04:43 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:04:56 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [13avfa0497e535] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:04:57 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [URf.dA0497szb1!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:04:57 ERROR - ::1
+10:04:57 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:05:11 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [fIo7fA0511ha57] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:05:11 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [L2oC905114688!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:05:11 ERROR - ::1
+10:05:11 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:05:29 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [2s3Hra05291547] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:05:29 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [tPfQiA05293401!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:05:29 ERROR - ::1
+10:05:29 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:06:04 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [n1n0hA05642067] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:06:04 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [cjUBiA0565z216!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:06:04 ERROR - ::1
+10:06:04 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:06:28 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [mbHkDA05891507] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:06:28 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [wVLiDA05893401!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:06:28 ERROR - ::1
+10:06:28 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:19:07 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [RthS903488161] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:19:08 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [gJlmTa03488886!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:19:08 ERROR - ::1
+10:19:08 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:22:12 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [moMw905322067] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:22:12 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [OFb550532b420!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:22:12 ERROR - ::1
+10:22:12 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:27:24 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [7ZOY4a08443064] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:27:24 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [PyNGBa08442555!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:27:24 ERROR - ::1
+10:27:24 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:28:24 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [GRLLLa09043064] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:28:24 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [a8ioaa0904z199!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:28:24 ERROR - ::1
+10:28:24 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:31:47 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [GsSuha0107e508] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:31:47 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [VVi.Oa0107z104!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:31:47 ERROR - ::1
+10:31:47 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:32:43 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [T_f5Ba01632067] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:32:43 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [0NVw0163z119!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:32:43 ERROR - ::1
+10:32:43 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:33:33 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [zE02134100] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:33:33 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [wc88EA0213z198!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:33:33 ERROR - ::1
+10:33:33 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:35:12 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [gvu34a03138162] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:35:12 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [VNz7qA0313z187!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:35:12 ERROR - ::1
+10:35:12 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:36:50 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [NrItha04102994] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:36:50 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [5IVuuA04104693!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:36:50 ERROR - ::1
+10:36:50 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:37:58 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [eUowqa0478e264] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:37:58 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [rxvv.a0478z214!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:37:58 ERROR - ::1
+10:37:58 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:40:24 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [MK1dKa0624ha64] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:40:24 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [MCBkDa06244688!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:40:24 ERROR - ::1
+10:40:24 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:40:56 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [kjGcJA06564731] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:40:56 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [IqmQGA0656sz20!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:40:56 ERROR - ::1
+10:40:56 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:44:08 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [Z2IuXa08484100] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:44:08 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [Bk6msa0848z111!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:44:08 ERROR - ::1
+10:44:08 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:44:25 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [kT1h708653612] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:44:25 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [_iIfqa0865sz44!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:44:25 ERROR - ::1
+10:44:25 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:52:47 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [NVLo.A0367hb97] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:52:47 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [ZZaMGA03678888!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:52:47 ERROR - ::1
+10:52:47 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:53:30 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [CpCUYa0410sha8] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:53:30 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [oX8uoa04104693!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:53:30 ERROR - ::1
+10:53:30 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:54:01 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [WigZaA0441ha57] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:54:01 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [Ru4DCa0441z217!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:54:01 ERROR - ::1
+10:54:01 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:54:02 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [KCHIXa04423942] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:54:02 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [RDtIjA0443z201!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:54:02 ERROR - ::1
+10:54:02 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:54:04 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [8o5S804441547] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:54:04 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [duK5Ra04444685!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:54:04 ERROR - ::1
+10:54:04 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:54:05 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [5TfqaA04451107] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:54:05 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [UIxNJa04453401!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:54:05 ERROR - ::1
+10:54:05 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:54:05 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [uQCFCA0446e264] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:54:05 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [NQRfqa0446z188!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:54:05 ERROR - ::1
+10:54:05 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:54:06 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [0YrA_0446hb97] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:54:06 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [NdJuwa04464696!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:54:06 ERROR - ::1
+10:54:06 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:54:19 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [EYGeqa04593612] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:54:19 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [iMarna0459sz21!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:54:19 ERROR - ::1
+10:54:19 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:54:39 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [jXv2Ga04791507] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:54:39 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [3JD9va0479z106!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:54:39 ERROR - ::1
+10:54:39 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+10:56:09 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [w4I5805703612] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+10:56:10 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [7GdVCa0570z218!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+10:56:10 ERROR - ::1
+10:56:10 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+11:00:30 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [7yQZcA08303064] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+11:00:30 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [0CtykA0830sz22!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+11:00:30 ERROR - ::1
+11:00:30 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+11:03:26 ERROR - 运营IM账号登录失败，本轮医生出席定时任务取消执行 at DoctorPresent.Run
+12:03:26 ERROR - 运营IM账号登录失败，本轮医生出席定时任务取消执行 at DoctorPresent.Run
+13:03:26 ERROR - 运营IM账号登录失败，本轮医生出席定时任务取消执行 at DoctorPresent.Run
+14:10:08 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [H3aBOa02084100] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+14:10:08 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [1riixa0208sz45!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+14:10:08 ERROR - ::1
+14:10:08 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+14:28:53 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [UCv3ka03331501] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+14:28:53 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [Uk7z4a03336914!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+14:28:53 ERROR - ::1
+14:28:53 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+14:29:09 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [ZBE7DA03494100] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+14:29:09 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [AdzR_0349sz21!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+14:29:09 ERROR - ::1
+14:29:09 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+14:29:14 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [jMGjsa0355sha8] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+14:29:15 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [rJG8Ea03558051!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+14:29:15 ERROR - ::1
+14:29:15 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+14:31:15 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [f8vWDa0475ha64] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+14:31:15 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [EUpphA0475b420!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+14:31:15 ERROR - ::1
+14:31:15 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+14:34:28 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [t8WvDA0668e668] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+14:34:28 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [_da5_a0668z218!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+14:34:28 ERROR - ::1
+14:34:28 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+14:34:35 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [gJ7BTa06753612] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+14:34:35 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [eE_Mxa0675z189!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+14:34:35 ERROR - ::1
+14:34:35 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+14:34:42 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [YxA6Ja06823064] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+14:34:42 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [1PVJ0682z101!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+14:34:42 ERROR - ::1
+14:34:42 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+14:37:01 ERROR - 获取微信公众号TOKEN报错 https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx805e49616e3c0451&secret=03584b2a09e82ef7806c883a74677685：invalid ip 113.118.188.80 ipv6 ::ffff:113.118.188.80, not in whitelist hint: [f8fleA08213580] 
+ at GD.Module.WeChat.WeChartApi+<GetAccessToken>d__2.MoveNext:
+14:37:01 ERROR - 获取微信JS接口的临时票据出错 https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=&type=jsapi：access_token missing hint: [Ll12Ya0822z197!] 
+ at GD.Module.WeChat.WeChartApi+<GetJsAPITicket>d__4.MoveNext:
+14:37:01 ERROR - ::1
+14:37:01 ERROR - System.ArgumentNullException: Value cannot be null.
+Parameter name: value
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 818
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings) in /_/Src/Newtonsoft.Json/JsonConvert.cs:line 786
+   at GD.Module.WeChat.WeChartApi.GetJsAPITicket(String appId, String secret) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WeChartApi.cs:line 117
+   at GD.Module.WeChat.WechatJSSDKHelper.GetSignatureAsync(String appId, String appSecret, String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\Module\WeChat\WechatJSSDKHelper.cs:line 24
+   at GD.API.Controllers.Consumer.ConsumerController.GetClientWechatJSSDKSignatureAsync(String url) in D:\WorkProjects\MultiServices\trunk\BackEnd\Medical\MedicalClient\API\Controllers\Consumer\ConsumerController.cs:line 336
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()

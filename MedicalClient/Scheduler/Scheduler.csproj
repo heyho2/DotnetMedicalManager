@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>GD.Scheduler</RootNamespace>
+    <PackageId>GD.Scheduler</PackageId>
+    <Authors>ZhouHaiyan</Authors>
+    <Product>GuoDan Cloud</Product>
+    <Company>GuoDan</Company>
+    <Description>定时任务</Description>
+    <PackageProjectUrl>http://api.guodan.com</PackageProjectUrl>
+    <PackageReleaseNotes>定时任务</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GD.AppSettings" Version="1.0.0.2" />
+    <PackageReference Include="GD.Common" Version="1.0.1.17" />
+    <PackageReference Include="GD.Communication" Version="1.0.1.16" />
+    <PackageReference Include="GD.Crontab" Version="1.0.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Utility\Utility.csproj" />
+    <ProjectReference Include="..\Doctor\Doctor.csproj" />
+    <ProjectReference Include="..\FAQs\FAQs.csproj" />
+  </ItemGroup>
+
+</Project>
